@@ -1,0 +1,1001 @@
+id,DOE,Age,First_Name,Last_Name,Gender,profession,Working_experience,Salary,Platforms,Hobbies,Counttyandstate,demographics,indebt,isHomeOwner,Owns_Car,Phone
+1001,4/27/2021 11:02,56,Frodo,Baggins,male,Software Engineer,3,"$19,774 ",Instagram,Sports,"America, Wisconsin",Urban,TRUE,FALSE,FALSE,030-0074321
+1002,4/27/2021 11:02,46,Abed,Nadir,female,Student,2,"$10,564 ",Facebook,Travel,"America, South Carolina",Urban,TRUE,TRUE,TRUE,(5) 555-4729
+1003,4/27/2021 11:02,32,Walter,/White,male,Marketer Manager,8,"$13,258 ",Instagram,Sports,"America, New Hampshire",Sub_Urban,FALSE,FALSE,FALSE,(5) 555-3932
+1004,4/27/2021 11:02,60,Dwight,Schrute,non-binary,Student,5,"$12,500 ",Instagram,Travel,"America, South Carolina",Urban,FALSE,TRUE,FALSE,(171) 555-7788
+1005,4/27/2021 11:02,25,Jon,Snow,male,Software Engineer,1,"$14,566 ",Instagram,Lifestlye,"America, Arizona",Urban,FALSE,TRUE,TRUE,0921-12 34 65
+1006,4/27/2021 11:02,38,Ron,Swanson,male,Marketer Manager,3,"$19,179 ",Facebook,Travel,"America, Missouri",Urban,TRUE,TRUE,TRUE,0621-08460
+1007,4/27/2021 11:02,56,Jeff,  Winger,male,Student,8,"$16,881 ",YouTube,Sports,"America, Florida",Urban,TRUE,TRUE,TRUE,88.60.15.31
+1008,4/27/2021 11:03,36,Sherlock,Holmes,male,Marketer Manager,4,"$13,636 ",Instagram,Sports,"America, ",Urban,TRUE,FALSE,TRUE,(91) 555 22 82
+1009,4/27/2021 11:03,40,Gandalf,,non-binary,Marketer Manager,7,"$16,030 ",YouTube,Lifestlye,"America, Pennsylvania",Sub_Urban,FALSE,FALSE,TRUE,91.24.45.40
+1010,4/27/2021 11:03,28,Peter,Parker,non-binary,Marketer Manager,2,"$10,223 ",Instagram,Sports,"America, Michigan",Sub_Urban,TRUE,FALSE,TRUE,(604) 555-4729
+1011,4/27/2021 11:03,28,   Samwise,Gamgee,female,Student,7,"$16,297 ",YouTube,Lifestlye,"America, Minnesota",Urban,TRUE,TRUE,FALSE,(171) 555-1212
+1012,4/27/2021 11:03,41,Harry,...Potter,non-binary,Marketer Manager,5,"$10,350 ",Facebook,Sports,"America, ",Sub_Urban,FALSE,FALSE,FALSE,(1) 135-5555
+1013,4/27/2021 11:03,53,Don,Draper,non-binary,Student,5,"$17,314 ",Facebook,Sports,"America, ",Rural,FALSE,TRUE,TRUE,(5) 555-3392
+1014,4/27/2021 11:03,57,Leslie,Knope,female,Software Engineer,6,"$11,928 ",Instagram,Lifestlye,"America, Illinois",Urban,FALSE,TRUE,FALSE,0452-076545
+1015,4/27/2021 11:03,41,Toby,Flenderson_,non-binary,Student,9,"$17,743 ",YouTube,Travel,"America, California",Rural,TRUE,TRUE,FALSE,(11) 555-7647
+1016,4/27/2021 11:03,20,        Ron,Weasley,male,Software Engineer,6,"$18,540 ",Facebook,Sports,"America, Georgia",Sub_Urban,TRUE,TRUE,FALSE,(171) 555-2282
+1017,4/27/2021 11:03,39,Michael ,Scott,male,Student,8,"$14,732 ",Instagram,Travel,"America, Florida",Sub_Urban,TRUE,TRUE,FALSE,0241-039123
+1018,4/27/2021 11:03,19,Clark,Kent,female,Marketer Manager,7,"$11,017 ",Instagram,Sports,"America, Pennsylvania",Rural,FALSE,TRUE,TRUE,40.67.88.88
+1019,4/27/2021 11:03,41,Creed,Braton,female,Student,9,"$12,226 ",Facebook,Sports,"America, ",Sub_Urban,FALSE,FALSE,FALSE,(171) 555-0297
+1020,4/27/2021 11:03,61,Anakin,Skywalker,female,Marketer Manager,4,"$17,206 ",Facebook,Sports,"America, ",Urban,FALSE,FALSE,FALSE,7675-3425
+1021,4/27/2021 11:03,47,Anakin,Skywalker,male,Software Engineer,2,"$17,170 ",Instagram,Sports,"America, Ohio",Rural,FALSE,FALSE,TRUE,(11) 555-9857
+1022,4/27/2021 11:03,55,maria,anders ,non-binary,Student,7,"$16,207 ",YouTube,Travel,"America, Florida",Urban,TRUE,FALSE,TRUE,(91) 555 94 44
+1023,4/27/2021 11:03,19,ana,trujillo,male,Marketer Manager,6,"$12,419 ",YouTube,Travel,"Brazil, Washington",Rural,TRUE,TRUE,TRUE,20.16.10.16
+1024,4/27/2021 11:03,38,antonio,moreno,female,Software Engineer,1,"$16,240 ",YouTube,Sports,"Brazil, Indiana",Sub_Urban,TRUE,TRUE,TRUE,0695-34 67 21
+1025,4/27/2021 11:03,50,thomas,hardy,non-binary,Software Engineer,9,"$11,893 ",Instagram,Sports,"Brazil, Tennessee",Rural,TRUE,FALSE,FALSE,089-0877310
+1026,4/27/2021 11:03,29,christina,berglund,non-binary,Student,9,"$15,322 ",Facebook,Travel,"Brazil, Maryland",Rural,TRUE,FALSE,TRUE,40.32.21.21
+1027,4/27/2021 11:03,39,hanna,moos,male,Software Engineer,2,"$17,718 ",Instagram,Lifestlye,"Brazil, District of Columbia",Urban,TRUE,FALSE,FALSE,011-4988260
+1028,4/27/2021 11:03,61,frédérique,citeaux,female,Marketer Manager,3,"$16,878 ",Facebook,Lifestlye,"Brazil, Ohio",Sub_Urban,TRUE,FALSE,FALSE,(1) 354-2534
+1029,4/27/2021 11:03,42,martín,sommer,male,Software Engineer,5,"$11,125 ",YouTube,Travel,"Brazil, ",Urban,TRUE,FALSE,TRUE,(93) 203 4560
+1030,4/27/2021 11:03,44,laurence,lebihan,non-binary,Software Engineer,5,"$13,117 ",YouTube,Sports,"Brazil, Florida",Sub_Urban,FALSE,FALSE,TRUE,(95) 555 82 82
+1031,4/27/2021 11:03,59,elizabeth,lincoln,male,Marketer Manager,1,"$14,161 ",Facebook,Sports,"Brazil, North Carolina",Urban,FALSE,FALSE,TRUE,(11) 555-9482
+1032,4/27/2021 11:03,45,victoria,ashworth,male,Software Engineer,8,"$14,042 ",Facebook,Lifestlye,"Brazil, Indiana",Rural,TRUE,FALSE,TRUE,(503) 555-7555
+1033,4/27/2021 11:03,33,patricio,simpson,female,Software Engineer,8,"$14,433 ",Instagram,Lifestlye,"Brazil, New York",Urban,FALSE,TRUE,TRUE,(2) 283-2951
+1034,4/27/2021 11:03,32,francisco,chang,female,Software Engineer,4,"$18,638 ",YouTube,Travel,"Brazil, Arizona",Sub_Urban,TRUE,TRUE,TRUE,(21) 555-0091
+1035,4/27/2021 11:03,64,yang,wang,non-binary,Software Engineer,7,"$12,658 ",Instagram,Lifestlye,"brazil, Minnesota",Sub_Urban,TRUE,TRUE,FALSE,(5) 555-1340
+1036,4/27/2021 11:03,61,pedro,afonso,male,Marketer Manager,3,"$13,483 ",Instagram,Travel,"Brazil, ",Rural,FALSE,TRUE,FALSE,(503) 555-6874
+1037,4/27/2021 11:03,20,elizabeth,brown,male,Software Engineer,6,"$12,944 ",Instagram,Lifestlye,"Brazil, New York",Sub_Urban,TRUE,FALSE,FALSE,2967 542
+1038,4/27/2021 11:03,54,sven,ottlieb,male,Marketer Manager,9,"$17,210 ",YouTube,Lifestlye,"Brazil, Florida",Urban,TRUE,TRUE,FALSE,(198) 555-8888
+1039,4/27/2021 11:03,24,janine,labrune,non-binary,Software Engineer,1,"$17,653 ",Instagram,Lifestlye,"Brazil, Mississippi",Rural,TRUE,FALSE,TRUE,0555-09876
+1040,4/27/2021 11:03,38,ann,devon,non-binary,Software Engineer,5,"$18,787 ",Instagram,Sports,"Brazil, Virginia",Sub_Urban,TRUE,TRUE,TRUE,30.59.84.10
+1041,4/27/2021 11:04,26,roland,mendel,female,Software Engineer,4,"$11,986 ",Instagram,Sports,"Brazil, MassachUnited States of America s of Americaetts",Sub_Urban,TRUE,FALSE,FALSE,61.77.61.10
+1042,4/27/2021 11:04,56,aria,cruz,female,Software Engineer,8,"$11,074 ",Instagram,Sports,"Brazil, MassachUnited States of America s of Americaetts",Urban,TRUE,FALSE,FALSE,(604) 555-3392
+1043,4/27/2021 11:04,35,diego,roel,female,Marketer Manager,1,"$14,305 ",Instagram,Lifestlye,"Brazil, New York",Urban,TRUE,TRUE,FALSE,(509) 555-7969
+1044,4/27/2021 11:04,21,martine,rancé,male,Marketer Manager,9,"$13,007 ",Instagram,Travel,"Brazil, New York",Rural,FALSE,TRUE,TRUE,069-0245984
+1045,4/27/2021 11:04,42,maria,larsson,male,Marketer Manager,6,"$10,969 ",YouTube,Travel,"Brazil, Michigan",Sub_Urban,FALSE,FALSE,TRUE,(415) 555-5938
+1046,4/27/2021 11:04,31,peter,franken,female,Student,4,"$18,772 ",Instagram,Travel,"Brazil, Wisconsin",Urban,TRUE,FALSE,TRUE,(9) 331-6954
+1047,4/27/2021 11:04,26,carine,schmitt,male,Software Engineer,9,"$12,824 ",Facebook,Travel,"Brazil, Nebraska",Rural,FALSE,FALSE,FALSE,(8) 34-56-12
+1048,4/27/2021 11:04,43,paolo,accorti,female,Software Engineer,5,"$11,211 ",Instagram,Sports,"Turkey, California",Sub_Urban,TRUE,TRUE,FALSE,(503) 555-9573
+1049,4/27/2021 11:04,19,lino,rodriguez,non-binary,Marketer Manager,5,"$10,229 ",Instagram,Sports,"Turkey, West Virginia",Sub_Urban,TRUE,TRUE,TRUE,035-640230
+1050,4/27/2021 11:04,37,eduardo,saavedra,female,Student,5,"$14,284 ",YouTube,Lifestlye,"Nigeria, Wisconsin",Rural,TRUE,FALSE,TRUE,(02) 201 24 67
+1051,4/27/2021 11:04,45,josé,freyre,non-binary,Software Engineer,1,"$13,185 ",YouTube,Lifestlye,"Nigeria, ",Rural,TRUE,TRUE,FALSE,(514) 555-8054
+1052,4/27/2021 11:04,64,andré,fonseca,male,Marketer Manager,1,"$10,501 ",Facebook,Travel,"Nigeria, Colorado",Urban,FALSE,FALSE,FALSE,0342-023176
+1053,4/27/2021 11:04,24,howard,snyder,female,Software Engineer,8,"$10,048 ",Facebook,Sports,"Nigeria, Texas",Sub_Urban,FALSE,TRUE,TRUE,(171) 555-7733
+1054,4/27/2021 11:04,61,manuel,pereira,male,Software Engineer,8,"$13,566 ",YouTube,Travel,"London, ",Sub_Urban,FALSE,TRUE,FALSE,(1) 135-5333
+1055,4/27/2021 11:04,25,mario,pontes,non-binary,Marketer Manager,6,"$13,055 ",YouTube,Lifestlye,"London, North Carolina",Sub_Urban,FALSE,TRUE,TRUE,(907) 555-7584
+1056,4/27/2021 11:04,64,carlos,hernández,non-binary,Marketer Manager,4,"$18,880 ",Instagram,Lifestlye,"Japan, California",Rural,TRUE,TRUE,TRUE,0221-0644327
+1057,4/27/2021 11:04,52,yoshi,latimer,non-binary,Software Engineer,2,"$10,386 ",YouTube,Travel,"Japan, Virginia",Urban,FALSE,TRUE,FALSE,(1) 42.34.22.66
+1058,4/27/2021 11:04,31,patricia,mckenna,male,Software Engineer,2,"$10,969 ",Facebook,Lifestlye,"Japan, Illinois",Sub_Urban,TRUE,FALSE,FALSE,(5) 552-3745
+1059,4/27/2021 11:04,34,helen,bennett,male,Marketer Manager,9,"$19,197 ",Instagram,Travel,"Japan, Pennsylvania",Rural,TRUE,FALSE,FALSE,6562-9722
+1060,4/27/2021 11:04,53,philip,cramer,male,Software Engineer,5,"$15,820 ",Facebook,Sports,"Japan, Iowa",Sub_Urban,FALSE,TRUE,TRUE,(1) 356-5634
+1061,4/27/2021 11:04,57,daniel,tonini,male,Software Engineer,4,"$13,052 ",Instagram,Travel,"Japan, District of Columbia",Urban,TRUE,FALSE,FALSE,(21) 555-4252
+1062,4/27/2021 11:04,21,annette,roulet,non-binary,Marketer Manager,1,"$17,397 ",YouTube,Sports,"Japan, California",Sub_Urban,FALSE,FALSE,FALSE,(11) 555-1189
+1063,4/27/2021 11:04,19,yoshi,tannamuri,non-binary,Software Engineer,7,"$12,302 ",Facebook,Sports,"Japan, ",Urban,FALSE,TRUE,TRUE,0372-035188
+1064,4/27/2021 11:04,23,john,steel,female,Software Engineer,3,"$12,283 ",Instagram,Lifestlye,"Japan, Illinois",Urban,FALSE,FALSE,TRUE,(1) 123-5555
+1065,4/27/2021 11:04,59,renate,messner,female,Student,6,"$19,799 ",Instagram,Lifestlye,"Japan, Missouri",Sub_Urban,FALSE,TRUE,FALSE,(505) 555-5939
+1066,4/27/2021 11:04,21,jaime,yorres,male,Marketer Manager,5,"$14,366 ",YouTube,Lifestlye,"Japan, MassachUnited States of America s of Americaetts",Sub_Urban,FALSE,FALSE,TRUE,0522-556721
+1067,4/27/2021 11:04,46,carlos,gonzález,non-binary,Student,5,"$10,122 ",YouTube,Travel,"Japan, Iowa",Urban,TRUE,FALSE,TRUE,(21) 555-3412
+1068,4/27/2021 11:04,35,felipe,izquierdo,non-binary,Student,5,"$16,799 ",YouTube,Travel,"Japan, MassachUnited States of America s of Americaetts",Rural,FALSE,FALSE,TRUE,0897-034214
+1069,4/27/2021 11:04,43,fran,wilson,non-binary,Student,1,"$19,472 ",Facebook,Lifestlye,"Japan, MassachUnited States of America s of Americaetts",Urban,FALSE,FALSE,FALSE,(91) 745 6200
+1070,4/27/2021 11:04,61,giovanni,rovelli,female,Software Engineer,1,"$13,727 ",Instagram,Travel,"Japan, Pennsylvania",Sub_Urban,TRUE,FALSE,FALSE,07-98 92 35
+1071,4/27/2021 11:04,51,catherine,dewey,female,Software Engineer,3,"$18,450 ",YouTube,Lifestlye,"Japan, California",Sub_Urban,FALSE,FALSE,TRUE,(208) 555-8097
+1072,4/27/2021 11:04,27,jean,fresnière,non-binary,Student,4,"$19,139 ",Facebook,Travel,"Japan, ",Rural,FALSE,FALSE,TRUE,(171) 555-1717
+1073,4/27/2021 11:04,53,alexander,feuer,non-binary,Student,5,"$14,958 ",Facebook,Sports,"Japan, North Carolina",Urban,TRUE,TRUE,TRUE,31 12 34 56
+1074,4/27/2021 11:04,31,simon,crowther,non-binary,Student,2,"$10,524 ",Facebook,Sports,"Japan, New York",Urban,TRUE,TRUE,FALSE,(1) 47.55.60.10
+1075,4/27/2021 11:04,48,yvonne,moncada,female,Software Engineer,8,"$19,079 ",YouTube,Lifestlye,"Japan, ",Urban,FALSE,TRUE,TRUE,(307) 555-4680
+1076,4/27/2021 11:04,32,rene,phillips,non-binary,Student,2,"$18,399 ",YouTube,Travel,"Japan, ",Sub_Urban,TRUE,TRUE,TRUE,(071) 23 67 22 20
+1077,4/27/2021 11:04,25,henriette,pfalzheim,non-binary,Student,9,"$10,148 ",Instagram,Travel,"Japan, Utah",Urban,FALSE,FALSE,FALSE,(503) 555-3612
+1078,4/27/2021 11:04,31,marie,bertrand,male,Marketer Manager,2,"$18,001 ",Instagram,Sports,"Japan, Texas",Rural,TRUE,FALSE,TRUE,(406) 555-5834
+1079,4/27/2021 11:04,40,guillermo,fernández,male,Marketer Manager,9,"$10,437 ",YouTube,Sports,"Japan, Minnesota",Sub_Urban,FALSE,FALSE,FALSE,0251-031259
+1080,4/27/2021 11:04,57,georg,pipps,female,Software Engineer,7,"$13,749 ",Facebook,Lifestlye,"Japan, Alabama",Sub_Urban,FALSE,TRUE,FALSE,(5) 555-2933
+1081,4/27/2021 11:04,38,isabel,castro,non-binary,Marketer Manager,8,"$18,186 ",Facebook,Sports,"Japan, New York",Urban,FALSE,TRUE,FALSE,(11) 555-2167
+1082,4/27/2021 11:04,33,bernardo,batista,non-binary,Marketer Manager,2,"$14,453 ",Facebook,Lifestlye,"Japan, Alabama",Rural,TRUE,TRUE,TRUE,(206) 555-8257
+1083,4/27/2021 11:04,62,lúcia,carvalho,male,Marketer Manager,7,"$15,336 ",Instagram,Sports,"Japan, Florida",Sub_Urban,FALSE,FALSE,TRUE,86 21 32 43
+1084,4/27/2021 11:04,35,horst,kloss,female,Software Engineer,6,"$14,551 ",Facebook,Sports,"Japan, State Work in",Sub_Urban,TRUE,TRUE,FALSE,78.32.54.86
+1085,4/27/2021 11:04,64,sergio,gutiérrez,male,Marketer Manager,4,"$12,823 ",Instagram,Travel,"Germany, Washington",Urban,FALSE,FALSE,TRUE,26.47.15.10
+1086,4/27/2021 11:05,41,paula,wilson,male,Software Engineer,7,"$15,728 ",Instagram,Sports,"Germany, Indiana",Urban,FALSE,TRUE,FALSE,0711-020361
+1087,4/27/2021 11:05,43,maurizio,moroni,male,Student,4,"$18,677 ",Facebook,Sports,"Germany, Tennessee",Rural,FALSE,FALSE,TRUE,981-443655
+1088,4/27/2021 11:05,42,janete,limeira,male,Marketer Manager,2,"$18,391 ",Facebook,Lifestlye,"Germany, Maryland",Urban,FALSE,TRUE,FALSE,(14) 555-8122
+1089,4/27/2021 11:05,62,michael,holz,non-binary,Software Engineer,7,"$11,982 ",YouTube,Sports,"Germany, District of Columbia",Rural,FALSE,FALSE,FALSE,(206) 555-4112
+1090,4/27/2021 11:05,58,alejandra,camino,non-binary,Marketer Manager,8,"$16,996 ",YouTube,Lifestlye,"Germany, Ohio",Sub_Urban,TRUE,TRUE,TRUE,90-224 8858
+1091,4/27/2021 11:05,46,jonas,bergulfsen,male,Student,2,"$19,663 ",Facebook,Sports,"Germany, ",Rural,TRUE,TRUE,TRUE,(26) 642-7012
+1092,4/27/2021 11:05,32,jose,pavarotti,female,Software Engineer,5,"$12,311 ",Instagram,Sports,"Germany, Florida",Rural,TRUE,FALSE,TRUE,030-0074321
+1093,4/27/2021 11:05,62,hari,kumar,female,Software Engineer,1,"$17,225 ",Instagram,Lifestlye,"Germany, North Carolina",Rural,FALSE,FALSE,TRUE,(5) 555-4729
+1094,4/27/2021 11:05,18,jytte,petersen,female,Software Engineer,7,"$19,713 ",Instagram,Travel,"Germany, Indiana",Sub_Urban,FALSE,TRUE,FALSE,(5) 555-3932
+1095,4/27/2021 11:05,42,dominique,perrier,female,Student,8,"$10,604 ",Instagram,Lifestlye,"Germany, New York",Urban,TRUE,FALSE,FALSE,(171) 555-7788
+1096,4/27/2021 11:05,24,art,braunschweiger,male,Student,6,"$18,175 ",Instagram,Lifestlye,"Germany, Arizona",Sub_Urban,FALSE,TRUE,TRUE,0921-12 34 65
+1097,4/27/2021 11:05,26,pascale,cartrain,non-binary,Student,5,"$15,785 ",YouTube,Lifestlye,"Germany, Michigan",Urban,FALSE,FALSE,TRUE,0621-08460
+1098,4/27/2021 11:05,41,liz,nixon,female,Software Engineer,6,"$19,609 ",Facebook,Travel,"Germany, New Hampshire",Rural,FALSE,TRUE,FALSE,88.60.15.31
+1099,4/27/2021 11:05,18,liu,wong,male,Student,2,"$14,597 ",YouTube,Sports,"Germany, New York",Rural,TRUE,FALSE,TRUE,(91) 555 22 82
+1100,4/27/2021 11:05,61,karin,josephs,female,Marketer Manager,1,"$17,759 ",Instagram,Lifestlye,"Germany, ",Rural,TRUE,TRUE,TRUE,91.24.45.40
+1101,4/27/2021 11:05,25,miguel,paolino,female,Student,7,"$17,532 ",Instagram,Lifestlye,"Germany, California",Rural,TRUE,TRUE,TRUE,(604) 555-4729
+1102,4/27/2021 11:05,41,anabela,domingues,male,Software Engineer,7,"$18,740 ",Instagram,Travel,"Germany, ",Rural,TRUE,TRUE,TRUE,(171) 555-1212
+1103,4/27/2021 11:05,28,helvetius,nagy,non-binary,Marketer Manager,2,"$10,838 ",Instagram,Lifestlye,"Germany, ",Urban,TRUE,FALSE,FALSE,(1) 135-5555
+1104,4/27/2021 11:05,34,palle,ibsen,non-binary,Student,2,"$13,815 ",Facebook,Sports,"Germany, MassachUnited States of America s of Americaetts",Urban,FALSE,TRUE,FALSE,(5) 555-3392
+1105,4/27/2021 11:05,25,mary,saveley,male,Marketer Manager,1,"$10,847 ",Instagram,Travel,"Germany, New York",Rural,FALSE,FALSE,TRUE,0452-076545
+1106,4/27/2021 11:05,52,paul,henriot,non-binary,Marketer Manager,8,"$14,709 ",Facebook,Sports,"Germany, ",Sub_Urban,FALSE,FALSE,FALSE,(11) 555-7647
+1107,4/27/2021 11:05,52,rita,müller,male,Software Engineer,8,"$14,507 ",Instagram,Sports,"Germany, Missouri",Sub_Urban,FALSE,FALSE,TRUE,(171) 555-2282
+1108,4/27/2021 11:05,50,pirkko,koskitalo,male,Marketer Manager,1,"$16,575 ",Facebook,Travel,"Germany, Illinois",Rural,TRUE,TRUE,TRUE,0241-039123
+1109,4/27/2021 11:05,22,paula,parente,male,Marketer Manager,8,"$14,773 ",YouTube,Lifestlye,"Germany, Pennsylvania",Urban,TRUE,FALSE,TRUE,40.67.88.88
+1110,4/27/2021 11:05,59,karl,jablonski,non-binary,Software Engineer,9,"$14,468 ",Instagram,Sports,"Germany, Iowa",Sub_Urban,FALSE,FALSE,FALSE,(171) 555-0297
+1111,4/27/2021 11:05,56,matti,karttunen,male,Software Engineer,4,"$15,192 ",Facebook,Sports,"Germany, ",Sub_Urban,TRUE,FALSE,FALSE,7675-3425
+1112,4/27/2021 11:05,58,zbyszek,piestrzeniewicz,female,Software Engineer,1,"$13,320 ",YouTube,Sports,"Germany, ",Sub_Urban,FALSE,TRUE,FALSE,(11) 555-9857
+1113,4/27/2021 11:05,45,maria,anders,non-binary,Marketer Manager,1,"$14,698 ",Instagram,Sports,"Germany, California",Rural,FALSE,FALSE,FALSE,(91) 555 94 44
+1114,4/27/2021 11:05,24,ana,trujillo,non-binary,Marketer Manager,3,"$14,311 ",Instagram,Travel,"Germany, District of Columbia",Sub_Urban,FALSE,FALSE,FALSE,20.16.10.16
+1115,4/27/2021 11:05,26,antonio,moreno,non-binary,Marketer Manager,5,"$13,673 ",Instagram,Travel,"Germany, MassachUnited States of America s of Americaetts",Sub_Urban,FALSE,FALSE,TRUE,0695-34 67 21
+1116,4/27/2021 11:05,25,thomas,hardy,non-binary,Software Engineer,5,"$11,564 ",Facebook,Sports,"Germany, New York",Sub_Urban,TRUE,FALSE,TRUE,089-0877310
+1117,4/27/2021 11:05,29,christina,berglund,female,Student,9,"$11,840 ",Facebook,Lifestlye,"Germany, MassachUnited States of America s of Americaetts",Sub_Urban,FALSE,TRUE,FALSE,40.32.21.21
+1118,4/27/2021 11:05,51,hanna,moos,non-binary,Marketer Manager,2,"$16,058 ",YouTube,Sports,"Germany, ",Urban,TRUE,TRUE,FALSE,011-4988260
+1119,4/27/2021 11:05,50,frédérique,citeaux,non-binary,Student,2,"$17,131 ",Facebook,Lifestlye,"Germany, ",Rural,FALSE,FALSE,FALSE,(1) 354-2534
+1120,4/27/2021 11:05,40,martín,sommer,male,Software Engineer,6,"$10,726 ",Facebook,Sports,"Germany, New Jersey",Rural,FALSE,FALSE,TRUE,(93) 203 4560
+1121,4/27/2021 11:05,41,laurence,lebihan,non-binary,Marketer Manager,9,"$19,436 ",Instagram,Lifestlye,"Germany, New York",Urban,FALSE,FALSE,FALSE,(95) 555 82 82
+1122,4/27/2021 11:05,54,elizabeth,lincoln,female,Student,1,"$16,697 ",Instagram,Sports,"Germany, Wisconsin",Urban,FALSE,FALSE,TRUE,(11) 555-9482
+1123,4/27/2021 11:05,52,victoria,ashworth,female,Marketer Manager,9,"$19,257 ",Instagram,Lifestlye,"Germany, Virginia",Rural,TRUE,TRUE,TRUE,(503) 555-7555
+1124,4/27/2021 11:05,61,patricio,simpson,female,Marketer Manager,9,"$10,282 ",Instagram,Sports,"Germany, Michigan",Sub_Urban,FALSE,TRUE,FALSE,(2) 283-2951
+1125,4/27/2021 11:05,57,francisco,chang,female,Marketer Manager,9,"$11,081 ",Instagram,Sports,"Germany, ",Sub_Urban,TRUE,TRUE,TRUE,(21) 555-0091
+1126,4/27/2021 11:05,39,yang,wang,non-binary,Student,5,"$13,885 ",Instagram,Lifestlye,"Germany, Pennsylvania",Rural,FALSE,TRUE,TRUE,(5) 555-1340
+1127,4/27/2021 11:05,44,pedro,afonso,non-binary,Software Engineer,9,"$12,881 ",Instagram,Travel,"Germany, Florida",Sub_Urban,FALSE,FALSE,FALSE,(503) 555-6874
+1128,4/27/2021 11:05,52,elizabeth,brown,female,Marketer Manager,4,"$12,970 ",YouTube,Lifestlye,"Germany, Tennessee",Urban,FALSE,FALSE,TRUE,2967 542
+1129,4/27/2021 11:05,18,sven,ottlieb,female,Software Engineer,2,"$19,344 ",YouTube,Travel,"Germany, Illinois",Sub_Urban,TRUE,TRUE,FALSE,(198) 555-8888
+1130,4/27/2021 11:05,52,janine,labrune,non-binary,Software Engineer,6,"$16,985 ",YouTube,Sports,"Germany, Texas",Sub_Urban,FALSE,TRUE,TRUE,0555-09876
+1131,4/27/2021 11:05,54,ann,devon,female,Student,4,"$10,947 ",YouTube,Lifestlye,"Germany, Michigan",Sub_Urban,FALSE,FALSE,FALSE,30.59.84.10
+1132,4/27/2021 11:05,64,roland,mendel,male,Student,6,"$14,760 ",Instagram,Lifestlye,"Germany, District of Columbia",Rural,FALSE,FALSE,FALSE,61.77.61.10
+1133,4/27/2021 11:05,31,aria,cruz,female,Software Engineer,3,"$19,909 ",YouTube,Lifestlye,"Germany, ",Urban,FALSE,FALSE,TRUE,(604) 555-3392
+1134,4/27/2021 11:05,20,diego,roel,female,Marketer Manager,6,"$10,066 ",Instagram,Travel,"Germany, ",Sub_Urban,FALSE,FALSE,FALSE,(509) 555-7969
+1135,4/27/2021 11:05,18,martine,rancé,male,Student,2,"$18,828 ",YouTube,Travel,"Germany, ",Rural,TRUE,FALSE,TRUE,069-0245984
+1136,4/27/2021 11:05,22,maria,larsson,male,Marketer Manager,2,"$18,505 ",Facebook,Sports,"Germany, ",Sub_Urban,TRUE,TRUE,TRUE,(415) 555-5938
+1137,4/27/2021 11:05,43,peter,franken,non-binary,Marketer Manager,9,"$10,564 ",YouTube,Travel,"Germany, Nebraska",Urban,FALSE,TRUE,FALSE,(9) 331-6954
+1138,4/27/2021 11:05,31,carine,schmitt,non-binary,Marketer Manager,7,"$19,793 ",YouTube,Travel,"Germany, MassachUnited States of America s of Americaetts",Sub_Urban,FALSE,FALSE,TRUE,(8) 34-56-12
+1139,4/27/2021 11:05,56,paolo,accorti,male,Software Engineer,3,"$19,017 ",Instagram,Sports,"Germany, Colorado",Urban,TRUE,FALSE,FALSE,(503) 555-9573
+1140,4/27/2021 11:05,44,lino,rodriguez,male,Marketer Manager,1,"$13,670 ",YouTube,Lifestlye,"Germany, ",Sub_Urban,FALSE,TRUE,TRUE,035-640230
+1141,4/27/2021 11:05,26,eduardo,saavedra,non-binary,Software Engineer,8,"$19,217 ",Facebook,Lifestlye,"Germany, Georgia",Urban,TRUE,FALSE,TRUE,(02) 201 24 67
+1142,4/27/2021 11:05,32,josé,freyre,female,Software Engineer,6,"$12,251 ",Instagram,Sports,"Germany, ",Sub_Urban,FALSE,TRUE,FALSE,(514) 555-8054
+1143,4/27/2021 11:05,32,andré,fonseca,male,Marketer Manager,7,"$10,804 ",Instagram,Lifestlye,"Germany, District of Columbia",Urban,FALSE,TRUE,TRUE,0342-023176
+1144,4/27/2021 11:05,43,howard,snyder,non-binary,Marketer Manager,9,"$14,631 ",YouTube,Travel,"Germany, Texas",Sub_Urban,TRUE,TRUE,TRUE,(171) 555-7733
+1145,4/27/2021 11:05,59,manuel,pereira,female,Marketer Manager,5,"$19,583 ",Instagram,Sports,"Germany, Virginia",Sub_Urban,FALSE,TRUE,TRUE,(1) 135-5333
+1146,4/27/2021 11:05,30,mario,pontes,male,Marketer Manager,1,"$11,235 ",Instagram,Sports,"Germany, Oklahoma",Rural,TRUE,FALSE,TRUE,(907) 555-7584
+1147,4/27/2021 11:05,49,carlos,hernández,female,Software Engineer,7,"$16,720 ",Instagram,Sports,"Germany, Ohio",Rural,TRUE,FALSE,TRUE,0221-0644327
+1148,4/27/2021 11:05,56,yoshi,latimer,non-binary,Marketer Manager,5,"$16,906 ",Instagram,Lifestlye,"Germany, Ohio",Urban,TRUE,TRUE,TRUE,(1) 42.34.22.66
+1149,4/27/2021 11:05,49,patricia,mckenna,male,Marketer Manager,3,"$16,016 ",Instagram,Sports,"Germany, South Carolina",Sub_Urban,FALSE,FALSE,TRUE,(5) 552-3745
+1150,4/27/2021 11:05,21,helen,bennett,female,Software Engineer,9,"$13,549 ",Instagram,Sports,"Germany, Texas",Urban,TRUE,FALSE,TRUE,6562-9722
+1151,4/27/2021 11:05,47,philip,cramer,male,Student,1,"$17,938 ",Facebook,Sports,"Germany, MassachUnited States of America s of Americaetts",Rural,TRUE,FALSE,FALSE,(1) 356-5634
+1152,4/27/2021 11:05,54,daniel,tonini,female,Student,1,"$14,141 ",YouTube,Lifestlye,"Germany, ",Urban,FALSE,FALSE,TRUE,(21) 555-4252
+1153,4/27/2021 11:06,40,annette,roulet,non-binary,Software Engineer,1,"$16,966 ",Facebook,Travel,"Germany, Wisconsin",Urban,FALSE,TRUE,TRUE,(11) 555-1189
+1154,4/27/2021 11:06,56,yoshi,tannamuri,non-binary,Student,3,"$19,546 ",Instagram,Sports,"Germany, Indiana",Rural,FALSE,FALSE,FALSE,0372-035188
+1155,4/27/2021 11:06,62,john,steel,male,Software Engineer,6,"$15,335 ",Instagram,Travel,"Germany, Oklahoma",Sub_Urban,FALSE,TRUE,FALSE,(1) 123-5555
+1156,4/27/2021 11:06,32,renate,messner,female,Marketer Manager,3,"$15,077 ",YouTube,Lifestlye,"Germany, Florida",Urban,FALSE,TRUE,FALSE,(505) 555-5939
+1157,4/27/2021 11:06,60,jaime,yorres,male,Marketer Manager,8,"$15,611 ",Facebook,Lifestlye,"Germany, ",Rural,FALSE,FALSE,TRUE,0522-556721
+1158,4/27/2021 11:06,46,carlos,gonzález,male,Student,2,"$18,089 ",YouTube,Lifestlye,"Germany, Pennsylvania",Sub_Urban,TRUE,TRUE,FALSE,(21) 555-3412
+1159,4/27/2021 11:06,53,felipe,izquierdo,female,Marketer Manager,9,"$12,892 ",Facebook,Lifestlye,"Germany, Colorado",Rural,FALSE,FALSE,FALSE,0897-034214
+1160,4/27/2021 11:06,30,fran,wilson,female,Student,3,"$15,577 ",Instagram,Travel,"Germany, New Jersey",Urban,TRUE,FALSE,TRUE,(91) 745 6200
+1161,4/27/2021 11:06,49,giovanni,rovelli,female,Student,5,"$13,618 ",YouTube,Sports,"Germany, New York",Sub_Urban,FALSE,TRUE,TRUE,07-98 92 35
+1162,4/27/2021 11:06,24,catherine,dewey,non-binary,Marketer Manager,8,"$11,559 ",YouTube,Lifestlye,"Germany, Illinois",Sub_Urban,TRUE,FALSE,FALSE,(208) 555-8097
+1163,4/27/2021 11:06,39,jean,fresnière,male,Marketer Manager,2,"$16,683 ",Instagram,Lifestlye,"Germany, ",Rural,TRUE,TRUE,FALSE,(171) 555-1717
+1164,4/27/2021 11:06,45,alexander,feuer,male,Student,6,"$11,507 ",YouTube,Travel,"Germany, Georgia",Rural,FALSE,TRUE,TRUE,31 12 34 56
+1165,4/27/2021 11:06,19,simon,crowther,non-binary,Marketer Manager,5,"$12,063 ",Facebook,Travel,"Germany, Texas",Rural,FALSE,FALSE,TRUE,(1) 47.55.60.10
+1166,4/27/2021 11:06,59,yvonne,moncada,female,Software Engineer,9,"$13,642 ",Facebook,Lifestlye,"Germany, MassachUnited States of America s of Americaetts",Sub_Urban,TRUE,FALSE,TRUE,(307) 555-4680
+1167,4/27/2021 11:06,62,rene,phillips,non-binary,Marketer Manager,5,"$12,000 ",Facebook,Sports,"Germany, Florida",Sub_Urban,FALSE,FALSE,TRUE,(071) 23 67 22 20
+1168,4/27/2021 11:06,23,henriette,pfalzheim,non-binary,Marketer Manager,2,"$11,294 ",Facebook,Sports,"Germany, Virginia",Urban,FALSE,TRUE,TRUE,(503) 555-3612
+1169,4/27/2021 11:06,45,marie,bertrand,non-binary,Software Engineer,5,"$14,065 ",Instagram,Lifestlye,"Germany, District of Columbia",Sub_Urban,TRUE,FALSE,FALSE,(406) 555-5834
+1170,4/27/2021 11:06,45,guillermo,fernández,male,Marketer Manager,4,"$18,014 ",YouTube,Travel,"Germany, New York",Urban,TRUE,TRUE,TRUE,0251-031259
+1171,4/27/2021 11:06,61,georg,pipps,non-binary,Marketer Manager,7,"$19,945 ",Facebook,Lifestlye,"Germany, Florida",Rural,TRUE,TRUE,TRUE,(5) 555-2933
+1172,4/27/2021 11:06,61,isabel,castro,male,Student,6,"$11,603 ",Instagram,Lifestlye,"Germany, ",Rural,FALSE,FALSE,TRUE,(11) 555-2167
+1173,4/27/2021 11:06,37,bernardo,batista,male,Marketer Manager,2,"$11,322 ",YouTube,Travel,"Germany, New York",Sub_Urban,FALSE,FALSE,TRUE,(206) 555-8257
+1174,4/27/2021 11:06,47,lúcia,carvalho,male,Marketer Manager,5,"$15,956 ",YouTube,Lifestlye,"Germany, Illinois",Rural,FALSE,FALSE,TRUE,86 21 32 43
+1175,4/27/2021 11:06,28,horst,kloss,female,Software Engineer,7,"$12,441 ",Instagram,Lifestlye,"Germany, California",Rural,FALSE,TRUE,FALSE,78.32.54.86
+1176,4/27/2021 11:06,45,sergio,gutiérrez,male,Student,7,"$11,098 ",Instagram,Lifestlye,"Germany, Illinois",Sub_Urban,TRUE,FALSE,TRUE,26.47.15.10
+1177,4/27/2021 11:06,42,paula,wilson,male,Student,5,"$15,073 ",Facebook,Travel,"Germany, ",Urban,FALSE,TRUE,FALSE,0711-020361
+1178,4/27/2021 11:06,56,maurizio,moroni,female,Student,9,"$19,697 ",YouTube,Sports,"Germany, Texas",Sub_Urban,TRUE,FALSE,TRUE,981-443655
+1179,4/27/2021 11:06,50,janete,limeira,male,Marketer Manager,4,"$19,318 ",YouTube,Sports,"Germany, North Carolina",Urban,FALSE,FALSE,FALSE,(14) 555-8122
+1180,4/27/2021 11:06,18,michael,holz,non-binary,Student,3,"$18,488 ",Instagram,Travel,"Germany, ",Sub_Urban,FALSE,TRUE,FALSE,(206) 555-4112
+1181,4/27/2021 11:06,44,alejandra,camino,non-binary,Software Engineer,4,"$13,787 ",YouTube,Sports,"Germany, Illinois",Sub_Urban,TRUE,TRUE,TRUE,90-224 8858
+1182,4/27/2021 11:06,30,jonas,bergulfsen,male,Student,5,"$12,096 ",Facebook,Lifestlye,"Germany, Washington",Rural,FALSE,FALSE,TRUE,(26) 642-7012
+1183,4/27/2021 11:06,58,jose,pavarotti,female,Software Engineer,6,"$12,208 ",YouTube,Sports,"Germany, California",Sub_Urban,FALSE,FALSE,TRUE,030-0074321
+1184,4/27/2021 11:06,20,hari,kumar,non-binary,Student,3,"$15,988 ",Instagram,Lifestlye,"Germany, District of Columbia",Sub_Urban,TRUE,FALSE,TRUE,030-0074321
+1185,4/27/2021 11:06,56,jytte,petersen,female,Student,2,"$10,175 ",Instagram,Sports,"Germany, Indiana",Urban,FALSE,FALSE,TRUE,(5) 555-4729
+1186,4/27/2021 11:06,23,dominique,perrier,female,Software Engineer,4,"$17,169 ",Facebook,Travel,"Germany, California",Rural,TRUE,FALSE,FALSE,(5) 555-3932
+1187,4/27/2021 11:06,25,art,braunschweiger,non-binary,Student,5,"$16,014 ",Facebook,Sports,"Germany, ",Urban,TRUE,TRUE,TRUE,(171) 555-7788
+1188,4/27/2021 11:06,44,pascale,cartrain,female,Student,4,"$11,667 ",YouTube,Sports,"Germany, Pennsylvania",Urban,TRUE,TRUE,TRUE,0921-12 34 65
+1189,4/27/2021 11:06,26,liz,nixon,non-binary,Student,3,"$18,867 ",YouTube,Sports,"Germany, ",Rural,TRUE,TRUE,FALSE,0621-08460
+1190,4/27/2021 11:06,54,liu,wong,female,Marketer Manager,8,"$11,823 ",Instagram,Travel,"Germany, Nebraska",Rural,FALSE,TRUE,TRUE,88.60.15.31
+1191,4/27/2021 11:06,50,karin,josephs,non-binary,Software Engineer,4,"$15,147 ",Facebook,Sports,"Germany, MassachUnited States of America s of Americaetts",Rural,FALSE,FALSE,FALSE,(91) 555 22 82
+1192,4/27/2021 11:06,59,miguel,paolino,male,Student,2,"$11,356 ",Facebook,Travel,"Germany, Maine",Sub_Urban,FALSE,TRUE,TRUE,91.24.45.40
+1193,4/27/2021 11:06,61,anabela,domingues,non-binary,Software Engineer,2,"$13,072 ",Facebook,Lifestlye,"Germany, ",Rural,TRUE,TRUE,FALSE,(604) 555-4729
+1194,4/27/2021 11:06,41,helvetius,nagy,non-binary,Software Engineer,1,"$13,259 ",YouTube,Sports,"Germany, New York",Rural,FALSE,TRUE,TRUE,(171) 555-1212
+1195,4/27/2021 11:06,32,palle,ibsen,non-binary,Software Engineer,4,"$16,199 ",Facebook,Travel,"Germany, New York",Rural,FALSE,FALSE,FALSE,(1) 135-5555
+1196,4/27/2021 11:06,49,mary,saveley,non-binary,Student,9,"$10,546 ",Instagram,Travel,"Germany, California",Urban,FALSE,TRUE,FALSE,(5) 555-3392
+1197,4/27/2021 11:06,49,paul,henriot,female,Student,7,"$15,231 ",Instagram,Sports,"Germany, District of Columbia",Urban,FALSE,FALSE,TRUE,0452-076545
+1198,4/27/2021 11:06,41,rita,müller,male,Software Engineer,7,"$17,965 ",YouTube,Lifestlye,"Germany, Texas",Sub_Urban,TRUE,TRUE,TRUE,(11) 555-7647
+1199,4/27/2021 11:06,58,pirkko,koskitalo,non-binary,Marketer Manager,7,"$12,083 ",YouTube,Travel,"Germany, Minnesota",Urban,TRUE,FALSE,TRUE,(171) 555-2282
+1200,4/27/2021 11:06,29,paula,parente,female,Software Engineer,8,"$12,040 ",Facebook,Sports,"Germany, MassachUnited States of America s of Americaetts",Sub_Urban,FALSE,TRUE,FALSE,0241-039123
+1201,4/27/2021 11:06,56,karl,jablonski,male,Marketer Manager,1,"$14,534 ",YouTube,Lifestlye,"Germany, Washington",Urban,TRUE,FALSE,FALSE,40.67.88.88
+1202,4/27/2021 11:06,19,matti,karttunen,male,Software Engineer,8,"$11,752 ",Instagram,Travel,"Germany, Michigan",Rural,FALSE,TRUE,FALSE,(171) 555-0297
+1203,4/27/2021 11:06,20,zbyszek,piestrzeniewicz,male,Software Engineer,4,"$19,807 ",Facebook,Travel,"Germany, ",Urban,FALSE,FALSE,TRUE,7675-3425
+1204,4/27/2021 11:06,54,harrison,susan ,male,Software Engineer,4,"$11,849 ",Instagram,Lifestlye,"Germany, ",Sub_Urban,FALSE,FALSE,TRUE,(11) 555-9857
+1205,4/27/2021 11:06,34,jones,kennan,non-binary,Student,4,"$12,642 ",Facebook,Lifestlye,"Germany, Texas",Urban,TRUE,TRUE,FALSE,(91) 555 94 44
+1206,4/27/2021 11:06,19,johnson,terry,non-binary,Marketer Manager,6,"$11,600 ",YouTube,Sports,"Germany, District of Columbia",Rural,FALSE,FALSE,TRUE,20.16.10.16
+1207,4/27/2021 11:06,19,polus,patty,female,Marketer Manager,7,"$14,402 ",Facebook,Sports,"Germany, Wisconsin",Sub_Urban,TRUE,FALSE,FALSE,0695-34 67 21
+1208,4/27/2021 11:06,45,key,kerry,female,Software Engineer,6,"$13,799 ",Facebook,Travel,"Germany, New York",Rural,TRUE,TRUE,TRUE,089-0877310
+1209,4/27/2021 11:06,40,martin,teresa,female,Student,1,"$10,618 ",Instagram,Lifestlye,"Germany, Indiana",Rural,FALSE,TRUE,TRUE,40.32.21.21
+1210,4/27/2021 11:06,54,logan,yolanda,male,Student,8,"$11,132 ",Instagram,Lifestlye,"Germany, ",Sub_Urban,TRUE,FALSE,FALSE,011-4988260
+1211,4/27/2021 11:06,49,diaz,juanita,male,Marketer Manager,7,"$15,491 ",Facebook,Lifestlye,"Germany, Pennsylvania",Rural,TRUE,TRUE,TRUE,(1) 354-2534
+1212,4/27/2021 11:06,50,smith,susanne,non-binary,Student,6,"$15,795 ",YouTube,Travel,"Germany, Arizona",Rural,FALSE,TRUE,TRUE,(93) 203 4560
+1213,4/27/2021 11:06,18,metre,marge,male,Marketer Manager,6,"$17,633 ",YouTube,Lifestlye,"Germany, ",Urban,TRUE,TRUE,TRUE,(95) 555 82 82
+1214,4/27/2021 11:06,36,lucas,karen,male,Marketer Manager,5,"$11,487 ",Instagram,Lifestlye,"Germany, Georgia",Rural,TRUE,FALSE,TRUE,(11) 555-9482
+1215,4/27/2021 11:06,19,matheson,kim,male,Marketer Manager,6,"$17,848 ",YouTube,Travel,"Germany, New York",Rural,FALSE,FALSE,TRUE,(503) 555-7555
+1216,4/27/2021 11:06,61,thomas,jim,female,Student,9,"$15,009 ",Instagram,Sports,"Germany, MassachUnited States of America s of Americaetts",Rural,FALSE,FALSE,FALSE,(2) 283-2951
+1217,4/27/2021 11:06,43,rogers,paul,female,Marketer Manager,9,"$19,749 ",YouTube,Sports,"Germany, Indiana",Rural,TRUE,FALSE,TRUE,(21) 555-0091
+1218,4/27/2021 11:06,49,rufus,reginald,non-binary,Marketer Manager,8,"$12,113 ",Facebook,Travel,"Germany, New York",Sub_Urban,FALSE,FALSE,FALSE,(5) 555-1340
+1219,4/27/2021 11:06,23,trevors,sandy,male,Software Engineer,9,"$11,044 ",Instagram,Lifestlye,"Germany, North Carolina",Urban,FALSE,FALSE,TRUE,(503) 555-6874
+1220,4/27/2021 11:06,49,egan,gregory,male,Marketer Manager,8,"$12,431 ",Instagram,Travel,"Germany, South Carolina",Rural,TRUE,FALSE,TRUE,2967 542
+1221,4/27/2021 11:06,21,claire ,gute,non-binary,Marketer Manager,8,"$17,979 ",Facebook,Sports,"Germany, MassachUnited States of America s of Americaetts",Rural,TRUE,TRUE,FALSE,(198) 555-8888
+1222,4/27/2021 11:06,28,claire ,gute,male,Software Engineer,1,"$11,582 ",Instagram,Sports,"Germany, MassachUnited States of America s of Americaetts",Sub_Urban,FALSE,FALSE,FALSE,0555-09876
+1223,4/27/2021 11:06,34,darrin,huff,male,Software Engineer,5,"$11,308 ",YouTube,Travel,"Germany, California",Rural,TRUE,FALSE,TRUE,30.59.84.10
+1224,4/27/2021 11:06,55,sean,o'donnell,female,Student,4,"$14,917 ",YouTube,Travel,"Germany, Florida",Sub_Urban,FALSE,TRUE,TRUE,61.77.61.10
+1225,4/27/2021 11:06,41,sean,o'donnell,non-binary,Marketer Manager,2,"$18,793 ",Instagram,Sports,"Germany, ",Urban,FALSE,TRUE,FALSE,(604) 555-3392
+1226,4/27/2021 11:07,22,brosina,hoffman,non-binary,Student,8,"$11,620 ",YouTube,Travel,"Germany, Wisconsin",Urban,TRUE,TRUE,FALSE,(509) 555-7969
+1227,4/27/2021 11:07,51,brosina,hoffman,non-binary,Student,3,"$17,503 ",Instagram,Sports,"Germany, ",Rural,TRUE,FALSE,FALSE,069-0245984
+1228,4/27/2021 11:07,23,brosina,hoffman,non-binary,Software Engineer,4,"$14,766 ",Facebook,Travel,"Germany, Minnesota",Rural,FALSE,TRUE,FALSE,(415) 555-5938
+1229,4/27/2021 11:07,39,brosina,hoffman,female,Student,7,"$15,362 ",Instagram,Travel,"Germany, Tennessee",Rural,FALSE,FALSE,TRUE,(9) 331-6954
+1230,4/27/2021 11:07,28,brosina,hoffman,female,Marketer Manager,9,"$15,192 ",Facebook,Travel,"Germany, Florida",Sub_Urban,FALSE,FALSE,TRUE,(8) 34-56-12
+1231,4/27/2021 11:07,33,brosina,hoffman,male,Software Engineer,2,"$16,622 ",YouTube,Sports,"Germany, Washington",Rural,FALSE,FALSE,TRUE,(503) 555-9573
+1232,4/27/2021 11:07,50,brosina,hoffman,male,Marketer Manager,3,"$16,093 ",Facebook,Travel,"Germany, Tennessee",Rural,TRUE,TRUE,TRUE,035-640230
+1233,4/27/2021 11:07,26,andrew,allen,male,Marketer Manager,4,"$16,704 ",YouTube,Sports,"Germany, MassachUnited States of America s of Americaetts",Urban,FALSE,TRUE,TRUE,(02) 201 24 67
+1234,4/27/2021 11:07,23,irene,maddox,male,Software Engineer,1,"$10,100 ",Instagram,Sports,"Germany, Pennsylvania",Rural,TRUE,FALSE,FALSE,(514) 555-8054
+1235,4/27/2021 11:07,33,harold,pawlan,female,Marketer Manager,7,"$16,657 ",YouTube,Travel,"Germany, North Carolina",Urban,TRUE,FALSE,FALSE,0342-023176
+1236,4/27/2021 11:07,46,harold,pawlan,non-binary,Software Engineer,2,"$15,875 ",Instagram,Travel,"Germany, Connecticut",Rural,FALSE,FALSE,FALSE,(171) 555-7733
+1237,4/27/2021 11:07,20,pete,kriz,female,Marketer Manager,5,"$14,271 ",Instagram,Sports,"Germany, ",Urban,TRUE,TRUE,TRUE,(1) 135-5333
+1238,4/27/2021 11:07,37,alejandro,grove,male,Software Engineer,1,"$10,237 ",Facebook,Sports,"Germany, Oregon",Rural,TRUE,FALSE,FALSE,(907) 555-7584
+1239,4/27/2021 11:07,53,zuschuss,donatelli,female,Student,3,"$17,226 ",Facebook,Lifestlye,"Germany, California",Urban,FALSE,TRUE,TRUE,0221-0644327
+1240,4/27/2021 11:07,36,zuschuss,donatelli,non-binary,Marketer Manager,2,"$18,032 ",Facebook,Sports,"Germany, New Jersey",Sub_Urban,TRUE,FALSE,TRUE,(1) 42.34.22.66
+1241,4/27/2021 11:07,43,zuschuss,donatelli,non-binary,Software Engineer,1,"$15,218 ",Facebook,Lifestlye,"Germany, Illinois",Urban,TRUE,TRUE,TRUE,(5) 552-3745
+1242,4/27/2021 11:07,20,ken,black,female,Marketer Manager,7,"$14,025 ",YouTube,Lifestlye,"Germany, Washington",Urban,FALSE,FALSE,FALSE,6562-9722
+1243,4/27/2021 11:07,36,ken,black,female,Marketer Manager,5,"$16,073 ",YouTube,Lifestlye,"Germany, North Carolina",Urban,FALSE,TRUE,TRUE,(1) 356-5634
+1244,4/27/2021 11:07,37,sandra,flanagan,female,Marketer Manager,1,"$12,542 ",YouTube,Travel,"Germany, Pennsylvania",Rural,FALSE,TRUE,TRUE,(21) 555-4252
+1245,4/27/2021 11:07,49,emily,burns,male,Software Engineer,6,"$11,537 ",Instagram,Travel,"Germany, MassachUnited States of America s of Americaetts",Rural,FALSE,TRUE,FALSE,(11) 555-1189
+1246,4/27/2021 11:07,24,eric,hoffmann,female,Student,5,"$10,754 ",YouTube,Sports,"Germany, Illinois",Rural,FALSE,TRUE,TRUE,0372-035188
+1247,4/27/2021 11:07,58,eric,hoffmann,female,Student,3,"$17,396 ",YouTube,Lifestlye,"Germany, South Dakota",Sub_Urban,FALSE,TRUE,FALSE,(1) 123-5555
+1248,4/27/2021 11:07,50,tracy,blumstein,female,Student,7,"$17,823 ",YouTube,Travel,"Germany, Illinois",Sub_Urban,FALSE,TRUE,TRUE,(505) 555-5939
+1249,4/27/2021 11:07,57,tracy,blumstein,non-binary,Software Engineer,9,"$15,507 ",Facebook,Travel,"Germany, West Virginia",Urban,TRUE,FALSE,FALSE,0522-556721
+1250,4/27/2021 11:07,56,tracy,blumstein,non-binary,Student,9,"$14,235 ",YouTube,Travel,"Germany, Minnesota",Sub_Urban,TRUE,FALSE,TRUE,(21) 555-3412
+1251,4/27/2021 11:07,35,tracy,blumstein,male,Software Engineer,9,"$10,540 ",Instagram,Travel,"Germany, ",Urban,FALSE,FALSE,TRUE,0897-034214
+1252,4/27/2021 11:07,57,tracy,blumstein,male,Marketer Manager,2,"$15,510 ",Facebook,Travel,"Germany, Pennsylvania",Urban,TRUE,FALSE,FALSE,(91) 745 6200
+1253,4/27/2021 11:07,18,tracy,blumstein,non-binary,Marketer Manager,3,"$18,461 ",Instagram,Lifestlye,"Germany, District of Columbia",Urban,TRUE,TRUE,TRUE,07-98 92 35
+1254,4/27/2021 11:07,28,tracy,blumstein,non-binary,Student,7,"$17,926 ",YouTube,Lifestlye,"Germany, District of Columbia",Sub_Urban,FALSE,FALSE,FALSE,(208) 555-8097
+1255,4/27/2021 11:07,45,matt,abelman,non-binary,Software Engineer,5,"$15,131 ",Facebook,Lifestlye,"Germany, New York",Rural,TRUE,TRUE,TRUE,(171) 555-1717
+1256,4/27/2021 11:07,42,gene,hale,female,Marketer Manager,2,"$18,697 ",Instagram,Lifestlye,"Germany, Tennessee",Sub_Urban,FALSE,TRUE,FALSE,31 12 34 56
+1257,4/27/2021 11:07,40,gene,hale,female,Software Engineer,3,"$11,129 ",YouTube,Sports,"Germany, Minnesota",Urban,TRUE,TRUE,TRUE,(1) 47.55.60.10
+1258,4/27/2021 11:07,48,steve,nguyen,non-binary,Software Engineer,6,"$13,145 ",Instagram,Lifestlye,"Germany, North Carolina",Urban,FALSE,FALSE,TRUE,(307) 555-4680
+1259,4/27/2021 11:07,47,steve,nguyen,female,Marketer Manager,7,"$18,553 ",Instagram,Travel,"Germany, Arizona",Sub_Urban,TRUE,TRUE,TRUE,(071) 23 67 22 20
+1260,4/27/2021 11:07,59,steve,nguyen,female,Software Engineer,9,"$13,720 ",Instagram,Lifestlye,"Germany, ",Urban,TRUE,FALSE,FALSE,(503) 555-3612
+1261,4/27/2021 11:07,52,steve,nguyen,male,Marketer Manager,1,"$19,648 ",YouTube,Sports,"Germany, Illinois",Urban,TRUE,FALSE,FALSE,(406) 555-5834
+1262,4/27/2021 11:07,24,linda,cazamias,non-binary,Marketer Manager,7,"$14,067 ",YouTube,Travel,"Germany, District of Columbia",Sub_Urban,FALSE,FALSE,FALSE,0251-031259
+1263,4/27/2021 11:07,33,ruben,ausman,non-binary,Marketer Manager,8,"$14,195 ",Instagram,Lifestlye,"Germany, Minnesota",Sub_Urban,TRUE,FALSE,FALSE,(5) 555-2933
+1264,4/27/2021 11:07,43,erin,smith,female,Software Engineer,3,"$19,873 ",Facebook,Lifestlye,"Germany, ",Sub_Urban,TRUE,FALSE,FALSE,(11) 555-2167
+1265,4/27/2021 11:07,19,odella,nelson,non-binary,Marketer Manager,4,"$19,244 ",Facebook,Lifestlye,"Germany, Pennsylvania",Urban,FALSE,TRUE,TRUE,(206) 555-8257
+1266,4/27/2021 11:07,18,odella,nelson,male,Software Engineer,6,"$17,281 ",YouTube,Travel,"Germany, California",Urban,FALSE,TRUE,TRUE,86 21 32 43
+1267,4/27/2021 11:07,29,patrick,o'donnell,male,Marketer Manager,7,"$12,509 ",YouTube,Travel,"Germany, MassachUnited States of America s of Americaetts",Rural,TRUE,FALSE,TRUE,78.32.54.86
+1268,4/27/2021 11:07,22,lena,hernandez,male,Marketer Manager,4,"$15,016 ",YouTube,Sports,"Germany, New York",Rural,TRUE,TRUE,TRUE,26.47.15.10
+1269,4/27/2021 11:07,54,lena,hernandez,non-binary,Student,8,"$16,533 ",YouTube,Travel,"Germany, ",Sub_Urban,TRUE,FALSE,TRUE,0711-020361
+1270,4/27/2021 11:07,49,darren,powers,non-binary,Student,5,"$14,727 ",YouTube,Travel,"Germany, New York",Rural,TRUE,TRUE,FALSE,981-443655
+1271,4/27/2021 11:07,26,darren,powers,non-binary,Student,1,"$10,681 ",Facebook,Lifestlye,"Germany, Illinois",Urban,FALSE,TRUE,TRUE,(14) 555-8122
+1272,4/27/2021 11:07,58,darren,powers,non-binary,Software Engineer,4,"$13,932 ",YouTube,Travel,"Germany, California",Rural,TRUE,TRUE,FALSE,(206) 555-4112
+1273,4/27/2021 11:07,52,darren,powers,non-binary,Software Engineer,3,"$15,560 ",Instagram,Lifestlye,"Germany, Florida",Urban,TRUE,TRUE,TRUE,90-224 8858
+1274,4/27/2021 11:07,36,janet,molinari,male,Marketer Manager,9,"$14,016 ",Instagram,Lifestlye,"Germany, MassachUnited States of America s of Americaetts",Sub_Urban,FALSE,TRUE,FALSE,(26) 642-7012
+1275,4/27/2021 11:07,33,janet,molinari,female,Marketer Manager,8,"$17,339 ",Facebook,Travel,"Germany, Georgia",Sub_Urban,TRUE,TRUE,FALSE,030-0074321
+1276,4/27/2021 11:07,20,ted,butterfield,male,Marketer Manager,1,"$10,719 ",Instagram,Sports,"Germany, New York",Urban,TRUE,TRUE,FALSE,(5) 555-4729
+1277,4/27/2021 11:07,37,ted,butterfield,non-binary,Marketer Manager,6,"$10,074 ",Facebook,Sports,"Germany, Illinois",Rural,TRUE,TRUE,TRUE,(5) 555-3932
+1278,4/27/2021 11:07,41,ted,butterfield,male,Software Engineer,9,"$19,485 ",Facebook,Travel,"Germany, Texas",Sub_Urban,FALSE,TRUE,TRUE,(171) 555-7788
+1279,4/27/2021 11:07,50,ted,butterfield,non-binary,Marketer Manager,7,"$14,157 ",Instagram,Sports,"Germany, MassachUnited States of America s of Americaetts",Sub_Urban,FALSE,TRUE,TRUE,0921-12 34 65
+1280,4/27/2021 11:07,41,ted,butterfield,non-binary,Marketer Manager,4,"$18,511 ",YouTube,Lifestlye,"Germany, Wisconsin",Rural,TRUE,TRUE,TRUE,0621-08460
+1281,4/27/2021 11:07,28,ted,butterfield,male,Student,1,"$12,149 ",Instagram,Lifestlye,"China, ",Rural,TRUE,TRUE,FALSE,88.60.15.31
+1282,4/27/2021 11:07,25,ted,butterfield,non-binary,Marketer Manager,2,"$19,644 ",Instagram,Travel,"China, Colorado",Urban,FALSE,TRUE,FALSE,(91) 555 22 82
+1283,4/27/2021 11:07,53,kunst,miller,female,Marketer Manager,5,"$19,747 ",Facebook,Sports,"China, Maryland",Rural,TRUE,FALSE,FALSE,91.24.45.40
+1284,4/27/2021 11:07,55,kunst,miller,non-binary,Marketer Manager,5,"$16,713 ",Instagram,Sports,"China, Maryland",Rural,TRUE,TRUE,FALSE,(604) 555-4729
+1285,4/27/2021 11:07,57,kunst,miller,female,Software Engineer,8,"$14,207 ",Facebook,Lifestlye,"China, ",Rural,FALSE,TRUE,TRUE,(171) 555-1212
+1286,4/27/2021 11:07,37,kunst,miller,female,Student,6,"$17,141 ",YouTube,Travel,"China, Georgia",Urban,FALSE,TRUE,FALSE,(1) 135-5555
+1287,4/27/2021 11:07,52,paul,stevenson,non-binary,Marketer Manager,8,"$18,652 ",YouTube,Sports,"China, ",Urban,FALSE,TRUE,TRUE,(5) 555-3392
+1288,4/27/2021 11:07,42,brendan,sweed,male,Marketer Manager,2,"$19,078 ",YouTube,Travel,"China, New York",Sub_Urban,TRUE,TRUE,FALSE,0452-076545
+1289,4/27/2021 11:07,52,brendan,sweed,female,Student,3,"$13,936 ",Instagram,Sports,"Ghana, Maryland",Urban,TRUE,TRUE,FALSE,(11) 555-7647
+1290,4/27/2021 11:07,42,karen,daniels,male,Marketer Manager,6,"$19,307 ",Facebook,Lifestlye,"Ghana, ",Sub_Urban,TRUE,FALSE,FALSE,(171) 555-2282
+1291,4/27/2021 11:07,46,henry,macallister,female,Software Engineer,3,"$11,075 ",YouTube,Lifestlye,"Ghana, ",Rural,TRUE,FALSE,TRUE,0241-039123
+1292,4/27/2021 11:07,35,tracy,blumstein,non-binary,Marketer Manager,6,"$13,876 ",Facebook,Travel,"Canada, Indiana",Sub_Urban,FALSE,FALSE,TRUE,40.67.88.88
+1293,4/27/2021 11:07,63,joel,eaton,non-binary,Software Engineer,6,"$14,615 ",Facebook,Lifestlye,"Canada, MassachUnited States of America s of Americaetts",Sub_Urban,TRUE,TRUE,FALSE,(171) 555-0297
+1294,4/27/2021 11:07,35,joel,eaton,female,Software Engineer,2,"$17,265 ",YouTube,Sports,"Canada, MassachUnited States of America s of Americaetts",Rural,TRUE,TRUE,FALSE,7675-3425
+1295,4/27/2021 11:07,19,joel,eaton,non-binary,Marketer Manager,7,"$16,379 ",YouTube,Lifestlye,"Canada, ",Sub_Urban,FALSE,TRUE,FALSE,(11) 555-9857
+1296,4/27/2021 11:07,52,ken,brennan,female,Student,2,"$19,118 ",Facebook,Travel,"Canada, Pennsylvania",Urban,FALSE,FALSE,TRUE,(91) 555 94 44
+1297,4/27/2021 11:07,33,ken,brennan,non-binary,Software Engineer,6,"$14,652 ",YouTube,Travel,"Canada, Maryland",Urban,TRUE,TRUE,TRUE,20.16.10.16
+1298,4/27/2021 11:07,58,ken,brennan,male,Student,1,"$16,792 ",Facebook,Travel,"Canada, Texas",Urban,FALSE,TRUE,TRUE,0695-34 67 21
+1299,4/27/2021 11:07,53,joel,eaton,non-binary,Marketer Manager,3,"$19,247 ",Facebook,Sports,"Canada, Pennsylvania",Urban,FALSE,FALSE,FALSE,089-0877310
+1300,4/27/2021 11:07,50,stewart,carmichael,male,Software Engineer,2,"$17,456 ",YouTube,Sports,"Canada, New York",Sub_Urban,TRUE,FALSE,TRUE,40.32.21.21
+1301,4/27/2021 11:07,21,stewart,carmichael,non-binary,Marketer Manager,7,"$14,674 ",Instagram,Sports,"Canada, Minnesota",Sub_Urban,TRUE,TRUE,FALSE,011-4988260
+1302,4/27/2021 11:07,50,duane,noonan,male,Student,4,"$10,541 ",YouTube,Sports,"Canada, Wisconsin",Rural,TRUE,TRUE,TRUE,(1) 354-2534
+1303,4/27/2021 11:07,31,duane,noonan,non-binary,Marketer Manager,8,"$12,161 ",Instagram,Sports,"Canada, Virginia",Sub_Urban,TRUE,TRUE,FALSE,(93) 203 4560
+1304,4/27/2021 11:07,38,julie,creighton,male,Marketer Manager,6,"$12,251 ",Facebook,Lifestlye,"Canada, Idaho",Sub_Urban,FALSE,TRUE,FALSE,(95) 555 82 82
+1305,4/27/2021 11:07,37,christopher,schild,female,Software Engineer,4,"$19,244 ",Facebook,Sports,"Canada, District of Columbia",Sub_Urban,FALSE,FALSE,TRUE,(11) 555-9482
+1306,4/27/2021 11:07,25,patrick,o'donnell,female,Marketer Manager,5,"$14,569 ",Instagram,Sports,"Canada, New York",Rural,TRUE,TRUE,FALSE,(503) 555-7555
+1307,4/27/2021 11:08,24,paul,gonzalez,male,Marketer Manager,9,"$12,744 ",Facebook,Lifestlye,"Canada, MassachUnited States of America s of Americaetts",Urban,TRUE,TRUE,FALSE,(2) 283-2951
+1308,4/27/2021 11:08,20,paul,gonzalez,non-binary,Marketer Manager,7,"$16,041 ",Instagram,Sports,"Canada, Minnesota",Sub_Urban,FALSE,FALSE,FALSE,(21) 555-0091
+1309,4/27/2021 11:08,34,gary,mitchum,male,Software Engineer,9,"$14,675 ",Instagram,Travel,"Canada, District of Columbia",Rural,TRUE,TRUE,TRUE,(5) 555-1340
+1310,4/27/2021 11:08,50,jim,sink,non-binary,Student,7,"$11,560 ",Facebook,Sports,"Canada, ",Rural,TRUE,TRUE,FALSE,(503) 555-6874
+1311,4/27/2021 11:08,29,jim,sink,female,Student,1,"$11,164 ",Instagram,Sports,"Canada, Texas",Rural,TRUE,FALSE,TRUE,2967 542
+1312,4/27/2021 11:08,39,jim,sink,non-binary,Marketer Manager,8,"$15,419 ",YouTube,Travel,"Canada, Pennsylvania",Urban,TRUE,FALSE,TRUE,(198) 555-8888
+1313,4/27/2021 11:08,39,karl,braun,female,Software Engineer,4,"$12,722 ",YouTube,Travel,"Canada, ",Sub_Urban,FALSE,TRUE,FALSE,0555-09876
+1314,4/27/2021 11:08,63,karl,braun,non-binary,Marketer Manager,3,"$10,470 ",Facebook,Travel,"Canada, Minnesota",Rural,TRUE,FALSE,TRUE,30.59.84.10
+1315,4/27/2021 11:08,47,karl,braun,non-binary,Student,7,"$19,608 ",Facebook,Travel,"Canada, MassachUnited States of America s of Americaetts",Urban,FALSE,FALSE,FALSE,61.77.61.10
+1316,4/27/2021 11:08,55,roger,barcio,non-binary,Software Engineer,3,"$11,468 ",Instagram,Sports,"Canada, New York",Rural,TRUE,TRUE,TRUE,(604) 555-3392
+1317,4/27/2021 11:08,55,parhena,norris,male,Student,8,"$17,925 ",Instagram,Travel,"Canada, Illinois",Rural,TRUE,FALSE,FALSE,(509) 555-7969
+1318,4/27/2021 11:08,62,katherine,ducich,male,Student,6,"$10,808 ",Instagram,Travel,"Canada, Texas",Rural,FALSE,TRUE,TRUE,069-0245984
+1319,4/27/2021 11:08,25,elpida,rittenbach,female,Software Engineer,5,"$18,363 ",Instagram,Lifestlye,"Canada, Georgia",Rural,TRUE,TRUE,FALSE,(415) 555-5938
+1320,4/27/2021 11:08,44,rick,bensley,female,Software Engineer,4,"$16,719 ",YouTube,Travel,"Canada, Texas",Rural,FALSE,TRUE,FALSE,(9) 331-6954
+1321,4/27/2021 11:08,44,rick,bensley,male,Marketer Manager,8,"$15,073 ",YouTube,Travel,"Canada, Illinois",Urban,TRUE,TRUE,FALSE,(8) 34-56-12
+1322,4/27/2021 11:08,51,rick,bensley,female,Marketer Manager,8,"$18,012 ",Facebook,Lifestlye,"Canada, California",Sub_Urban,TRUE,FALSE,FALSE,(503) 555-9573
+1323,4/27/2021 11:08,38,gary,zandusky,male,Student,1,"$11,645 ",Instagram,Lifestlye,"Canada, MassachUnited States of America s of Americaetts",Sub_Urban,TRUE,TRUE,TRUE,035-640230
+1324,4/27/2021 11:08,47,lena,cacioppo,non-binary,Software Engineer,9,"$18,249 ",Instagram,Sports,"Canada, Texas",Sub_Urban,TRUE,TRUE,TRUE,(02) 201 24 67
+1325,4/27/2021 11:08,50,lena,cacioppo,female,Software Engineer,5,"$11,129 ",Facebook,Lifestlye,"Canada, ",Sub_Urban,TRUE,TRUE,FALSE,(514) 555-8054
+1326,4/27/2021 11:08,45,lena,cacioppo,female,Marketer Manager,4,"$11,353 ",Instagram,Sports,"Canada, Washington",Urban,FALSE,TRUE,TRUE,0342-023176
+1327,4/27/2021 11:08,64,janet,martin,male,Student,6,"$10,767 ",Instagram,Lifestlye,"Canada, ",Urban,FALSE,FALSE,FALSE,(171) 555-7733
+1328,4/27/2021 11:08,50,janet,martin,female,Student,6,"$13,895 ",Instagram,Lifestlye,"Canada, ",Urban,TRUE,FALSE,FALSE,(1) 135-5333
+1329,4/27/2021 11:08,22,janet,martin,female,Marketer Manager,2,"$18,874 ",Instagram,Sports,"Canada, Georgia",Rural,TRUE,FALSE,TRUE,(907) 555-7584
+1330,4/27/2021 11:08,36,pete,armstrong,non-binary,Software Engineer,8,"$13,454 ",Instagram,Lifestlye,"Canada, ",Rural,FALSE,TRUE,TRUE,0221-0644327
+1331,4/27/2021 11:08,21,cynthia,voltz,female,Marketer Manager,7,"$17,329 ",Facebook,Sports,"Canada, Illinois",Rural,FALSE,FALSE,FALSE,(1) 42.34.22.66
+1332,4/27/2021 11:08,52,clay,ludtke,non-binary,Marketer Manager,1,"$11,790 ",Instagram,Lifestlye,"Canada, North Carolina",Sub_Urban,TRUE,FALSE,TRUE,(5) 552-3745
+1333,4/27/2021 11:08,34,clay,ludtke,male,Marketer Manager,5,"$19,669 ",Facebook,Travel,"Canada, Missouri",Rural,TRUE,TRUE,FALSE,6562-9722
+1334,4/27/2021 11:08,61,ryan,crowe,female,Marketer Manager,6,"$10,885 ",Instagram,Lifestlye,"Canada, MassachUnited States of America s of Americaetts",Sub_Urban,FALSE,FALSE,TRUE,(1) 356-5634
+1335,4/27/2021 11:08,45,ryan,crowe,non-binary,Software Engineer,4,"$17,734 ",YouTube,Sports,"Canada, Illinois",Rural,TRUE,TRUE,TRUE,(21) 555-4252
+1336,4/27/2021 11:08,47,ryan,crowe,male,Marketer Manager,2,"$13,906 ",YouTube,Lifestlye,"Canada, Ohio",Sub_Urban,FALSE,FALSE,TRUE,(11) 555-1189
+1337,4/27/2021 11:08,46,ryan,crowe,female,Software Engineer,4,"$14,492 ",YouTube,Sports,"Canada, Connecticut",Rural,TRUE,FALSE,TRUE,0372-035188
+1338,4/27/2021 11:08,63,dave,kipp,male,Marketer Manager,1,"$19,730 ",YouTube,Sports,"Canada, ",Rural,FALSE,FALSE,TRUE,(1) 123-5555
+1339,4/27/2021 11:08,23,greg,guthrie,female,Student,7,"$12,073 ",Facebook,Travel,"Canada, New York",Urban,FALSE,FALSE,FALSE,(505) 555-5939
+1340,4/27/2021 11:08,52,steven,cartwright,male,Software Engineer,2,"$10,312 ",Facebook,Travel,"Canada, Connecticut",Rural,TRUE,TRUE,TRUE,0522-556721
+1341,4/27/2021 11:08,58,steven,cartwright,male,Student,2,"$16,269 ",Instagram,Sports,"Canada, New York",Rural,FALSE,TRUE,TRUE,(21) 555-3412
+1342,4/27/2021 11:08,54,steven,cartwright,non-binary,Marketer Manager,9,"$15,317 ",YouTube,Lifestlye,"Canada, Wisconsin",Urban,TRUE,FALSE,FALSE,0897-034214
+1343,4/27/2021 11:08,41,steven,cartwright,male,Marketer Manager,5,"$10,810 ",Facebook,Sports,"Canada, Pennsylvania",Sub_Urban,TRUE,TRUE,FALSE,(91) 745 6200
+1344,4/27/2021 11:08,46,steven,cartwright,female,Marketer Manager,2,"$16,841 ",Instagram,Sports,"Canada, Texas",Urban,TRUE,FALSE,FALSE,07-98 92 35
+1345,4/27/2021 11:08,63,alan,dominguez,female,Software Engineer,9,"$12,032 ",Instagram,Lifestlye,"Canada, District of Columbia",Urban,TRUE,FALSE,TRUE,(208) 555-8097
+1346,4/27/2021 11:08,48,philip,fox,non-binary,Student,9,"$19,699 ",Facebook,Lifestlye,"Canada, North Carolina",Sub_Urban,FALSE,FALSE,TRUE,(171) 555-1717
+1347,4/27/2021 11:08,52,troy,staebel,female,Software Engineer,1,"$17,129 ",YouTube,Lifestlye,"Canada, Pennsylvania",Rural,TRUE,FALSE,FALSE,31 12 34 56
+1348,4/27/2021 11:08,50,troy,staebel,female,Software Engineer,3,"$12,705 ",Instagram,Lifestlye,"Canada, ",Sub_Urban,TRUE,FALSE,FALSE,(1) 47.55.60.10
+1349,4/27/2021 11:08,38,lindsay,shagiari,female,Marketer Manager,4,"$18,788 ",YouTube,Sports,"Canada, New Jersey",Rural,TRUE,FALSE,FALSE,(307) 555-4680
+1350,4/27/2021 11:08,49,lindsay,shagiari,male,Student,7,"$12,147 ",YouTube,Sports,"Canada, ",Rural,TRUE,TRUE,FALSE,(071) 23 67 22 20
+1351,4/27/2021 11:08,40,dorothy,wardle,male,Marketer Manager,4,"$10,615 ",YouTube,Travel,"Canada, New York",Sub_Urban,FALSE,TRUE,TRUE,(503) 555-3612
+1352,4/27/2021 11:08,50,dorothy,wardle,female,Software Engineer,2,"$10,947 ",Instagram,Sports,"Canada, Ohio",Urban,TRUE,FALSE,TRUE,(406) 555-5834
+1353,4/27/2021 11:08,20,dorothy,wardle,non-binary,Marketer Manager,7,"$15,677 ",YouTube,Lifestlye,"Canada, MassachUnited States of America s of Americaetts",Sub_Urban,FALSE,TRUE,TRUE,0251-031259
+1354,4/27/2021 11:08,35,lena,creighton,male,Student,6,"$14,651 ",Instagram,Travel,"Canada, Michigan",Rural,FALSE,FALSE,TRUE,(5) 555-2933
+1355,4/27/2021 11:08,42,lena,creighton,non-binary,Marketer Manager,3,"$17,866 ",YouTube,Lifestlye,"Canada, Pennsylvania",Sub_Urban,FALSE,TRUE,TRUE,(11) 555-2167
+1356,4/27/2021 11:08,59,lena,creighton,female,Student,6,"$12,013 ",Instagram,Sports,"Canada, Wisconsin",Sub_Urban,TRUE,TRUE,FALSE,(206) 555-8257
+1357,4/27/2021 11:08,48,lena,creighton,female,Student,6,"$13,697 ",YouTube,Travel,"Canada, Minnesota",Rural,TRUE,TRUE,TRUE,86 21 32 43
+1358,4/27/2021 11:08,20,lena,creighton,male,Marketer Manager,5,"$10,490 ",Facebook,Lifestlye,"Canada, Colorado",Urban,TRUE,FALSE,FALSE,78.32.54.86
+1359,4/27/2021 11:08,57,lena,creighton,female,Software Engineer,4,"$14,350 ",YouTube,Travel,"Canada, New York",Sub_Urban,TRUE,TRUE,FALSE,26.47.15.10
+1360,4/27/2021 11:08,63,lena,creighton,male,Marketer Manager,1,"$12,428 ",YouTube,Travel,"Canada, New Jersey",Rural,FALSE,FALSE,FALSE,0711-020361
+1361,4/27/2021 11:08,41,jonathan,doherty,female,Software Engineer,6,"$14,987 ",Instagram,Sports,"Canada, District of Columbia",Rural,FALSE,FALSE,TRUE,981-443655
+1362,4/27/2021 11:08,49,sally,hughsby,female,Software Engineer,2,"$18,733 ",Instagram,Lifestlye,"Canada, District of Columbia",Sub_Urban,TRUE,FALSE,FALSE,(14) 555-8122
+1363,4/27/2021 11:08,64,sally,hughsby,male,Marketer Manager,3,"$19,479 ",YouTube,Travel,"Canada, Colorado",Urban,TRUE,TRUE,TRUE,(206) 555-4112
+1364,4/27/2021 11:08,39,sally,hughsby,male,Software Engineer,8,"$19,825 ",Facebook,Travel,"Canada, Pennsylvania",Sub_Urban,TRUE,TRUE,FALSE,90-224 8858
+1365,4/27/2021 11:08,40,sandra,glassco,male,Software Engineer,6,"$14,920 ",Facebook,Lifestlye,"Canada, Connecticut",Urban,TRUE,TRUE,TRUE,(26) 642-7012
+1366,4/27/2021 11:08,19,helen,andreada,female,Marketer Manager,3,"$12,926 ",Instagram,Travel,"Canada, Louisiana",Urban,TRUE,FALSE,FALSE,030-0074321
+1367,4/27/2021 11:08,44,maureen,gastineau,female,Marketer Manager,7,"$19,544 ",Facebook,Travel,"Canada, Minnesota",Urban,TRUE,FALSE,TRUE,(5) 555-4729
+1368,4/27/2021 11:08,59,justin,ellison,non-binary,Marketer Manager,4,"$17,282 ",YouTube,Travel,"Canada, California",Urban,TRUE,TRUE,FALSE,(5) 555-3932
+1369,4/27/2021 11:08,19,justin,ellison,male,Software Engineer,9,"$14,376 ",Instagram,Lifestlye,"Canada, Missouri",Sub_Urban,FALSE,FALSE,FALSE,(171) 555-7788
+1370,4/27/2021 11:08,43,justin,ellison,female,Student,5,"$19,490 ",YouTube,Lifestlye,"Canada, Colorado",Rural,FALSE,TRUE,FALSE,0921-12 34 65
+1371,4/27/2021 11:08,34,justin,ellison,female,Software Engineer,3,"$14,868 ",Instagram,Lifestlye,"Canada, Oregon",Rural,FALSE,TRUE,FALSE,0621-08460
+1372,4/27/2021 11:08,57,tamara,willingham,male,Student,2,"$16,986 ",Instagram,Lifestlye,"Canada, Florida",Rural,FALSE,TRUE,TRUE,88.60.15.31
+1373,4/27/2021 11:08,50,tamara,willingham,non-binary,Marketer Manager,2,"$16,862 ",Instagram,Sports,"Canada, ",Rural,TRUE,TRUE,TRUE,(91) 555 22 82
+1374,4/27/2021 11:08,26,stephanie,phelps,male,Student,3,"$14,423 ",Instagram,Travel,"Canada, Washington",Rural,TRUE,FALSE,TRUE,91.24.45.40
+1375,4/27/2021 11:08,60,stephanie,phelps,non-binary,Marketer Manager,2,"$16,870 ",Facebook,Lifestlye,"Canada, Florida",Rural,TRUE,TRUE,FALSE,(604) 555-4729
+1376,4/27/2021 11:08,56,stephanie,phelps,female,Marketer Manager,4,"$18,159 ",YouTube,Travel,"Canada, District of Columbia",Sub_Urban,TRUE,TRUE,FALSE,(171) 555-1212
+1377,4/27/2021 11:09,46,neil,knudson,non-binary,Student,2,"$12,073 ",YouTube,Travel,"Canada, Ohio",Urban,TRUE,TRUE,FALSE,(1) 135-5555
+1378,4/27/2021 11:09,59,dave,brooks,female,Marketer Manager,9,"$16,170 ",YouTube,Sports,"Canada, Minnesota",Rural,FALSE,TRUE,FALSE,(5) 555-3392
+1379,4/27/2021 11:09,43,nora,paige,male,Student,2,"$10,701 ",Instagram,Lifestlye,"Canada, Montana",Sub_Urban,TRUE,TRUE,FALSE,0452-076545
+1380,4/27/2021 11:09,52,nora,paige,male,Marketer Manager,9,"$18,113 ",Facebook,Lifestlye,"Canada, Texas",Rural,FALSE,TRUE,FALSE,(11) 555-7647
+1381,4/27/2021 11:09,42,ted,trevino,male,Software Engineer,6,"$16,825 ",YouTube,Travel,"Canada, Kentucky",Rural,TRUE,TRUE,TRUE,(171) 555-2282
+1382,4/27/2021 11:09,41,eric,murdock,non-binary,Software Engineer,1,"$17,867 ",Facebook,Lifestlye,"Canada, Wisconsin",Urban,FALSE,FALSE,TRUE,0241-039123
+1383,4/27/2021 11:09,30,ruben,dartt,female,Marketer Manager,4,"$14,264 ",Instagram,Travel,"Canada, Missouri",Urban,TRUE,FALSE,TRUE,40.67.88.88
+1384,4/27/2021 11:09,24,max,jones,male,Marketer Manager,1,"$17,968 ",YouTube,Travel,"Canada, Wisconsin",Urban,FALSE,FALSE,TRUE,(171) 555-0297
+1385,4/27/2021 11:09,53,becky,martin,male,Student,6,"$18,146 ",Facebook,Sports,"Canada, District of Columbia",Rural,TRUE,FALSE,TRUE,7675-3425
+1386,4/27/2021 11:09,62,becky,martin,female,Software Engineer,4,"$17,776 ",Instagram,Sports,"Canada, Ohio",Rural,TRUE,TRUE,TRUE,(11) 555-9857
+1387,4/27/2021 11:09,37,becky,martin,male,Student,3,"$18,558 ",Facebook,Sports,"Canada, ",Rural,TRUE,FALSE,TRUE,(91) 555 94 44
+1388,4/27/2021 11:09,18,becky,martin,female,Marketer Manager,3,"$18,719 ",YouTube,Travel,"Canada, District of Columbia",Urban,TRUE,FALSE,TRUE,20.16.10.16
+1389,4/27/2021 11:09,25,becky,martin,female,Marketer Manager,9,"$14,886 ",YouTube,Lifestlye,"Canada, Texas",Sub_Urban,FALSE,FALSE,FALSE,0695-34 67 21
+1390,4/27/2021 11:09,63,becky,martin,female,Student,6,"$13,935 ",Instagram,Sports,"Canada, MassachUnited States of America s of Americaetts",Rural,TRUE,TRUE,FALSE,089-0877310
+1391,4/27/2021 11:09,33,becky,martin,female,Marketer Manager,9,"$14,619 ",Instagram,Lifestlye,"Canada, District of Columbia",Rural,FALSE,FALSE,FALSE,40.32.21.21
+1392,4/27/2021 11:09,31,chad,sievert,female,Software Engineer,5,"$15,191 ",Instagram,Sports,"Canada, Florida",Rural,TRUE,FALSE,FALSE,011-4988260
+1393,9/2/1997 0:00,29,chad,sievert,non-binary,Student,2,"$16,875 ",Facebook,Sports,"Canada, California",Sub_Urban,FALSE,TRUE,FALSE,(1) 354-2534
+1394,10/13/1997 0:00,40,chad,sievert,male,Software Engineer,8,"$17,856 ",Facebook,Travel,"Canada, MassachUnited States of America s of Americaetts",Rural,TRUE,FALSE,FALSE,(93) 203 4560
+1395,10/21/1997 0:00,32,jennifer,braxton,non-binary,Software Engineer,5,"$15,401 ",Facebook,Sports,"Canada, Colorado",Sub_Urban,TRUE,TRUE,FALSE,(95) 555 82 82
+1396,1/21/1998 0:00,45,jennifer,braxton,male,Software Engineer,2,"$13,022 ",Instagram,Sports,"Canada, South Carolina",Rural,FALSE,FALSE,TRUE,(11) 555-9482
+1397,3/24/1998 0:00,51,shirley,jackson,non-binary,Student,4,"$15,738 ",YouTube,Travel,"Canada, District of Columbia",Sub_Urban,TRUE,TRUE,TRUE,(503) 555-7555
+1398,4/13/1998 0:00,19,joel,eaton,female,Marketer Manager,9,"$15,984 ",YouTube,Lifestlye,"Canada, California",Rural,TRUE,FALSE,FALSE,(2) 283-2951
+1399,9/24/1996 0:00,49,joel,eaton,male,Software Engineer,4,"$11,770 ",Facebook,Sports,"Canada, New York",Urban,FALSE,FALSE,TRUE,(21) 555-0091
+1400,8/14/1997 0:00,40,jim,kriz,male,Software Engineer,4,"$19,969 ",Facebook,Travel,"Canada, Iowa",Urban,TRUE,FALSE,TRUE,(5) 555-1340
+1401,12/12/1997 0:00,39,david,kendrick,non-binary,Software Engineer,2,"$18,989 ",YouTube,Sports,"Canada, MassachUnited States of America s of Americaetts",Urban,FALSE,TRUE,TRUE,(503) 555-6874
+1402,3/11/1998 0:00,42,david,kendrick,non-binary,Marketer Manager,6,"$13,215 ",YouTube,Travel,"Canada, Texas",Urban,TRUE,FALSE,TRUE,2967 542
+1403,12/2/1996 0:00,39,robert,marley,male,Marketer Manager,2,"$16,694 ",Facebook,Lifestlye,"Canada, ",Rural,FALSE,TRUE,TRUE,(198) 555-8888
+1404,4/22/1997 0:00,39,robert,marley,non-binary,Student,7,"$12,976 ",Facebook,Lifestlye,"Canada, Colorado",Urban,FALSE,TRUE,FALSE,0555-09876
+1405,5/21/1997 0:00,59,robert,marley,non-binary,Marketer Manager,3,"$13,737 ",YouTube,Travel,"Canada, Virginia",Sub_Urban,FALSE,TRUE,TRUE,30.59.84.10
+1406,6/20/1997 0:00,23,sally,knutson,non-binary,Student,3,"$19,903 ",Instagram,Travel,"Canada, ",Urban,FALSE,TRUE,FALSE,61.77.61.10
+1407,9/26/1997 0:00,32,frank,merwin,female,Student,5,"$10,752 ",Facebook,Travel,"Canada, ",Urban,TRUE,FALSE,FALSE,(604) 555-3392
+1408,10/1/1997 0:00,60,alice,mccarthy,female,Student,3,"$11,392 ",YouTube,Lifestlye,"Canada, Maryland",Urban,TRUE,FALSE,FALSE,(509) 555-7969
+1409,2/10/1998 0:00,54,alice,mccarthy,non-binary,Student,2,"$16,789 ",YouTube,Sports,"Canada, California",Rural,FALSE,FALSE,TRUE,069-0245984
+1410,11/20/1996 0:00,50,mark,packer,non-binary,Student,9,"$10,677 ",YouTube,Lifestlye,"Canada, New Hampshire",Urban,TRUE,TRUE,FALSE,(415) 555-5938
+1411,12/18/1996 0:00,25,mark,packer,female,Software Engineer,2,"$10,105 ",YouTube,Travel,"Canada, Pennsylvania",Sub_Urban,TRUE,FALSE,FALSE,(9) 331-6954
+1412,2/26/1997 0:00,61,mark,packer,female,Marketer Manager,2,"$14,753 ",Instagram,Travel,"Canada, ",Urban,TRUE,TRUE,FALSE,(8) 34-56-12
+1413,6/10/1997 0:00,61,mark,packer,male,Software Engineer,8,"$11,946 ",YouTube,Lifestlye,"Canada, Illinois",Urban,FALSE,TRUE,FALSE,(503) 555-9573
+1414,10/23/1997 0:00,22,mark,packer,male,Student,9,"$15,544 ",Facebook,Travel,"Canada, New York",Urban,TRUE,TRUE,TRUE,035-640230
+1415,11/18/1997 0:00,56,mary,zewe,female,Marketer Manager,7,"$11,095 ",Instagram,Lifestlye,"Canada, Wisconsin",Sub_Urban,TRUE,FALSE,FALSE,(02) 201 24 67
+1416,11/21/1997 0:00,21,cassandra,brandow,non-binary,Software Engineer,3,"$16,985 ",YouTube,Travel,"Canada, Pennsylvania",Urban,FALSE,FALSE,FALSE,(514) 555-8054
+1417,12/15/1997 0:00,23,cassandra,brandow,non-binary,Software Engineer,9,"$11,782 ",Instagram,Sports,"Canada, Illinois",Sub_Urban,TRUE,TRUE,FALSE,0342-023176
+1418,1/8/1998 0:00,62,valerie,mitchum,non-binary,Student,3,"$14,541 ",Facebook,Sports,"Canada, North Carolina",Sub_Urban,FALSE,FALSE,FALSE,(171) 555-7733
+1419,2/9/1998 0:00,49,fred,hopkins,non-binary,Software Engineer,5,"$13,257 ",YouTube,Travel,"Canada, Maryland",Urban,FALSE,FALSE,TRUE,(1) 135-5333
+1420,3/9/1998 0:00,47,fred,hopkins,male,Software Engineer,9,"$16,213 ",Facebook,Lifestlye,"Canada, ",Sub_Urban,FALSE,TRUE,FALSE,(907) 555-7584
+1421,3/25/1998 0:00,64,maria,bertelson,female,Software Engineer,3,"$14,869 ",YouTube,Sports,"Canada, North Carolina",Rural,TRUE,TRUE,FALSE,0221-0644327
+1422,4/13/1998 0:00,52,bruce,stewart,non-binary,Software Engineer,7,"$11,561 ",YouTube,Lifestlye,"Canada, California",Urban,TRUE,FALSE,FALSE,(1) 42.34.22.66
+1423,8/16/1996 0:00,57,bruce,stewart,male,Software Engineer,1,"$14,006 ",YouTube,Travel,"Canada, Ohio",Urban,FALSE,TRUE,FALSE,(5) 552-3745
+1424,9/12/1996 0:00,33,logan,currie,non-binary,Student,4,"$19,867 ",YouTube,Lifestlye,"Canada, MassachUnited States of America s of Americaetts",Sub_Urban,FALSE,TRUE,FALSE,6562-9722
+1425,12/20/1996 0:00,30,heather,kirkland,female,Student,4,"$19,314 ",YouTube,Sports,"Canada, South Carolina",Sub_Urban,FALSE,FALSE,FALSE,(1) 356-5634
+1426,2/21/1997 0:00,59,laurel,elliston,male,Software Engineer,7,"$13,981 ",Instagram,Lifestlye,"Canada, ",Urban,FALSE,FALSE,TRUE,(21) 555-4252
+1427,2/20/1997 0:00,47,joseph,holt,female,Student,8,"$19,493 ",YouTube,Lifestlye,"Canada, Pennsylvania",Rural,FALSE,TRUE,FALSE,(11) 555-1189
+1428,5/7/1997 0:00,36,joseph,holt,female,Student,1,"$15,682 ",YouTube,Travel,"Canada, California",Sub_Urban,FALSE,FALSE,TRUE,0372-035188
+1429,6/25/1997 0:00,34,joseph,holt,male,Marketer Manager,5,"$15,782 ",Instagram,Travel,"Canada, New York",Sub_Urban,TRUE,TRUE,TRUE,(1) 123-5555
+1430,8/20/1997 0:00,36,joseph,holt,male,Software Engineer,7,"$10,943 ",Instagram,Travel,"Canada, California",Rural,FALSE,TRUE,FALSE,(505) 555-5939
+1431,9/11/1997 0:00,45,joseph,holt,male,Student,4,"$14,550 ",Instagram,Sports,"Canada, Washington",Rural,FALSE,FALSE,TRUE,0522-556721
+1432,9/26/1997 0:00,43,michael,stewart,male,Student,4,"$19,137 ",Instagram,Sports,"Canada, New York",Urban,FALSE,TRUE,FALSE,(21) 555-3412
+1433,10/7/1997 0:00,54,victoria,wilson,male,Software Engineer,4,"$10,600 ",Instagram,Travel,"Canada, District of Columbia",Rural,TRUE,TRUE,TRUE,0897-034214
+1434,11/10/1997 0:00,43,victoria,wilson,male,Marketer Manager,6,"$16,376 ",Instagram,Travel,"Canada, Virginia",Urban,TRUE,TRUE,FALSE,(91) 745 6200
+1435,12/24/1997 0:00,40,victoria,wilson,male,Software Engineer,7,"$19,609 ",YouTube,Sports,"Canada, New Jersey",Rural,TRUE,FALSE,TRUE,07-98 92 35
+1436,1/23/1998 0:00,26,victoria,wilson,non-binary,Marketer Manager,2,"$11,524 ",YouTube,Sports,"Canada, California",Sub_Urban,TRUE,FALSE,TRUE,(208) 555-8097
+1437,2/6/1998 0:00,29,victoria,wilson,female,Software Engineer,5,"$13,766 ",Facebook,Sports,"Canada, ",Urban,FALSE,FALSE,FALSE,(171) 555-1717
+1438,2/12/1998 0:00,18,jonathan,howell,male,Software Engineer,4,"$10,250 ",YouTube,Sports,"Canada, Illinois",Urban,TRUE,TRUE,TRUE,31 12 34 56
+1439,3/3/1998 0:00,18,jonathan,howell,non-binary,Software Engineer,3,"$19,736 ",YouTube,Travel,"Canada, ",Urban,FALSE,TRUE,TRUE,(1) 47.55.60.10
+1440,4/8/1998 0:00,64,joni,blumstein,non-binary,Software Engineer,7,"$10,078 ",Instagram,Sports,"Canada, Colorado",Rural,FALSE,FALSE,TRUE,(307) 555-4680
+1441,4/16/1997 0:00,51,joni,blumstein,non-binary,Marketer Manager,6,"$13,123 ",Instagram,Travel,"Canada, Minnesota",Sub_Urban,FALSE,FALSE,TRUE,(071) 23 67 22 20
+1442,4/29/1997 0:00,49,joni,blumstein,female,Marketer Manager,7,"$19,089 ",YouTube,Lifestlye,"Canada, Illinois",Urban,FALSE,FALSE,TRUE,(503) 555-3612
+1443,7/14/1997 0:00,42,joni,blumstein,male,Student,5,"$17,064 ",Facebook,Lifestlye,"Canada, ",Urban,FALSE,TRUE,FALSE,(406) 555-5834
+1444,8/1/1997 0:00,57,joni,blumstein,non-binary,Software Engineer,6,"$18,417 ",Instagram,Sports,"Canada, California",Urban,FALSE,FALSE,TRUE,0251-031259
+1445,2/3/1998 0:00,62,joni,blumstein,female,Marketer Manager,5,"$11,209 ",YouTube,Lifestlye,"Canada, MassachUnited States of America s of Americaetts",Urban,TRUE,TRUE,TRUE,(5) 555-2933
+1446,3/20/1998 0:00,18,david,smith,female,Marketer Manager,7,"$15,153 ",YouTube,Lifestlye,"Canada, ",Sub_Urban,TRUE,FALSE,FALSE,(11) 555-2167
+1447,4/27/2021 11:02,33,david,smith,female,Marketer Manager,2,"$14,898 ",Facebook,Lifestlye,"Canada, Washington",Rural,TRUE,TRUE,FALSE,(206) 555-8257
+1448,8/12/1996 0:00,56,david,smith,non-binary,Software Engineer,5,"$12,178 ",Facebook,Sports,"Canada, Florida",Sub_Urban,TRUE,TRUE,FALSE,86 21 32 43
+1449,9/10/1996 0:00,22,valerie,dominguez,male,Student,6,"$17,610 ",Instagram,Sports,"Canada, MassachUnited States of America s of Americaetts",Urban,TRUE,FALSE,TRUE,78.32.54.86
+1450,12/2/1996 0:00,39,valerie,dominguez,non-binary,Marketer Manager,6,"$18,895 ",Facebook,Lifestlye,"Canada, North Carolina",Sub_Urban,FALSE,TRUE,TRUE,26.47.15.10
+1451,2/11/1997 0:00,46,erin,ashbrook,non-binary,Software Engineer,5,"$12,544 ",YouTube,Travel,"Canada, Illinois",Urban,TRUE,FALSE,TRUE,0711-020361
+1452,2/27/1997 0:00,20,christopher,schild,male,Marketer Manager,7,"$15,522 ",YouTube,Lifestlye,"Canada, North Dakota",Rural,TRUE,TRUE,TRUE,981-443655
+1453,6/13/1997 0:00,29,christopher,schild,male,Marketer Manager,8,"$12,370 ",Facebook,Sports,"Canada, ",Rural,TRUE,TRUE,FALSE,(14) 555-8122
+1454,6/18/1997 0:00,43,christopher,schild,male,Student,7,"$13,281 ",Facebook,Sports,"Canada, Michigan",Rural,FALSE,FALSE,FALSE,(206) 555-4112
+1455,7/4/1997 0:00,33,christopher,schild,female,Marketer Manager,5,"$14,710 ",Facebook,Sports,"Canada, Virginia",Urban,FALSE,TRUE,TRUE,90-224 8858
+1456,8/20/1997 0:00,54,christopher,schild,male,Marketer Manager,1,"$10,328 ",Facebook,Lifestlye,"Canada, ",Sub_Urban,FALSE,FALSE,TRUE,(26) 642-7012
+1457,9/30/1997 0:00,39,david,bremer,non-binary,Software Engineer,5,"$15,579 ",Instagram,Travel,"Canada, ",Rural,TRUE,FALSE,TRUE,030-0074321
+1458,2/6/1998 0:00,46,ken,lonsdale,male,Software Engineer,2,"$14,228 ",Facebook,Sports,"Canada, Washington",Urban,TRUE,FALSE,TRUE,(5) 555-4729
+1459,10/14/1996 0:00,31,ken,lonsdale,non-binary,Student,5,"$16,794 ",Instagram,Sports,"Canada, Texas",Urban,TRUE,TRUE,FALSE,(5) 555-3932
+1460,12/31/1997 0:00,45,ken,lonsdale,female,Software Engineer,5,"$10,120 ",YouTube,Lifestlye,"Canada, ",Sub_Urban,TRUE,TRUE,FALSE,(171) 555-7788
+1461,4/24/1998 0:00,22,ken,lonsdale,non-binary,Software Engineer,2,"$16,749 ",Facebook,Travel,"Canada, ",Rural,TRUE,TRUE,TRUE,0921-12 34 65
+1462,10/21/1996 0:00,64,ken,lonsdale,non-binary,Student,5,"$10,964 ",Instagram,Lifestlye,"Canada, Virginia",Urban,FALSE,FALSE,FALSE,0621-08460
+1463,11/8/1996 0:00,47,ken,lonsdale,male,Marketer Manager,4,"$14,224 ",Facebook,Sports,"Canada, New York",Sub_Urban,TRUE,FALSE,TRUE,88.60.15.31
+1464,11/28/1996 0:00,63,ken,lonsdale,male,Student,1,"$13,675 ",YouTube,Travel,"Canada, Oregon",Rural,FALSE,TRUE,TRUE,(91) 555 22 82
+1465,3/14/1997 0:00,22,dianna,wilson,non-binary,Software Engineer,3,"$15,694 ",YouTube,Travel,"Canada, Michigan",Sub_Urban,TRUE,TRUE,FALSE,91.24.45.40
+1466,4/21/1997 0:00,29,dianna,wilson,male,Student,1,"$12,076 ",YouTube,Sports,"Canada, Virginia",Sub_Urban,FALSE,FALSE,TRUE,(604) 555-4729
+1467,5/23/1997 0:00,33,dianna,wilson,female,Marketer Manager,5,"$16,865 ",Facebook,Travel,"Canada, ",Urban,FALSE,TRUE,FALSE,(171) 555-1212
+1468,10/3/1997 0:00,43,dianna,wilson,female,Student,4,"$15,643 ",Facebook,Travel,"Canada, Kansas",Urban,FALSE,FALSE,TRUE,(1) 135-5555
+1469,10/29/1997 0:00,43,dianna,wilson,male,Software Engineer,7,"$18,524 ",Instagram,Lifestlye,"Canada, New York",Urban,FALSE,TRUE,FALSE,(5) 555-3392
+1470,11/14/1997 0:00,38,logan,haushalter,female,Software Engineer,5,"$15,249 ",YouTube,Sports,"Canada, California",Sub_Urban,TRUE,FALSE,TRUE,0452-076545
+1471,11/7/1997 0:00,56,kelly,collister,male,Student,4,"$11,316 ",Facebook,Sports,"Canada, Vermont",Urban,TRUE,TRUE,FALSE,(11) 555-7647
+1472,11/28/1997 0:00,53,kelly,collister,non-binary,Marketer Manager,2,"$11,196 ",YouTube,Sports,"Canada, Pennsylvania",Sub_Urban,TRUE,TRUE,TRUE,(171) 555-2282
+1473,2/6/1998 0:00,50,delfina,latchford,non-binary,Student,4,"$13,170 ",YouTube,Sports,"Canada, Iowa",Sub_Urban,FALSE,FALSE,TRUE,0241-039123
+1474,2/10/1998 0:00,47,delfina,latchford,female,Marketer Manager,2,"$19,621 ",Instagram,Sports,"Canada, ",Urban,TRUE,FALSE,FALSE,40.67.88.88
+1475,2/12/1998 0:00,54,dan,reichenbach,male,Marketer Manager,8,"$10,355 ",Instagram,Travel,"Canada, ",Rural,TRUE,FALSE,TRUE,(171) 555-0297
+1476,3/24/1998 0:00,40,dan,reichenbach,male,Student,3,"$19,718 ",Instagram,Lifestlye,"Canada, California",Rural,TRUE,TRUE,FALSE,7675-3425
+1477,3/23/1998 0:00,27,dan,reichenbach,female,Marketer Manager,9,"$10,028 ",Instagram,Sports,"Canada, North Carolina",Rural,TRUE,FALSE,FALSE,(11) 555-9857
+1478,4/27/2021 11:02,22,dan,reichenbach,non-binary,Software Engineer,4,"$11,013 ",YouTube,Lifestlye,"Canada, Iowa",Sub_Urban,FALSE,FALSE,TRUE,(91) 555 94 44
+1479,12/24/1996 0:00,53,craig,carreira,female,Student,6,"$19,019 ",Instagram,Lifestlye,"Canada, ",Sub_Urban,FALSE,TRUE,TRUE,20.16.10.16
+1480,1/15/1997 0:00,51,craig,carreira,non-binary,Marketer Manager,5,"$12,024 ",Instagram,Travel,"Canada, Maine",Sub_Urban,TRUE,FALSE,TRUE,0695-34 67 21
+1481,1/21/1997 0:00,48,craig,carreira,male,Software Engineer,1,"$18,490 ",Instagram,Sports,"Canada, New Jersey",Urban,TRUE,FALSE,TRUE,089-0877310
+1482,2/7/1997 0:00,27,dorris,liebe,non-binary,Student,9,"$15,839 ",Instagram,Travel,"Canada, Georgia",Sub_Urban,TRUE,FALSE,FALSE,40.32.21.21
+1483,4/11/1997 0:00,36,sean,braxton,female,Software Engineer,1,"$15,791 ",YouTube,Sports,"Canada, Indiana",Urban,FALSE,TRUE,TRUE,011-4988260
+1484,11/18/1997 0:00,49,sean,braxton,male,Software Engineer,8,"$10,754 ",Instagram,Travel,"Canada, Arkansas",Urban,FALSE,TRUE,TRUE,(1) 354-2534
+1485,3/11/1998 0:00,18,roy,collins,female,Software Engineer,9,"$18,961 ",YouTube,Lifestlye,"Canada, District of Columbia",Rural,FALSE,TRUE,TRUE,(93) 203 4560
+1486,3/13/1998 0:00,22,alan,hwang,female,Marketer Manager,9,"$13,735 ",Facebook,Sports,"Canada, California",Rural,TRUE,FALSE,FALSE,(95) 555 82 82
+1487,3/17/1998 0:00,62,claudia,bergmann,non-binary,Student,1,"$11,238 ",YouTube,Lifestlye,"Canada, Tennessee",Rural,FALSE,TRUE,TRUE,(11) 555-9482
+1488,3/27/1998 0:00,21,paul,gonzalez,female,Student,2,"$11,906 ",YouTube,Lifestlye,"Canada, New Jersey",Urban,FALSE,FALSE,FALSE,(503) 555-7555
+1489,4/8/1998 0:00,33,christine,abelman,non-binary,Marketer Manager,1,"$17,399 ",Instagram,Travel,"Canada, Iowa",Urban,FALSE,FALSE,TRUE,(2) 283-2951
+1490,4/20/1998 0:00,41,christine,abelman,male,Student,2,"$17,961 ",Facebook,Sports,"Canada, ",Urban,FALSE,FALSE,FALSE,(21) 555-0091
+1491,4/27/2021 11:02,33,kristen,hastings,non-binary,Software Engineer,8,"$19,756 ",Facebook,Lifestlye,"Canada, Minnesota",Sub_Urban,FALSE,TRUE,TRUE,(5) 555-1340
+1492,4/30/1998 0:00,19,helen,andreada,male,Student,5,"$19,410 ",Facebook,Travel,"Canada, MassachUnited States of America s of Americaetts",Urban,TRUE,TRUE,TRUE,(503) 555-6874
+1493,8/28/1996 0:00,45,helen,andreada,non-binary,Marketer Manager,7,"$14,601 ",Facebook,Sports,"Canada, Ohio",Rural,TRUE,FALSE,FALSE,2967 542
+1494,3/18/1997 0:00,49,helen,andreada,female,Software Engineer,2,"$19,549 ",YouTube,Sports,"Canada, Ohio",Rural,TRUE,FALSE,TRUE,(198) 555-8888
+1495,4/1/1997 0:00,44,barry,blumstein,non-binary,Marketer Manager,8,"$11,460 ",Facebook,Lifestlye,"Canada, Alabama",Urban,TRUE,TRUE,TRUE,0555-09876
+1496,5/16/1997 0:00,37,barry,blumstein,non-binary,Software Engineer,6,"$17,669 ",YouTube,Sports,"Canada, Virginia",Urban,FALSE,TRUE,TRUE,30.59.84.10
+1497,5/23/1997 0:00,41,andrew,gjertsen,male,Software Engineer,8,"$11,416 ",YouTube,Lifestlye,"Canada, Texas",Rural,TRUE,TRUE,FALSE,61.77.61.10
+1498,7/25/1997 0:00,29,andrew,gjertsen,female,Student,1,"$17,766 ",YouTube,Sports,"Canada, ",Urban,TRUE,FALSE,TRUE,(604) 555-3392
+1499,7/21/1997 0:00,52,andrew,gjertsen,non-binary,Software Engineer,1,"$11,428 ",Facebook,Travel,"Canada, MassachUnited States of America s of Americaetts",Rural,TRUE,TRUE,FALSE,(509) 555-7969
+1500,3/19/1998 0:00,50,andrew,gjertsen,female,Marketer Manager,7,"$14,378 ",Instagram,Lifestlye,"Canada, Texas",Sub_Urban,FALSE,TRUE,FALSE,069-0245984
+1501,3/16/1998 0:00,50,steven,cartwright,non-binary,Student,8,"$17,529 ",Instagram,Lifestlye,"Canada, Texas",Rural,TRUE,TRUE,FALSE,(415) 555-5938
+1502,4/24/1998 0:00,60,steven,cartwright,non-binary,Marketer Manager,3,"$14,474 ",Facebook,Sports,"Canada, California",Sub_Urban,FALSE,FALSE,TRUE,(9) 331-6954
+1503,5/2/1997 0:00,54,jas,o'carroll,female,Software Engineer,5,"$13,071 ",Instagram,Sports,"Canada, Minnesota",Urban,FALSE,TRUE,FALSE,(8) 34-56-12
+1504,12/22/1997 0:00,29,tracy,blumstein,non-binary,Marketer Manager,1,"$10,555 ",Instagram,Lifestlye,"Canada, ",Urban,FALSE,FALSE,FALSE,(503) 555-9573
+1505,1/16/1998 0:00,20,tracy,blumstein,female,Marketer Manager,7,"$18,547 ",YouTube,Sports,"Canada, Texas",Sub_Urban,TRUE,FALSE,TRUE,035-640230
+1506,2/18/1998 0:00,18,tracy,blumstein,non-binary,Software Engineer,5,"$11,563 ",YouTube,Travel,"Canada, District of Columbia",Urban,FALSE,FALSE,FALSE,(02) 201 24 67
+1507,3/13/1998 0:00,50,alan,haines,male,Student,8,"$11,040 ",Facebook,Sports,"Canada, Minnesota",Sub_Urban,TRUE,TRUE,FALSE,(514) 555-8054
+1508,4/27/2021 11:02,57,alan,haines,female,Marketer Manager,8,"$12,686 ",Facebook,Travel,"Canada, Illinois",Urban,TRUE,TRUE,TRUE,0342-023176
+1509,7/25/1996 0:00,27,alan,haines,non-binary,Software Engineer,9,"$12,553 ",Instagram,Travel,"Canada, ",Rural,TRUE,TRUE,TRUE,(171) 555-7733
+1510,7/23/1996 0:00,60,nick,zandusky,non-binary,Student,7,"$11,779 ",YouTube,Travel,"Canada, Wisconsin",Urban,FALSE,FALSE,FALSE,(1) 135-5333
+1511,12/27/1996 0:00,61,nick,zandusky,male,Student,1,"$10,075 ",Facebook,Travel,"Canada, ",Rural,FALSE,TRUE,TRUE,(907) 555-7584
+1512,5/1/1997 0:00,46,nick,zandusky,female,Student,3,"$14,326 ",Facebook,Travel,"Canada, Washington",Rural,TRUE,FALSE,TRUE,0221-0644327
+1513,11/14/1997 0:00,30,nick,zandusky,non-binary,Marketer Manager,8,"$15,835 ",Facebook,Sports,"Canada, ",Sub_Urban,FALSE,TRUE,TRUE,(1) 42.34.22.66
+1514,11/21/1997 0:00,29,kelly,lampkin,male,Marketer Manager,3,"$15,057 ",Facebook,Travel,"Canada, ",Urban,FALSE,TRUE,FALSE,(5) 552-3745
+1515,4/8/1998 0:00,48,kelly,lampkin,non-binary,Marketer Manager,8,"$12,349 ",Facebook,Sports,"Canada, Texas",Sub_Urban,FALSE,TRUE,FALSE,6562-9722
+1516,4/27/1998 0:00,63,kelly,lampkin,female,Student,1,"$12,773 ",Facebook,Travel,"Canada, Maryland",Urban,TRUE,TRUE,TRUE,(1) 356-5634
+1517,4/28/1998 0:00,19,kelly,lampkin,non-binary,Marketer Manager,5,"$12,262 ",Instagram,Lifestlye,"Canada, Washington",Rural,FALSE,FALSE,FALSE,(21) 555-4252
+1518,9/3/1996 0:00,52,kelly,lampkin,non-binary,Software Engineer,4,"$13,229 ",YouTube,Travel,"Canada, Minnesota",Rural,FALSE,FALSE,TRUE,(11) 555-1189
+1519,3/13/1997 0:00,40,jonathan,doherty,non-binary,Marketer Manager,5,"$10,392 ",YouTube,Lifestlye,"Canada, MassachUnited States of America s of Americaetts",Urban,TRUE,FALSE,TRUE,0372-035188
+1520,4/9/1997 0:00,34,jonathan,doherty,non-binary,Marketer Manager,8,"$11,108 ",Facebook,Travel,"Canada, Pennsylvania",Urban,FALSE,FALSE,TRUE,(1) 123-5555
+1521,3/30/1998 0:00,43,jonathan,doherty,male,Student,4,"$14,362 ",YouTube,Travel,"Canada, California",Sub_Urban,TRUE,TRUE,TRUE,(505) 555-5939
+1522,5/1/1998 0:00,25,jonathan,doherty,male,Marketer Manager,4,"$15,188 ",YouTube,Travel,"Canada, ",Urban,FALSE,FALSE,TRUE,0522-556721
+1523,2/7/1997 0:00,46,jonathan,doherty,female,Software Engineer,3,"$18,802 ",YouTube,Lifestlye,"Canada, ",Urban,FALSE,FALSE,FALSE,(21) 555-3412
+1524,3/18/1997 0:00,43,jonathan,howell,male,Student,7,"$15,057 ",Facebook,Lifestlye,"Canada, New York",Urban,FALSE,FALSE,FALSE,0897-034214
+1525,1/29/1998 0:00,27,alan,schoenberger,male,Software Engineer,3,"$13,998 ",Facebook,Travel,"Canada, Tennessee",Sub_Urban,FALSE,TRUE,FALSE,(91) 745 6200
+1526,12/4/1996 0:00,43,ken,brennan,female,Student,3,"$18,864 ",YouTube,Sports,"Canada, California",Urban,FALSE,FALSE,FALSE,07-98 92 35
+1527,12/31/1996 0:00,51,corey,roper,male,Student,5,"$16,566 ",YouTube,Travel,"Canada, ",Rural,FALSE,FALSE,TRUE,(208) 555-8097
+1528,1/5/1998 0:00,58,corey,roper,male,Marketer Manager,5,"$13,677 ",Facebook,Lifestlye,"Canada, California",Sub_Urban,TRUE,TRUE,TRUE,(171) 555-1717
+1529,1/14/1998 0:00,24,shahid,hopkins,female,Software Engineer,6,"$15,796 ",Instagram,Travel,"Canada, Pennsylvania",Sub_Urban,FALSE,TRUE,FALSE,31 12 34 56
+1530,4/22/1998 0:00,21,ben,peterman,female,Student,8,"$16,363 ",YouTube,Lifestlye,"Canada, ",Rural,FALSE,FALSE,FALSE,(1) 47.55.60.10
+1531,5/6/1998 0:00,62,ben,peterman,female,Marketer Manager,6,"$18,123 ",Instagram,Lifestlye,"Canada, Washington",Rural,FALSE,FALSE,TRUE,(307) 555-4680
+1532,9/26/1996 0:00,28,ben,peterman,non-binary,Student,1,"$18,222 ",YouTube,Lifestlye,"Canada, Georgia",Rural,TRUE,TRUE,TRUE,(071) 23 67 22 20
+1533,7/30/1997 0:00,46,ben,peterman,non-binary,Student,8,"$17,690 ",Instagram,Travel,"Canada, Minnesota",Urban,TRUE,FALSE,TRUE,(503) 555-3612
+1534,10/1/1997 0:00,53,thomas,seio,female,Student,8,"$11,400 ",Instagram,Lifestlye,"Canada, Florida",Rural,TRUE,TRUE,FALSE,(406) 555-5834
+1535,2/18/1998 0:00,42,andy,gerbode,female,Student,9,"$14,071 ",Instagram,Lifestlye,"Canada, District of Columbia",Urban,FALSE,FALSE,TRUE,0251-031259
+1536,12/4/1996 0:00,38,andy,gerbode,female,Student,9,"$18,808 ",Facebook,Travel,"Canada, ",Sub_Urban,FALSE,FALSE,TRUE,(5) 555-2933
+1537,1/16/1997 0:00,53,sung,pak,non-binary,Student,2,"$12,786 ",Instagram,Lifestlye,"Canada, Pennsylvania",Sub_Urban,TRUE,FALSE,FALSE,(11) 555-2167
+1538,5/12/1997 0:00,27,nathan,mautz,non-binary,Marketer Manager,2,"$17,169 ",Instagram,Travel,"Canada, Illinois",Rural,TRUE,FALSE,FALSE,(206) 555-8257
+1539,12/5/1997 0:00,54,nathan,mautz,male,Student,3,"$10,870 ",Instagram,Lifestlye,"Canada, MassachUnited States of America s of Americaetts",Urban,TRUE,FALSE,FALSE,86 21 32 43
+1540,4/6/1998 0:00,26,nathan,mautz,male,Software Engineer,1,"$14,196 ",YouTube,Sports,"Canada, Missouri",Rural,FALSE,TRUE,TRUE,78.32.54.86
+1541,4/20/1998 0:00,41,nathan,mautz,female,Marketer Manager,4,"$19,604 ",Instagram,Sports,"Canada, Idaho",Rural,TRUE,TRUE,TRUE,26.47.15.10
+1542,5/1/1998 0:00,52,nathan,mautz,non-binary,Software Engineer,4,"$12,739 ",YouTube,Lifestlye,"Canada, Texas",Urban,FALSE,FALSE,FALSE,0711-020361
+1543,5/1/1998 0:00,52,frank,atkinson,non-binary,Student,9,"$10,940 ",Instagram,Sports,"Canada, Virginia",Rural,FALSE,FALSE,TRUE,981-443655
+1544,7/23/1996 0:00,53,grace,kelly,non-binary,Software Engineer,9,"$10,340 ",Instagram,Travel,"Canada, Virginia",Sub_Urban,FALSE,FALSE,TRUE,(14) 555-8122
+1545,7/31/1996 0:00,35,grace,kelly,female,Student,9,"$17,422 ",Facebook,Sports,"Canada, New York",Rural,TRUE,TRUE,TRUE,(206) 555-4112
+1546,11/20/1996 0:00,56,don,jones,male,Student,7,"$14,133 ",YouTube,Lifestlye,"Canada, Georgia",Urban,FALSE,TRUE,FALSE,90-224 8858
+1547,12/2/1996 0:00,49,patrick,o'brill,female,Marketer Manager,2,"$10,659 ",Instagram,Lifestlye,"Canada, New York",Urban,TRUE,TRUE,FALSE,(26) 642-7012
+1548,12/16/1996 0:00,41,patrick,o'brill,male,Marketer Manager,5,"$19,752 ",YouTube,Travel,"Canada, Wisconsin",Sub_Urban,TRUE,TRUE,TRUE,030-0074321
+1549,12/26/1996 0:00,40,patrick,o'brill,male,Student,4,"$13,457 ",YouTube,Lifestlye,"Canada, Illinois",Urban,TRUE,TRUE,TRUE,030-0074321
+1550,1/10/1997 0:00,49,patrick,o'brill,female,Marketer Manager,8,"$19,848 ",Facebook,Travel,"Canada, California",Urban,TRUE,TRUE,TRUE,(5) 555-4729
+1551,1/9/1997 0:00,54,patrick,o'brill,male,Software Engineer,2,"$12,975 ",Facebook,Sports,"Canada, Tennessee",Sub_Urban,FALSE,TRUE,TRUE,(5) 555-3932
+1552,2/3/1997 0:00,29,john,lucas,male,Marketer Manager,6,"$19,241 ",Facebook,Sports,"Canada, Michigan",Rural,FALSE,TRUE,FALSE,(171) 555-7788
+1553,2/18/1997 0:00,30,john,lucas,non-binary,Marketer Manager,5,"$10,453 ",Facebook,Travel,"Canada, ",Sub_Urban,FALSE,FALSE,FALSE,0921-12 34 65
+1554,5/16/1997 0:00,40,john,lucas,male,Software Engineer,2,"$19,896 ",Facebook,Travel,"Canada, MassachUnited States of America s of Americaetts",Rural,FALSE,TRUE,TRUE,0621-08460
+1555,7/4/1997 0:00,42,doug,bickford,female,Marketer Manager,1,"$18,184 ",Facebook,Lifestlye,"Canada, Pennsylvania",Sub_Urban,TRUE,TRUE,TRUE,88.60.15.31
+1556,7/14/1997 0:00,52,doug,bickford,female,Student,8,"$15,442 ",Facebook,Sports,"Canada, Texas",Rural,TRUE,TRUE,FALSE,(91) 555 22 82
+1557,8/18/1997 0:00,58,doug,bickford,male,Software Engineer,2,"$10,818 ",Facebook,Travel,"Canada, District of Columbia",Sub_Urban,TRUE,TRUE,TRUE,91.24.45.40
+1558,9/19/1997 0:00,47,alyssa,crouse,non-binary,Student,7,"$14,868 ",Instagram,Sports,"Canada, Pennsylvania",Rural,TRUE,FALSE,FALSE,(604) 555-4729
+1559,10/17/1997 0:00,34,alyssa,crouse,non-binary,Software Engineer,9,"$10,012 ",YouTube,Travel,"Canada, Nevada",Sub_Urban,FALSE,TRUE,TRUE,(171) 555-1212
+1560,12/8/1997 0:00,37,ken,lonsdale,male,Student,9,"$17,727 ",Facebook,Sports,"Canada, Pennsylvania",Rural,TRUE,FALSE,FALSE,(1) 135-5555
+1561,1/2/1998 0:00,42,jonathan,doherty,male,Student,8,"$10,920 ",Facebook,Lifestlye,"Canada, Nevada",Sub_Urban,FALSE,FALSE,TRUE,(5) 555-3392
+1562,12/16/1997 0:00,39,jonathan,doherty,female,Marketer Manager,9,"$14,920 ",YouTube,Sports,"Canada, MassachUnited States of America s of Americaetts",Urban,TRUE,FALSE,TRUE,0452-076545
+1563,12/18/1997 0:00,30,jonathan,doherty,male,Student,2,"$12,418 ",Instagram,Sports,"Canada, ",Rural,TRUE,TRUE,FALSE,(11) 555-7647
+1564,1/20/1998 0:00,36,jonathan,doherty,non-binary,Marketer Manager,6,"$19,506 ",YouTube,Sports,"Canada, New York",Sub_Urban,TRUE,TRUE,FALSE,(171) 555-2282
+1565,1/21/1998 0:00,53,chad,sievert,male,Software Engineer,4,"$16,475 ",YouTube,Sports,"Canada, New York",Rural,TRUE,TRUE,TRUE,0241-039123
+1566,2/5/1998 0:00,29,clay,cheatham,female,Student,4,"$12,017 ",Facebook,Sports,"Canada, California",Rural,FALSE,FALSE,TRUE,40.67.88.88
+1567,2/23/1998 0:00,58,tamara,dahlen,female,Student,5,"$17,957 ",YouTube,Lifestlye,"Canada, ",Sub_Urban,FALSE,FALSE,FALSE,(171) 555-0297
+1568,4/1/1998 0:00,36,tamara,dahlen,female,Software Engineer,3,"$19,420 ",YouTube,Travel,"Canada, Illinois",Rural,FALSE,FALSE,FALSE,7675-3425
+1569,3/31/1998 0:00,29,tamara,dahlen,female,Software Engineer,1,"$14,792 ",Facebook,Sports,"Canada, Virginia",Sub_Urban,FALSE,FALSE,TRUE,(11) 555-9857
+1570,4/7/1998 0:00,26,adam,bellavance,female,Student,8,"$16,830 ",Facebook,Lifestlye,"Canada, Illinois",Urban,TRUE,TRUE,TRUE,(91) 555 94 44
+1571,4/27/2021 11:02,24,adam,bellavance,male,Software Engineer,5,"$12,434 ",Facebook,Sports,"Canada, Michigan",Rural,TRUE,TRUE,FALSE,20.16.10.16
+1572,4/20/1998 0:00,45,adam,bellavance,male,Marketer Manager,3,"$12,868 ",Facebook,Sports,"Canada, Missouri",Urban,FALSE,TRUE,FALSE,0695-34 67 21
+1573,4/27/2021 11:02,31,adam,bellavance,male,Software Engineer,7,"$11,438 ",YouTube,Travel,"Canada, Michigan",Rural,FALSE,FALSE,FALSE,089-0877310
+1574,11/8/1996 0:00,48,adam,bellavance,male,Software Engineer,7,"$13,543 ",YouTube,Sports,"Canada, Minnesota",Rural,TRUE,FALSE,FALSE,40.32.21.21
+1575,12/25/1996 0:00,36,jeremy,lonsdale,female,Student,1,"$11,781 ",Instagram,Lifestlye,"Canada, Virginia",Rural,TRUE,TRUE,FALSE,011-4988260
+1576,1/17/1997 0:00,64,jeremy,lonsdale,non-binary,Marketer Manager,9,"$16,343 ",Instagram,Lifestlye,"Canada, Wisconsin",Sub_Urban,FALSE,TRUE,TRUE,(1) 354-2534
+1577,4/24/1997 0:00,33,jeremy,lonsdale,male,Software Engineer,2,"$12,263 ",YouTube,Travel,"Canada, Alabama",Urban,FALSE,FALSE,TRUE,(93) 203 4560
+1578,7/2/1997 0:00,22,jeremy,lonsdale,non-binary,Marketer Manager,5,"$10,211 ",Instagram,Sports,"Canada, Pennsylvania",Rural,FALSE,TRUE,FALSE,(95) 555 82 82
+1579,9/3/1997 0:00,52,heather,kirkland,male,Marketer Manager,5,"$18,699 ",YouTube,Lifestlye,"Canada, MassachUnited States of America s of Americaetts",Sub_Urban,TRUE,TRUE,TRUE,(11) 555-9482
+1580,11/5/1997 0:00,29,victoria,brennan,male,Marketer Manager,8,"$16,159 ",Instagram,Sports,"Canada, Illinois",Rural,FALSE,FALSE,TRUE,(503) 555-7555
+1581,1/14/1997 0:00,42,victoria,brennan,non-binary,Student,8,"$17,027 ",Facebook,Sports,"Canada, Arkansas",Sub_Urban,FALSE,FALSE,FALSE,(2) 283-2951
+1582,3/24/1997 0:00,38,katrina,willman,female,Software Engineer,7,"$10,331 ",Instagram,Sports,"Canada, New York",Rural,FALSE,FALSE,TRUE,(21) 555-0091
+1583,8/21/1997 0:00,53,katrina,willman,male,Student,7,"$16,860 ",Facebook,Travel,"Canada, Illinois",Urban,FALSE,TRUE,TRUE,(5) 555-1340
+1584,12/8/1997 0:00,40,katrina,willman,male,Software Engineer,6,"$18,044 ",Facebook,Sports,"Canada, ",Urban,FALSE,FALSE,TRUE,(503) 555-6874
+1585,12/31/1997 0:00,33,katrina,willman,male,Software Engineer,6,"$18,169 ",Facebook,Lifestlye,"Canada, Delaware",Rural,TRUE,TRUE,FALSE,2967 542
+1586,8/23/1996 0:00,56,julia,dunbar,non-binary,Student,9,"$18,742 ",Facebook,Sports,"Canada, Montana",Sub_Urban,FALSE,TRUE,FALSE,(198) 555-8888
+1587,10/14/1996 0:00,62,michael,kennedy,female,Marketer Manager,6,"$15,720 ",Instagram,Lifestlye,"Canada, ",Rural,TRUE,FALSE,TRUE,0555-09876
+1588,12/19/1996 0:00,59,michael,kennedy,non-binary,Marketer Manager,2,"$19,133 ",YouTube,Sports,"Canada, MassachUnited States of America s of Americaetts",Sub_Urban,FALSE,TRUE,TRUE,30.59.84.10
+1589,2/13/1997 0:00,56,michael,kennedy,non-binary,Software Engineer,2,"$10,727 ",Facebook,Lifestlye,"Canada, ",Rural,FALSE,FALSE,TRUE,61.77.61.10
+1590,3/3/1997 0:00,31,michael,kennedy,female,Student,5,"$14,975 ",Instagram,Lifestlye,"Canada, ",Sub_Urban,FALSE,FALSE,TRUE,(604) 555-3392
+1591,5/22/1997 0:00,48,guy,thornton,non-binary,Marketer Manager,4,"$13,243 ",Facebook,Sports,"Canada, ",Urban,TRUE,TRUE,TRUE,(509) 555-7969
+1592,6/9/1997 0:00,22,guy,thornton,female,Marketer Manager,2,"$10,648 ",Instagram,Sports,"Canada, Pennsylvania",Rural,TRUE,TRUE,TRUE,069-0245984
+1593,10/20/1997 0:00,52,arthur,gainer,male,Software Engineer,3,"$15,095 ",Instagram,Lifestlye,"Canada, New York",Urban,TRUE,FALSE,FALSE,(415) 555-5938
+1594,12/9/1997 0:00,40,arthur,gainer,female,Software Engineer,7,"$16,614 ",Instagram,Travel,"Canada, MassachUnited States of America s of Americaetts",Urban,FALSE,FALSE,TRUE,(9) 331-6954
+1595,12/12/1997 0:00,46,arthur,gainer,male,Student,8,"$17,135 ",YouTube,Sports,"Canada, Maryland",Rural,FALSE,FALSE,TRUE,(8) 34-56-12
+1596,1/30/1998 0:00,60,arthur,gainer,non-binary,Software Engineer,6,"$11,009 ",Instagram,Travel,"Canada, New York",Rural,TRUE,FALSE,FALSE,(503) 555-9573
+1597,2/18/1998 0:00,28,muhammed,macintyre,non-binary,Marketer Manager,5,"$11,550 ",Instagram,Sports,"Canada, District of Columbia",Sub_Urban,TRUE,FALSE,TRUE,035-640230
+1598,3/3/1998 0:00,35,allen,rosenblatt,male,Marketer Manager,1,"$18,995 ",YouTube,Sports,"Canada, Florida",Sub_Urban,FALSE,FALSE,TRUE,(02) 201 24 67
+1599,3/20/1998 0:00,64,russell,applegate,non-binary,Marketer Manager,8,"$17,492 ",YouTube,Sports,"Canada, MassachUnited States of America s of Americaetts",Urban,TRUE,TRUE,TRUE,(514) 555-8054
+1600,4/10/1998 0:00,29,russell,applegate,female,Marketer Manager,3,"$13,401 ",Instagram,Sports,"Canada, District of Columbia",Sub_Urban,FALSE,TRUE,TRUE,0342-023176
+1601,4/17/1998 0:00,26,russell,applegate,male,Student,6,"$17,447 ",YouTube,Travel,"Canada, New York",Sub_Urban,TRUE,TRUE,FALSE,(171) 555-7733
+1602,4/10/1998 0:00,27,alejandro,savely,non-binary,Student,3,"$15,424 ",Facebook,Sports,"Canada, Missouri",Rural,TRUE,TRUE,TRUE,(1) 135-5333
+1603,4/14/1998 0:00,61,alejandro,savely,male,Software Engineer,7,"$14,241 ",Facebook,Lifestlye,"Canada, North Carolina",Sub_Urban,TRUE,FALSE,FALSE,(907) 555-7584
+1604,5/5/1998 0:00,34,laura,armstrong,female,Software Engineer,7,"$13,161 ",YouTube,Lifestlye,"Canada, Colorado",Urban,FALSE,TRUE,TRUE,0221-0644327
+1605,8/6/1996 0:00,55,denny,ordway,female,Software Engineer,9,"$14,155 ",YouTube,Travel,"Canada, Minnesota",Sub_Urban,FALSE,TRUE,TRUE,(1) 42.34.22.66
+1606,10/29/1996 0:00,24,denny,ordway,non-binary,Student,5,"$17,478 ",Instagram,Sports,"Canada, ",Urban,TRUE,FALSE,FALSE,(5) 552-3745
+1607,11/4/1996 0:00,63,dean,katz,female,Marketer Manager,8,"$18,719 ",YouTube,Lifestlye,"Canada, Ohio",Rural,FALSE,TRUE,TRUE,6562-9722
+1608,1/6/1997 0:00,30,dean,katz,male,Software Engineer,8,"$19,215 ",Instagram,Travel,"Canada, New York",Urban,FALSE,FALSE,FALSE,(1) 356-5634
+1609,4/2/1997 0:00,57,nathan,gelder,female,Marketer Manager,1,"$16,617 ",Facebook,Sports,"Canada, District of Columbia",Sub_Urban,FALSE,FALSE,FALSE,(21) 555-4252
+1610,6/9/1997 0:00,59,mike,vittorini,male,Software Engineer,5,"$15,660 ",YouTube,Lifestlye,"Canada, Minnesota",Rural,FALSE,FALSE,FALSE,(11) 555-1189
+1611,8/12/1997 0:00,26,mike,vittorini,male,Software Engineer,3,"$18,624 ",Instagram,Lifestlye,"Canada, New Hampshire",Sub_Urban,TRUE,FALSE,TRUE,0372-035188
+1612,9/19/1997 0:00,44,jack,garza,female,Software Engineer,1,"$11,176 ",Instagram,Travel,"Canada, MassachUnited States of America s of Americaetts",Rural,FALSE,FALSE,TRUE,(1) 123-5555
+1613,9/18/1997 0:00,19,jack,garza,non-binary,Software Engineer,4,"$17,956 ",Facebook,Sports,"Canada, ",Rural,FALSE,TRUE,TRUE,(505) 555-5939
+1614,9/23/1997 0:00,22,bart,pistole,female,Software Engineer,8,"$18,592 ",YouTube,Sports,"Canada, North Carolina",Sub_Urban,TRUE,TRUE,TRUE,0522-556721
+1615,10/29/1997 0:00,46,victor,preis,male,Marketer Manager,3,"$12,233 ",Facebook,Lifestlye,"Canada, ",Sub_Urban,FALSE,TRUE,FALSE,(21) 555-3412
+1616,1/1/1998 0:00,54,saphhira,shifley,male,Software Engineer,2,"$14,700 ",Instagram,Lifestlye,"Canada, Indiana",Rural,FALSE,FALSE,TRUE,0897-034214
+1617,2/2/1998 0:00,55,saphhira,shifley,female,Marketer Manager,9,"$15,906 ",Instagram,Lifestlye,"Canada, Alabama",Rural,FALSE,TRUE,TRUE,(91) 745 6200
+1618,3/12/1998 0:00,36,harold,pawlan,non-binary,Student,5,"$17,860 ",YouTube,Sports,"Canada, Pennsylvania",Sub_Urban,TRUE,TRUE,FALSE,07-98 92 35
+1619,4/17/1998 0:00,25,anna,gayman,non-binary,Software Engineer,7,"$17,526 ",Instagram,Travel,"Canada, Vermont",Urban,TRUE,TRUE,FALSE,(208) 555-8097
+1620,9/24/1997 0:00,62,anna,gayman,male,Marketer Manager,2,"$15,559 ",YouTube,Travel,"Canada, New York",Sub_Urban,FALSE,TRUE,TRUE,(171) 555-1717
+1621,2/4/1998 0:00,18,anna,gayman,male,Student,9,"$16,732 ",Facebook,Sports,"Canada, ",Rural,FALSE,FALSE,FALSE,31 12 34 56
+1622,4/2/1998 0:00,39,anna,gayman,non-binary,Student,9,"$12,513 ",YouTube,Travel,"Canada, Texas",Sub_Urban,TRUE,TRUE,FALSE,(1) 47.55.60.10
+1623,1/31/1997 0:00,34,luke,foster,female,Student,4,"$17,830 ",YouTube,Lifestlye,"Canada, District of Columbia",Urban,TRUE,FALSE,FALSE,(307) 555-4680
+1624,10/23/1997 0:00,24,stephanie,phelps,male,Marketer Manager,4,"$19,965 ",Instagram,Travel,"Canada, MassachUnited States of America s of Americaetts",Sub_Urban,TRUE,FALSE,FALSE,(071) 23 67 22 20
+1625,11/27/1997 0:00,42,roy,französisch,male,Software Engineer,6,"$16,944 ",Instagram,Travel,"Canada, Washington",Rural,FALSE,TRUE,FALSE,(503) 555-3612
+1626,1/30/1998 0:00,62,keith,herrera,non-binary,Software Engineer,6,"$17,910 ",YouTube,Travel,"Canada, Arizona",Sub_Urban,FALSE,FALSE,TRUE,(406) 555-5834
+1627,4/28/1998 0:00,21,keith,herrera,female,Marketer Manager,1,"$15,649 ",Instagram,Lifestlye,"Canada, ",Rural,TRUE,FALSE,TRUE,0251-031259
+1628,5/4/1998 0:00,53,keith,herrera,non-binary,Software Engineer,9,"$11,096 ",Instagram,Sports,"Canada, Kansas",Rural,FALSE,FALSE,TRUE,(5) 555-2933
+1629,10/17/1996 0:00,23,keith,herrera,female,Marketer Manager,2,"$19,120 ",Instagram,Lifestlye,"Canada, Washington",Sub_Urban,FALSE,FALSE,TRUE,(11) 555-2167
+1630,11/18/1996 0:00,48,keith,herrera,female,Software Engineer,5,"$11,951 ",YouTube,Sports,"Canada, California",Rural,FALSE,FALSE,TRUE,(206) 555-8257
+1631,3/14/1997 0:00,36,keith,herrera,female,Student,9,"$19,746 ",Instagram,Sports,"Canada, New York",Rural,FALSE,FALSE,TRUE,86 21 32 43
+1632,4/8/1997 0:00,61,keith,herrera,male,Software Engineer,4,"$19,186 ",YouTube,Sports,"Canada, Georgia",Urban,FALSE,FALSE,TRUE,78.32.54.86
+1633,6/6/1997 0:00,56,keith,herrera,non-binary,Marketer Manager,3,"$17,799 ",Instagram,Travel,"Canada, New Jersey",Urban,FALSE,TRUE,FALSE,26.47.15.10
+1634,7/29/1997 0:00,44,keith,herrera,non-binary,Marketer Manager,7,"$18,804 ",Facebook,Travel,"Canada, ",Urban,FALSE,TRUE,TRUE,0711-020361
+1635,9/19/1997 0:00,27,kimberly,carter,female,Student,6,"$10,595 ",Instagram,Sports,"Canada, Michigan",Urban,TRUE,FALSE,TRUE,981-443655
+1636,3/26/1998 0:00,43,kimberly,carter,male,Marketer Manager,8,"$17,875 ",Instagram,Sports,"Canada, Missouri",Rural,TRUE,FALSE,TRUE,(14) 555-8122
+1637,12/30/1996 0:00,36,caroline,jumper,male,Software Engineer,3,"$19,033 ",YouTube,Travel,"Canada, Ohio",Sub_Urban,TRUE,TRUE,FALSE,(206) 555-4112
+1638,2/6/1997 0:00,56,philip,brown,non-binary,Software Engineer,5,"$14,439 ",YouTube,Lifestlye,"Canada, California",Rural,TRUE,TRUE,TRUE,90-224 8858
+1639,7/9/1997 0:00,20,victoria,brennan,male,Student,4,"$15,972 ",Instagram,Sports,"Canada, Michigan",Rural,TRUE,TRUE,TRUE,(26) 642-7012
+1640,2/16/1998 0:00,62,sung,pak,male,Marketer Manager,4,"$10,858 ",Facebook,Lifestlye,"Canada, New Hampshire",Rural,TRUE,TRUE,FALSE,030-0074321
+1641,3/18/1998 0:00,30,sung,pak,female,Student,4,"$15,519 ",Instagram,Travel,"Canada, Ohio",Sub_Urban,TRUE,FALSE,TRUE,(5) 555-4729
+1642,9/18/1996 0:00,45,joel,eaton,male,Software Engineer,8,"$17,385 ",Instagram,Sports,"Canada, New York",Urban,TRUE,FALSE,TRUE,(5) 555-3932
+1643,6/6/1997 0:00,37,michael,paige,female,Student,6,"$18,636 ",Facebook,Lifestlye,"Canada, ",Rural,TRUE,TRUE,FALSE,(171) 555-7788
+1644,8/20/1997 0:00,45,michael,paige,non-binary,Marketer Manager,3,"$19,980 ",YouTube,Lifestlye,"Canada, New Jersey",Rural,FALSE,TRUE,TRUE,0921-12 34 65
+1645,2/9/1998 0:00,25,natalie,fritzler,male,Student,5,"$14,317 ",Instagram,Lifestlye,"Canada, Texas",Urban,FALSE,TRUE,FALSE,0621-08460
+1646,2/11/1998 0:00,58,janet,molinari,non-binary,Marketer Manager,6,"$13,454 ",YouTube,Travel,"Canada, New York",Rural,TRUE,TRUE,TRUE,88.60.15.31
+1647,2/23/1998 0:00,56,janet,molinari,non-binary,Marketer Manager,5,"$11,030 ",YouTube,Travel,"Canada, Texas",Sub_Urban,FALSE,FALSE,TRUE,(91) 555 22 82
+1648,3/5/1998 0:00,18,shirley,daniels,male,Software Engineer,6,"$19,487 ",Facebook,Lifestlye,"Canada, Pennsylvania",Rural,FALSE,TRUE,TRUE,91.24.45.40
+1649,3/19/1998 0:00,20,ken,heidel,male,Software Engineer,8,"$17,906 ",Facebook,Lifestlye,"Canada, California",Rural,TRUE,TRUE,FALSE,(604) 555-4729
+1650,4/10/1998 0:00,30,ross,baird,non-binary,Software Engineer,7,"$11,447 ",YouTube,Travel,"Canada, ",Urban,TRUE,TRUE,FALSE,(171) 555-1212
+1651,4/27/1998 0:00,45,ross,baird,male,Marketer Manager,5,"$12,850 ",Instagram,Lifestlye,"Canada, Colorado",Rural,TRUE,FALSE,FALSE,(1) 135-5555
+1652,2/24/1997 0:00,42,ross,baird,female,Student,6,"$18,106 ",YouTube,Lifestlye,"Canada, Pennsylvania",Rural,FALSE,FALSE,TRUE,(5) 555-3392
+1653,9/8/1997 0:00,50,ross,baird,female,Marketer Manager,4,"$17,151 ",Instagram,Travel,"Canada, MassachUnited States of America s of Americaetts",Sub_Urban,FALSE,FALSE,TRUE,0452-076545
+1654,10/3/1997 0:00,55,dave,brooks,male,Software Engineer,9,"$19,503 ",Instagram,Lifestlye,"Canada, Minnesota",Urban,TRUE,TRUE,FALSE,(11) 555-7647
+1655,11/20/1997 0:00,23,mike,kennedy,non-binary,Software Engineer,4,"$16,952 ",Facebook,Lifestlye,"Canada, Illinois",Urban,FALSE,TRUE,FALSE,(171) 555-2282
+1656,11/12/1997 0:00,61,mike,kennedy,male,Student,1,"$14,055 ",Instagram,Lifestlye,"Canada, New Jersey",Sub_Urban,FALSE,TRUE,TRUE,0241-039123
+1657,1/21/1998 0:00,62,philisse,overcash,male,Software Engineer,7,"$15,402 ",Instagram,Travel,"Canada, ",Rural,FALSE,FALSE,TRUE,40.67.88.88
+1658,12/26/1997 0:00,49,philisse,overcash,non-binary,Software Engineer,7,"$19,281 ",YouTube,Lifestlye,"Canada, ",Urban,TRUE,FALSE,TRUE,(171) 555-0297
+1659,3/23/1998 0:00,62,brenda,bowman,non-binary,Software Engineer,4,"$11,672 ",Facebook,Travel,"Canada, ",Urban,FALSE,TRUE,TRUE,7675-3425
+1660,5/4/1998 0:00,64,cynthia,voltz,female,Student,3,"$14,532 ",Instagram,Travel,"Canada, Illinois",Rural,FALSE,TRUE,FALSE,(11) 555-9857
+1661,5/9/1997 0:00,38,pete,kriz,non-binary,Marketer Manager,8,"$14,924 ",Instagram,Sports,"Canada, Texas",Rural,FALSE,FALSE,TRUE,(91) 555 94 44
+1662,7/14/1997 0:00,33,pete,kriz,female,Software Engineer,5,"$16,085 ",Facebook,Sports,"Canada, Arizona",Urban,FALSE,TRUE,TRUE,20.16.10.16
+1663,8/5/1997 0:00,38,pete,kriz,non-binary,Student,7,"$17,734 ",YouTube,Lifestlye,"Canada, Colorado",Rural,FALSE,TRUE,TRUE,0695-34 67 21
+1664,8/4/1997 0:00,28,pete,kriz,male,Software Engineer,4,"$14,864 ",Facebook,Travel,"Canada, New York",Urban,FALSE,TRUE,TRUE,089-0877310
+1665,9/10/1997 0:00,54,pete,kriz,female,Student,4,"$19,316 ",Facebook,Sports,"Canada, Oklahoma",Rural,FALSE,FALSE,TRUE,40.32.21.21
+1666,9/30/1997 0:00,53,pete,kriz,female,Software Engineer,8,"$11,221 ",Instagram,Lifestlye,"Canada, Arizona",Rural,TRUE,TRUE,TRUE,011-4988260
+1667,2/4/1998 0:00,52,troy,blackwell,female,Student,8,"$12,860 ",Instagram,Sports,"Canada, New Jersey",Sub_Urban,TRUE,TRUE,TRUE,(1) 354-2534
+1668,3/18/1998 0:00,36,raymond,buch,male,Software Engineer,2,"$18,428 ",YouTube,Sports,"Canada, ",Rural,FALSE,TRUE,FALSE,(93) 203 4560
+1669,4/15/1998 0:00,37,raymond,buch,male,Marketer Manager,2,"$19,336 ",Instagram,Travel,"Canada, Connecticut",Sub_Urban,TRUE,TRUE,FALSE,(95) 555 82 82
+1670,4/27/2021 11:02,35,raymond,buch,male,Software Engineer,3,"$13,253 ",Instagram,Travel,"Canada, ",Rural,FALSE,FALSE,FALSE,(11) 555-9482
+1671,4/27/2021 11:02,64,raymond,buch,male,Student,3,"$13,782 ",Facebook,Sports,"Canada, Michigan",Urban,FALSE,FALSE,TRUE,(503) 555-7555
+1672,8/2/1996 0:00,58,raymond,buch,male,Software Engineer,1,"$16,957 ",Instagram,Sports,"Canada, Texas",Urban,FALSE,FALSE,FALSE,(2) 283-2951
+1673,12/24/1997 0:00,31,raymond,buch,female,Marketer Manager,3,"$10,766 ",YouTube,Travel,"Canada, Wisconsin",Rural,TRUE,TRUE,TRUE,(21) 555-0091
+1674,7/12/1996 0:00,32,ed,braxton,male,Software Engineer,6,"$12,681 ",Facebook,Lifestlye,"Canada, Minnesota",Rural,FALSE,FALSE,TRUE,(5) 555-1340
+1675,7/16/1996 0:00,48,ed,braxton,female,Student,8,"$17,710 ",YouTube,Travel,"Canada, Georgia",Urban,FALSE,TRUE,TRUE,(503) 555-6874
+1676,5/29/1997 0:00,18,ken,heidel,male,Student,6,"$17,482 ",Facebook,Sports,"Canada, Washington",Rural,TRUE,FALSE,TRUE,2967 542
+1677,9/2/1997 0:00,20,sanjit,chand,non-binary,Marketer Manager,5,"$15,086 ",Instagram,Lifestlye,"Canada, Washington",Sub_Urban,TRUE,TRUE,FALSE,(198) 555-8888
+1678,10/3/1997 0:00,33,natalie,fritzler,female,Student,4,"$17,964 ",Facebook,Sports,"Canada, Georgia",Sub_Urban,FALSE,FALSE,TRUE,0555-09876
+1679,12/17/1997 0:00,40,natalie,fritzler,non-binary,Software Engineer,3,"$12,665 ",Facebook,Lifestlye,"Canada, ",Sub_Urban,TRUE,FALSE,TRUE,30.59.84.10
+1680,12/19/1997 0:00,28,joseph,holt,female,Software Engineer,4,"$19,951 ",Instagram,Sports,"Canada, Texas",Sub_Urban,TRUE,FALSE,FALSE,61.77.61.10
+1681,3/2/1998 0:00,29,joseph,holt,non-binary,Software Engineer,7,"$13,513 ",Instagram,Lifestlye,"Canada, North Carolina",Sub_Urban,FALSE,TRUE,FALSE,(604) 555-3392
+1682,3/4/1998 0:00,27,joseph,holt,male,Student,1,"$10,495 ",YouTube,Lifestlye,"Canada, Maryland",Rural,FALSE,TRUE,FALSE,(509) 555-7969
+1683,3/5/1998 0:00,49,tanja,norvell,male,Software Engineer,7,"$15,822 ",YouTube,Sports,"Canada, ",Rural,FALSE,TRUE,TRUE,069-0245984
+1684,3/13/1998 0:00,33,tanja,norvell,male,Software Engineer,1,"$12,072 ",Instagram,Lifestlye,"Canada, Maryland",Sub_Urban,TRUE,FALSE,FALSE,(415) 555-5938
+1685,4/2/1998 0:00,25,tanja,norvell,female,Software Engineer,2,"$17,795 ",Instagram,Travel,"Canada, ",Rural,TRUE,TRUE,TRUE,(9) 331-6954
+1686,5/4/1998 0:00,55,tanja,norvell,non-binary,Marketer Manager,4,"$18,529 ",Instagram,Sports,"Canada, Connecticut",Rural,TRUE,TRUE,TRUE,(8) 34-56-12
+1687,5/1/1998 0:00,29,tanja,norvell,male,Student,1,"$13,949 ",Facebook,Travel,"Canada, New York",Sub_Urban,FALSE,TRUE,FALSE,(503) 555-9573
+1688,7/22/1996 0:00,41,joni,sundaresam,non-binary,Student,9,"$16,033 ",Facebook,Sports,"Canada, Washington",Rural,TRUE,TRUE,FALSE,035-640230
+1689,1/3/1997 0:00,45,david,smith,non-binary,Student,6,"$18,328 ",Facebook,Lifestlye,"Canada, Washington",Rural,TRUE,TRUE,FALSE,(02) 201 24 67
+1690,3/24/1997 0:00,25,craig,carreira,male,Marketer Manager,1,"$12,555 ",Instagram,Lifestlye,"Canada, Maryland",Rural,FALSE,TRUE,TRUE,(514) 555-8054
+1691,4/2/1997 0:00,45,maya,herman,male,Student,1,"$16,370 ",YouTube,Lifestlye,"Canada, California",Sub_Urban,FALSE,FALSE,TRUE,0342-023176
+1692,4/3/1997 0:00,53,jeremy,pistek,non-binary,Marketer Manager,6,"$14,415 ",Instagram,Sports,"Canada, Pennsylvania",Rural,FALSE,FALSE,TRUE,(171) 555-7733
+1693,4/11/1997 0:00,43,jeremy,pistek,male,Marketer Manager,4,"$15,959 ",Facebook,Travel,"Canada, Illinois",Urban,TRUE,TRUE,TRUE,(1) 135-5333
+1694,6/5/1997 0:00,25,jeremy,pistek,male,Student,4,"$19,107 ",Facebook,Travel,"Canada, Virginia",Urban,FALSE,FALSE,TRUE,(907) 555-7584
+1695,7/22/1997 0:00,45,jeremy,pistek,male,Software Engineer,6,"$15,993 ",Instagram,Sports,"Canada, Illinois",Sub_Urban,TRUE,FALSE,TRUE,0221-0644327
+1696,8/1/1997 0:00,45,jeremy,pistek,female,Software Engineer,7,"$15,021 ",Instagram,Sports,"Canada, Illinois",Urban,TRUE,TRUE,FALSE,(1) 42.34.22.66
+1697,8/26/1997 0:00,54,jeremy,pistek,non-binary,Student,9,"$12,907 ",Facebook,Travel,"Canada, New York",Sub_Urban,FALSE,TRUE,TRUE,(5) 552-3745
+1698,11/18/1997 0:00,58,kristen,hastings,non-binary,Student,5,"$12,914 ",Facebook,Travel,"Canada, Kentucky",Urban,FALSE,FALSE,FALSE,6562-9722
+1699,1/14/1998 0:00,53,jeremy,ellison,female,Marketer Manager,9,"$13,870 ",Facebook,Travel,"Canada, ",Urban,FALSE,TRUE,FALSE,(1) 356-5634
+1700,2/17/1998 0:00,44,john,grady,non-binary,Student,4,"$19,190 ",Instagram,Travel,"Canada, Pennsylvania",Urban,FALSE,FALSE,FALSE,(21) 555-4252
+1701,2/26/1998 0:00,34,john,grady,male,Marketer Manager,2,"$15,085 ",Facebook,Sports,"Canada, Illinois",Sub_Urban,FALSE,FALSE,FALSE,(11) 555-1189
+1702,3/27/1998 0:00,26,xylona,preis,non-binary,Student,3,"$16,546 ",Facebook,Sports,"Canada, California",Sub_Urban,TRUE,FALSE,FALSE,0372-035188
+1703,4/8/1998 0:00,50,erin,mull,male,Software Engineer,1,"$10,395 ",YouTube,Lifestlye,"Canada, Texas",Rural,TRUE,TRUE,TRUE,(1) 123-5555
+1704,4/3/1998 0:00,37,erin,mull,female,Software Engineer,6,"$10,938 ",Instagram,Travel,"Canada, Ohio",Sub_Urban,TRUE,FALSE,TRUE,(505) 555-5939
+1705,5/5/1998 0:00,30,michelle,tran,male,Student,6,"$19,828 ",YouTube,Lifestlye,"Canada, District of Columbia",Urban,FALSE,TRUE,TRUE,0522-556721
+1706,12/9/1996 0:00,45,michelle,tran,non-binary,Marketer Manager,1,"$12,510 ",YouTube,Sports,"Canada, Tennessee",Urban,TRUE,TRUE,TRUE,(21) 555-3412
+1707,1/3/1997 0:00,46,michelle,tran,non-binary,Software Engineer,3,"$14,636 ",Facebook,Sports,"Canada, Minnesota",Sub_Urban,FALSE,TRUE,FALSE,0897-034214
+1708,1/24/1997 0:00,30,sue,reed,non-binary,Marketer Manager,5,"$11,649 ",Instagram,Lifestlye,"Canada, Washington",Sub_Urban,FALSE,TRUE,FALSE,(91) 745 6200
+1709,7/21/1997 0:00,63,carl,weiss,female,Student,3,"$13,690 ",Facebook,Travel,"Canada, ",Sub_Urban,TRUE,TRUE,FALSE,07-98 92 35
+1710,10/15/1997 0:00,52,carl,weiss,female,Student,3,"$13,435 ",Instagram,Travel,"Canada, New Mexico",Rural,TRUE,FALSE,TRUE,(208) 555-8097
+1711,9/11/1996 0:00,23,carl,weiss,non-binary,Software Engineer,3,"$13,201 ",YouTube,Travel,"Canada, Oregon",Urban,FALSE,TRUE,TRUE,(171) 555-1717
+1712,10/23/1996 0:00,35,astrea,jones,male,Student,5,"$14,179 ",Instagram,Travel,"Canada, ",Rural,TRUE,TRUE,TRUE,31 12 34 56
+1713,10/24/1996 0:00,22,astrea,jones,female,Software Engineer,5,"$18,405 ",Facebook,Lifestlye,"Canada, Washington",Rural,FALSE,TRUE,TRUE,(1) 47.55.60.10
+1714,12/11/1996 0:00,64,sonia,sunley,non-binary,Marketer Manager,4,"$13,237 ",Facebook,Lifestlye,"Canada, New York",Urban,TRUE,TRUE,FALSE,(307) 555-4680
+1715,1/16/1997 0:00,42,rose,o'brian,non-binary,Software Engineer,1,"$13,862 ",Facebook,Sports,"Canada, New York",Urban,TRUE,TRUE,FALSE,(071) 23 67 22 20
+1716,2/7/1997 0:00,19,maribeth,dona,female,Software Engineer,5,"$10,058 ",Instagram,Travel,"Canada, Ohio",Sub_Urban,TRUE,FALSE,TRUE,(503) 555-3612
+1717,4/16/1997 0:00,27,sanjit,chand,female,Marketer Manager,5,"$14,938 ",YouTube,Travel,"Canada, Connecticut",Sub_Urban,TRUE,TRUE,TRUE,(406) 555-5834
+1718,5/1/1997 0:00,47,sanjit,chand,female,Software Engineer,4,"$12,971 ",YouTube,Travel,"Canada, Ohio",Rural,TRUE,TRUE,FALSE,0251-031259
+1719,6/17/1997 0:00,62,sanjit,chand,male,Software Engineer,6,"$19,719 ",Instagram,Lifestlye,"Canada, ",Sub_Urban,FALSE,FALSE,FALSE,(5) 555-2933
+1720,9/3/1997 0:00,22,sanjit,chand,male,Student,4,"$18,314 ",Facebook,Travel,"Canada, Louisiana",Sub_Urban,TRUE,TRUE,FALSE,(11) 555-2167
+1721,9/15/1997 0:00,50,maribeth,yedwab,non-binary,Marketer Manager,7,"$19,628 ",YouTube,Lifestlye,"Canada, Illinois",Urban,TRUE,FALSE,FALSE,(206) 555-8257
+1722,10/30/1997 0:00,18,maribeth,yedwab,female,Software Engineer,7,"$19,354 ",Facebook,Travel,"Canada, Ohio",Urban,TRUE,FALSE,TRUE,86 21 32 43
+1723,10/15/1997 0:00,35,maribeth,yedwab,male,Marketer Manager,2,"$13,345 ",Instagram,Travel,"Canada, Illinois",Sub_Urban,FALSE,FALSE,FALSE,78.32.54.86
+1724,10/31/1997 0:00,49,maribeth,yedwab,female,Marketer Manager,3,"$12,486 ",Facebook,Sports,"Canada, Minnesota",Urban,FALSE,FALSE,FALSE,26.47.15.10
+1725,11/21/1997 0:00,64,maribeth,yedwab,non-binary,Software Engineer,1,"$10,561 ",YouTube,Travel,"Canada, ",Sub_Urban,FALSE,TRUE,FALSE,0711-020361
+1726,2/25/1998 0:00,28,ed,braxton,male,Student,8,"$13,981 ",YouTube,Travel,"Canada, MassachUnited States of America s of Americaetts",Urban,FALSE,TRUE,FALSE,981-443655
+1727,3/18/1998 0:00,38,christopher,martinez,male,Marketer Manager,9,"$16,261 ",Facebook,Sports,"Canada, ",Urban,FALSE,FALSE,TRUE,(14) 555-8122
+1728,4/2/1998 0:00,43,christopher,martinez,male,Software Engineer,4,"$11,737 ",Instagram,Lifestlye,"Canada, Nebraska",Urban,TRUE,FALSE,TRUE,(206) 555-4112
+1729,5/6/1998 0:00,42,christopher,martinez,non-binary,Marketer Manager,6,"$19,096 ",Facebook,Lifestlye,"Canada, New York",Urban,TRUE,TRUE,TRUE,90-224 8858
+1730,10/3/1996 0:00,39,christopher,martinez,female,Student,9,"$13,554 ",Instagram,Travel,"Canada, Arizona",Sub_Urban,TRUE,FALSE,TRUE,(26) 642-7012
+1731,10/4/1996 0:00,44,lynn,smith,male,Student,6,"$19,918 ",Facebook,Lifestlye,"Canada, Michigan",Rural,FALSE,FALSE,TRUE,030-0074321
+1732,10/11/1996 0:00,30,lynn,smith,non-binary,Student,9,"$19,126 ",YouTube,Travel,"Canada, MassachUnited States of America s of Americaetts",Urban,FALSE,FALSE,TRUE,(5) 555-4729
+1733,3/21/1997 0:00,50,luke,foster,female,Software Engineer,4,"$17,095 ",Instagram,Sports,"Canada, Florida",Sub_Urban,TRUE,TRUE,FALSE,(5) 555-3932
+1734,8/11/1997 0:00,51,bradley,nguyen,non-binary,Software Engineer,8,"$18,266 ",Instagram,Sports,"Canada, New York",Sub_Urban,FALSE,FALSE,FALSE,(171) 555-7788
+1735,9/30/1997 0:00,58,bradley,nguyen,female,Student,9,"$10,294 ",Instagram,Travel,"Canada, Iowa",Urban,FALSE,TRUE,FALSE,0921-12 34 65
+1736,12/19/1997 0:00,52,alan,dominguez,non-binary,Software Engineer,4,"$18,212 ",YouTube,Sports,"Canada, Texas",Rural,FALSE,TRUE,FALSE,0621-08460
+1737,1/5/1998 0:00,18,alan,dominguez,female,Student,5,"$19,230 ",Facebook,Sports,"Canada, ",Urban,TRUE,TRUE,TRUE,88.60.15.31
+1738,1/23/1998 0:00,38,alan,dominguez,male,Software Engineer,8,"$15,330 ",YouTube,Travel,"Canada, Arizona",Sub_Urban,TRUE,FALSE,FALSE,(91) 555 22 82
+1739,3/16/1998 0:00,23,alan,dominguez,female,Student,6,"$14,655 ",Instagram,Travel,"Canada, ",Rural,FALSE,FALSE,TRUE,91.24.45.40
+1740,10/14/1996 0:00,45,dean,braden,non-binary,Marketer Manager,7,"$11,109 ",Facebook,Sports,"Canada, Hawaii",Sub_Urban,FALSE,TRUE,FALSE,(604) 555-4729
+1741,10/14/1996 0:00,34,dean,braden,non-binary,Student,3,"$13,771 ",YouTube,Lifestlye,"Canada, Michigan",Urban,FALSE,TRUE,FALSE,(171) 555-1212
+1742,2/28/1997 0:00,22,dean,braden,female,Student,7,"$18,563 ",Instagram,Lifestlye,"Canada, ",Rural,FALSE,TRUE,FALSE,(1) 135-5555
+1743,3/3/1997 0:00,48,matt,connell,male,Software Engineer,8,"$16,123 ",Instagram,Travel,"Canada, Minnesota",Sub_Urban,TRUE,FALSE,TRUE,(5) 555-3392
+1744,3/12/1997 0:00,22,logan,haushalter,male,Software Engineer,6,"$17,647 ",YouTube,Travel,"Canada, Illinois",Sub_Urban,FALSE,FALSE,FALSE,0452-076545
+1745,5/2/1997 0:00,55,logan,haushalter,female,Software Engineer,9,"$11,174 ",YouTube,Lifestlye,"Canada, Kentucky",Sub_Urban,TRUE,TRUE,TRUE,(11) 555-7647
+1746,5/26/1997 0:00,20,brian,dahlen,female,Software Engineer,6,"$11,164 ",YouTube,Sports,"Canada, Michigan",Urban,TRUE,TRUE,TRUE,(171) 555-2282
+1747,8/19/1997 0:00,40,patricia,hirasaki,non-binary,Software Engineer,9,"$19,284 ",Instagram,Lifestlye,"Canada, ",Rural,TRUE,FALSE,FALSE,0241-039123
+1748,10/29/1997 0:00,54,patricia,hirasaki,male,Software Engineer,4,"$19,475 ",YouTube,Lifestlye,"Canada, Maine",Urban,FALSE,TRUE,TRUE,40.67.88.88
+1749,1/5/1998 0:00,54,mike,gockenbach,female,Marketer Manager,8,"$19,037 ",Instagram,Lifestlye,"Canada, Maryland",Urban,TRUE,FALSE,TRUE,(171) 555-0297
+1750,1/13/1998 0:00,27,mike,gockenbach,male,Student,4,"$18,712 ",YouTube,Lifestlye,"Canada, Missouri",Urban,TRUE,FALSE,FALSE,7675-3425
+1751,1/30/1998 0:00,27,mike,gockenbach,female,Student,2,"$14,466 ",Instagram,Travel,"Canada, Illinois",Rural,FALSE,TRUE,FALSE,(11) 555-9857
+1752,2/20/1998 0:00,36,karen,bern,female,Student,9,"$15,538 ",Instagram,Travel,"Canada, New York",Urban,FALSE,TRUE,FALSE,(91) 555 94 44
+1753,4/22/1998 0:00,34,jasper,cacioppo,male,Marketer Manager,5,"$17,111 ",Facebook,Sports,"Canada, District of Columbia",Urban,FALSE,FALSE,FALSE,20.16.10.16
+1754,2/3/1998 0:00,38,rob,lucas,female,Student,4,"$18,434 ",YouTube,Sports,"Canada, Utah",Urban,TRUE,FALSE,FALSE,0695-34 67 21
+1755,4/8/1998 0:00,31,rob,lucas,female,Marketer Manager,2,"$12,800 ",YouTube,Sports,"Canada, New Mexico",Urban,FALSE,FALSE,FALSE,089-0877310
+1756,3/26/1998 0:00,26,allen,armold,non-binary,Marketer Manager,1,"$14,607 ",Instagram,Sports,"Canada, District of Columbia",Sub_Urban,TRUE,FALSE,TRUE,40.32.21.21
+1757,3/27/1998 0:00,63,emily,phan,female,Marketer Manager,7,"$17,262 ",Instagram,Lifestlye,"Canada, Michigan",Urban,TRUE,FALSE,FALSE,011-4988260
+1758,12/3/1996 0:00,18,mark,packer,female,Student,6,"$11,541 ",Instagram,Travel,"Canada, Georgia",Sub_Urban,FALSE,TRUE,FALSE,(1) 354-2534
+1759,11/27/1996 0:00,62,darren,koutras,female,Marketer Manager,2,"$12,765 ",Facebook,Travel,"Canada, Arkansas",Urban,TRUE,FALSE,TRUE,(93) 203 4560
+1760,12/24/1996 0:00,30,darren,koutras,non-binary,Student,8,"$14,491 ",Facebook,Sports,"Canada, California",Rural,TRUE,FALSE,FALSE,(95) 555 82 82
+1761,1/16/1997 0:00,21,bradley,drucker,male,Student,4,"$13,083 ",Instagram,Sports,"Canada, MassachUnited States of America s of Americaetts",Sub_Urban,TRUE,FALSE,TRUE,(11) 555-9482
+1762,2/14/1997 0:00,18,erin,smith,non-binary,Software Engineer,8,"$15,356 ",YouTube,Lifestlye,"Canada, New Jersey",Sub_Urban,TRUE,TRUE,FALSE,(503) 555-7555
+1763,2/25/1997 0:00,57,liz,mackendrick,non-binary,Software Engineer,7,"$11,857 ",YouTube,Lifestlye,"Canada, Ohio",Sub_Urban,FALSE,TRUE,FALSE,(2) 283-2951
+1764,4/10/1997 0:00,49,paul,gonzalez,male,Marketer Manager,5,"$10,769 ",Facebook,Sports,"Canada, MassachUnited States of America s of Americaetts",Sub_Urban,TRUE,FALSE,TRUE,(21) 555-0091
+1765,4/17/1997 0:00,51,paul,gonzalez,non-binary,Marketer Manager,8,"$11,422 ",Facebook,Travel,"Canada, ",Rural,FALSE,FALSE,FALSE,(5) 555-1340
+1766,8/6/1997 0:00,45,paul,gonzalez,male,Student,9,"$18,598 ",Instagram,Travel,"Canada, California",Urban,TRUE,TRUE,TRUE,(503) 555-6874
+1767,8/15/1997 0:00,48,adrian,shami,non-binary,Marketer Manager,5,"$12,972 ",YouTube,Travel,"Canada, ",Sub_Urban,TRUE,TRUE,FALSE,2967 542
+1768,12/26/1997 0:00,25,adrian,shami,male,Marketer Manager,5,"$11,872 ",Instagram,Sports,"Canada, Virginia",Rural,FALSE,TRUE,FALSE,(198) 555-8888
+1769,1/19/1998 0:00,56,dean,katz,female,Student,2,"$15,599 ",Facebook,Travel,"Canada, MassachUnited States of America s of Americaetts",Sub_Urban,TRUE,TRUE,TRUE,0555-09876
+1770,3/13/1998 0:00,43,dean,katz,non-binary,Marketer Manager,5,"$12,269 ",YouTube,Lifestlye,"Canada, California",Urban,TRUE,FALSE,FALSE,30.59.84.10
+1771,4/27/2021 11:02,51,dean,katz,non-binary,Marketer Manager,3,"$15,275 ",YouTube,Lifestlye,"Canada, ",Sub_Urban,TRUE,TRUE,FALSE,61.77.61.10
+1772,4/11/1997 0:00,20,bill,donatelli,non-binary,Student,7,"$14,749 ",Facebook,Sports,"Canada, Maryland",Rural,TRUE,FALSE,TRUE,(604) 555-3392
+1773,8/14/1997 0:00,29,ryan,crowe,non-binary,Student,5,"$16,571 ",Instagram,Lifestlye,"Canada, Maryland",Urban,TRUE,FALSE,FALSE,(509) 555-7969
+1774,1/7/1998 0:00,18,greg,tran,female,Software Engineer,8,"$19,373 ",Instagram,Sports,"Canada, Colorado",Rural,TRUE,TRUE,TRUE,069-0245984
+1775,4/10/1997 0:00,61,dean,katz,non-binary,Student,1,"$15,072 ",YouTube,Travel,"Canada, New Jersey",Urban,FALSE,TRUE,FALSE,(415) 555-5938
+1776,6/26/1997 0:00,22,ashley,jarboe,female,Software Engineer,3,"$19,631 ",Facebook,Travel,"Canada, Delaware",Urban,FALSE,TRUE,TRUE,(9) 331-6954
+1777,8/16/1996 0:00,47,olvera,toch,female,Marketer Manager,3,"$15,463 ",YouTube,Travel,"Canada, Indiana",Urban,FALSE,TRUE,FALSE,(8) 34-56-12
+1778,8/27/1996 0:00,47,olvera,toch,female,Student,9,"$17,450 ",Facebook,Lifestlye,"Canada, MassachUnited States of America s of Americaetts",Sub_Urban,TRUE,FALSE,TRUE,(503) 555-9573
+1779,11/6/1996 0:00,34,olvera,toch,female,Student,5,"$18,420 ",Instagram,Sports,"Canada, Kentucky",Rural,TRUE,FALSE,TRUE,035-640230
+1780,4/7/1997 0:00,64,liz,pelletier,male,Student,9,"$13,959 ",Facebook,Travel,"Canada, District of Columbia",Rural,TRUE,FALSE,FALSE,(02) 201 24 67
+1781,5/6/1997 0:00,40,liz,pelletier,male,Marketer Manager,9,"$11,313 ",Instagram,Sports,"Canada, Illinois",Rural,FALSE,TRUE,FALSE,(514) 555-8054
+1782,5/14/1997 0:00,32,cynthia,arntzen,non-binary,Software Engineer,1,"$17,847 ",Facebook,Travel,"Canada, Pennsylvania",Urban,TRUE,FALSE,TRUE,0342-023176
+1783,6/6/1997 0:00,54,cynthia,arntzen,male,Marketer Manager,2,"$11,070 ",YouTube,Lifestlye,"Canada, New York",Sub_Urban,FALSE,TRUE,FALSE,(171) 555-7733
+1784,6/6/1997 0:00,38,jeremy,farry,male,Marketer Manager,5,"$19,166 ",Instagram,Lifestlye,"Canada, Tennessee",Urban,TRUE,FALSE,TRUE,(1) 135-5333
+1785,7/16/1997 0:00,31,jeremy,farry,non-binary,Student,4,"$19,930 ",YouTube,Sports,"Canada, Kansas",Rural,TRUE,TRUE,FALSE,(907) 555-7584
+1786,8/13/1997 0:00,19,frank,preis,non-binary,Software Engineer,9,"$13,285 ",YouTube,Lifestlye,"Canada, New York",Sub_Urban,TRUE,FALSE,FALSE,0221-0644327
+1787,12/19/1997 0:00,28,ellis,ballard,non-binary,Marketer Manager,7,"$18,949 ",Instagram,Lifestlye,"Canada, ",Sub_Urban,FALSE,FALSE,TRUE,(1) 42.34.22.66
+1788,2/2/1998 0:00,56,ellis,ballard,male,Student,6,"$13,095 ",Instagram,Sports,"Canada, ",Sub_Urban,TRUE,TRUE,TRUE,(5) 552-3745
+1789,2/19/1998 0:00,55,ellis,ballard,male,Marketer Manager,7,"$10,320 ",YouTube,Travel,"Canada, MassachUnited States of America s of Americaetts",Rural,FALSE,FALSE,FALSE,6562-9722
+1790,3/12/1998 0:00,51,ellis,ballard,non-binary,Marketer Manager,1,"$12,321 ",YouTube,Lifestlye,"Canada, Texas",Sub_Urban,TRUE,FALSE,FALSE,(1) 356-5634
+1791,4/27/2021 11:02,55,jennifer,ferguson,female,Student,1,"$10,555 ",YouTube,Sports,"Canada, Michigan",Sub_Urban,TRUE,TRUE,FALSE,(21) 555-4252
+1792,7/4/1997 0:00,51,jennifer,ferguson,non-binary,Student,8,"$14,939 ",YouTube,Lifestlye,"Canada, Pennsylvania",Urban,FALSE,TRUE,FALSE,(11) 555-1189
+1793,11/5/1997 0:00,35,jennifer,ferguson,female,Software Engineer,2,"$15,432 ",Instagram,Lifestlye,"Canada, New York",Urban,TRUE,TRUE,FALSE,0372-035188
+1794,11/21/1997 0:00,47,jennifer,ferguson,female,Marketer Manager,9,"$11,386 ",Instagram,Lifestlye,"Canada, MassachUnited States of America s of Americaetts",Sub_Urban,TRUE,TRUE,TRUE,(1) 123-5555
+1795,2/13/1998 0:00,32,sarah,foster,non-binary,Student,7,"$14,763 ",YouTube,Lifestlye,"Canada, ",Sub_Urban,TRUE,TRUE,FALSE,(505) 555-5939
+1796,8/23/1996 0:00,44,trudy,glocke,non-binary,Student,6,"$16,854 ",Facebook,Sports,"Canada, Pennsylvania",Urban,TRUE,FALSE,FALSE,0522-556721
+1797,9/11/1996 0:00,51,trudy,glocke,non-binary,Software Engineer,1,"$17,637 ",Facebook,Sports,"Canada, Pennsylvania",Urban,FALSE,TRUE,TRUE,(21) 555-3412
+1798,10/28/1996 0:00,55,trudy,glocke,male,Software Engineer,1,"$14,841 ",Instagram,Sports,"Canada, Michigan",Urban,FALSE,FALSE,TRUE,0897-034214
+1799,12/2/1996 0:00,50,carlos,soltero,female,Student,2,"$13,867 ",YouTube,Lifestlye,"Canada, ",Rural,TRUE,FALSE,TRUE,(91) 745 6200
+1800,12/13/1996 0:00,41,carlos,soltero,male,Software Engineer,6,"$13,793 ",YouTube,Lifestlye,"Canada, MassachUnited States of America s of Americaetts",Rural,TRUE,TRUE,FALSE,07-98 92 35
+1801,3/5/1997 0:00,32,charles,crestani,male,Student,6,"$17,373 ",Instagram,Lifestlye,"Canada, Illinois",Urban,FALSE,FALSE,TRUE,(208) 555-8097
+1802,4/16/1997 0:00,47,dianna,vittorini,non-binary,Marketer Manager,2,"$12,513 ",Facebook,Sports,"Canada, Virginia",Sub_Urban,TRUE,FALSE,TRUE,(171) 555-1717
+1803,5/23/1997 0:00,59,dianna,vittorini,male,Software Engineer,1,"$13,803 ",Facebook,Lifestlye,"Canada, California",Urban,FALSE,TRUE,TRUE,31 12 34 56
+1804,12/25/1997 0:00,34,dianna,vittorini,non-binary,Marketer Manager,5,"$12,327 ",Facebook,Travel,"Canada, Maine",Rural,TRUE,FALSE,TRUE,(1) 47.55.60.10
+1805,1/13/1998 0:00,22,dianna,vittorini,female,Marketer Manager,5,"$18,809 ",Instagram,Lifestlye,"Canada, South Carolina",Sub_Urban,FALSE,TRUE,FALSE,(307) 555-4680
+1806,2/26/1998 0:00,46,dianna,vittorini,non-binary,Marketer Manager,2,"$12,165 ",Facebook,Travel,"Canada, ",Rural,FALSE,TRUE,FALSE,(071) 23 67 22 20
+1807,4/13/1998 0:00,21,bruce,degenhardt,male,Student,6,"$13,308 ",Instagram,Lifestlye,"Canada, North Carolina",Sub_Urban,FALSE,TRUE,FALSE,(503) 555-3612
+1808,4/27/2021 11:02,27,bruce,degenhardt,male,Marketer Manager,9,"$16,452 ",Instagram,Sports,"Canada, ",Rural,FALSE,FALSE,TRUE,(406) 555-5834
+1809,4/27/2021 11:02,34,zuschuss,carroll,non-binary,Marketer Manager,2,"$18,067 ",YouTube,Lifestlye,"Canada, Alabama",Sub_Urban,TRUE,FALSE,TRUE,0251-031259
+1810,1/22/1997 0:00,27,zuschuss,carroll,non-binary,Marketer Manager,2,"$17,642 ",Facebook,Travel,"Canada, Ohio",Sub_Urban,TRUE,FALSE,TRUE,(5) 555-2933
+1811,3/31/1997 0:00,34,zuschuss,carroll,male,Student,3,"$16,404 ",Instagram,Travel,"Canada, Pennsylvania",Sub_Urban,FALSE,FALSE,TRUE,(11) 555-2167
+1812,9/1/1997 0:00,37,zuschuss,carroll,female,Marketer Manager,7,"$10,992 ",Facebook,Lifestlye,"Canada, Minnesota",Sub_Urban,FALSE,TRUE,TRUE,(206) 555-8257
+1813,10/14/1997 0:00,41,melanie,seite,female,Marketer Manager,6,"$15,424 ",Facebook,Travel,"Canada, Maryland",Rural,FALSE,FALSE,TRUE,86 21 32 43
+1814,11/14/1997 0:00,22,melanie,seite,non-binary,Software Engineer,8,"$19,569 ",YouTube,Travel,"Canada, Pennsylvania",Rural,FALSE,TRUE,FALSE,78.32.54.86
+1815,1/8/1998 0:00,51,lena,radford,female,Student,8,"$14,381 ",Facebook,Sports,"Canada, District of Columbia",Sub_Urban,TRUE,FALSE,FALSE,26.47.15.10
+1816,1/23/1998 0:00,23,lena,radford,male,Marketer Manager,6,"$13,174 ",YouTube,Lifestlye,"Canada, Texas",Sub_Urban,FALSE,FALSE,TRUE,0711-020361
+1817,2/16/1998 0:00,19,lena,radford,non-binary,Software Engineer,3,"$14,782 ",Instagram,Lifestlye,"Canada, Texas",Rural,FALSE,FALSE,FALSE,981-443655
+1818,3/4/1998 0:00,30,lena,radford,male,Student,3,"$19,497 ",Facebook,Lifestlye,"Canada, Idaho",Sub_Urban,FALSE,FALSE,TRUE,(14) 555-8122
+1819,3/20/1998 0:00,60,theone,pippenger,male,Student,1,"$15,560 ",Instagram,Travel,"Canada, Virginia",Sub_Urban,FALSE,FALSE,TRUE,(206) 555-4112
+1820,4/15/1998 0:00,60,chloris,kastensmidt,female,Student,7,"$17,460 ",Facebook,Lifestlye,"Canada, California",Sub_Urban,FALSE,TRUE,FALSE,90-224 8858
+1821,4/27/2021 11:02,28,chloris,kastensmidt,non-binary,Student,5,"$13,078 ",Instagram,Lifestlye,"Canada, Illinois",Urban,FALSE,FALSE,TRUE,(26) 642-7012
+1822,9/25/1996 0:00,64,chloris,kastensmidt,non-binary,Student,4,"$12,983 ",Facebook,Sports,"Canada, Maryland",Sub_Urban,FALSE,FALSE,FALSE,030-0074321
+1823,10/10/1996 0:00,40,alan,shonely,female,Student,4,"$17,259 ",Facebook,Sports,"Canada, MassachUnited States of America s of Americaetts",Urban,TRUE,FALSE,TRUE,(5) 555-4729
+1824,5/30/1997 0:00,33,alan,shonely,male,Marketer Manager,4,"$16,054 ",Facebook,Sports,"Canada, District of Columbia",Sub_Urban,FALSE,FALSE,TRUE,(5) 555-3932
+1825,9/18/1997 0:00,48,alan,shonely,male,Marketer Manager,6,"$12,523 ",Facebook,Travel,"Canada, District of Columbia",Rural,FALSE,TRUE,FALSE,(171) 555-7788
+1826,9/17/1997 0:00,28,alan,shonely,male,Marketer Manager,8,"$19,677 ",Facebook,Lifestlye,"Canada, New York",Urban,FALSE,FALSE,TRUE,0921-12 34 65
+1827,2/11/1998 0:00,33,alan,shonely,male,Marketer Manager,8,"$14,581 ",Facebook,Sports,"Canada, MassachUnited States of America s of Americaetts",Urban,TRUE,TRUE,TRUE,0621-08460
+1828,2/20/1998 0:00,25,andrew,roberts,non-binary,Software Engineer,5,"$15,609 ",Facebook,Sports,"Canada, California",Sub_Urban,TRUE,FALSE,TRUE,88.60.15.31
+1829,4/16/1998 0:00,21,andrew,roberts,non-binary,Marketer Manager,6,"$12,001 ",Facebook,Sports,"Canada, North Carolina",Sub_Urban,TRUE,TRUE,FALSE,(91) 555 22 82
+1830,8/9/1996 0:00,57,andrew,roberts,female,Student,4,"$11,387 ",Facebook,Lifestlye,"Canada, Texas",Urban,FALSE,TRUE,TRUE,91.24.45.40
+1831,9/18/1996 0:00,21,nona,balk,female,Marketer Manager,9,"$16,552 ",Instagram,Lifestlye,"Canada, ",Rural,FALSE,TRUE,TRUE,(604) 555-4729
+1832,1/8/1997 0:00,42,nona,balk,non-binary,Marketer Manager,8,"$11,030 ",YouTube,Lifestlye,"Canada, Virginia",Rural,FALSE,TRUE,TRUE,(171) 555-1212
+1833,3/11/1997 0:00,20,giulietta,dortch,non-binary,Student,1,"$19,957 ",Facebook,Travel,"Canada, MassachUnited States of America s of Americaetts",Sub_Urban,TRUE,TRUE,FALSE,(1) 135-5555
+1834,8/21/1997 0:00,49,giulietta,dortch,male,Marketer Manager,2,"$11,220 ",YouTube,Travel,"Canada, Pennsylvania",Rural,FALSE,FALSE,FALSE,(5) 555-3392
+1835,11/27/1997 0:00,20,clytie,kelty,male,Marketer Manager,9,"$16,035 ",Facebook,Sports,"Canada, Texas",Rural,TRUE,TRUE,FALSE,0452-076545
+1836,12/22/1997 0:00,44,clytie,kelty,female,Marketer Manager,8,"$19,810 ",Facebook,Lifestlye,"Canada, Michigan",Sub_Urban,TRUE,FALSE,FALSE,(11) 555-7647
+1837,1/12/1998 0:00,46,nat,gilpin,non-binary,Software Engineer,3,"$19,455 ",Instagram,Sports,"Canada, Nevada",Rural,TRUE,TRUE,FALSE,(171) 555-2282
+1838,3/13/1998 0:00,49,nat,gilpin,female,Marketer Manager,8,"$16,523 ",Instagram,Lifestlye,"Canada, Minnesota",Sub_Urban,TRUE,TRUE,TRUE,0241-039123
+1839,3/23/1998 0:00,36,nat,gilpin,non-binary,Student,1,"$18,074 ",YouTube,Lifestlye,"Canada, Pennsylvania",Urban,TRUE,FALSE,FALSE,40.67.88.88
+1840,5/9/1997 0:00,38,nat,gilpin,male,Student,4,"$19,063 ",Instagram,Lifestlye,"Canada, ",Sub_Urban,FALSE,TRUE,FALSE,(171) 555-0297
+1841,8/29/1997 0:00,22,nat,gilpin,female,Marketer Manager,3,"$10,834 ",Instagram,Travel,"Canada, Delaware",Urban,FALSE,TRUE,TRUE,7675-3425
+1842,12/10/1997 0:00,35,christina,anderson,female,Marketer Manager,6,"$19,110 ",YouTube,Travel,"Canada, ",Urban,TRUE,TRUE,FALSE,(11) 555-9857
+1843,2/19/1998 0:00,45,sylvia,foulston,non-binary,Marketer Manager,7,"$11,724 ",Instagram,Lifestlye,"Canada, North Carolina",Rural,FALSE,TRUE,TRUE,(91) 555 94 44
+1844,2/27/1998 0:00,59,sylvia,foulston,male,Student,4,"$16,598 ",Facebook,Sports,"Canada, New York",Rural,FALSE,FALSE,FALSE,20.16.10.16
+1845,4/23/1998 0:00,39,sylvia,foulston,female,Student,7,"$12,413 ",YouTube,Lifestlye,"Canada, New York",Rural,TRUE,TRUE,TRUE,0695-34 67 21
+1846,4/20/1998 0:00,38,sylvia,foulston,male,Software Engineer,9,"$19,505 ",YouTube,Lifestlye,"Canada, Indiana",Sub_Urban,TRUE,TRUE,TRUE,089-0877310
+1847,10/21/1996 0:00,23,meg,o'connel,female,Software Engineer,2,"$15,993 ",Facebook,Sports,"Canada, MassachUnited States of America s of Americaetts",Rural,FALSE,FALSE,FALSE,40.32.21.21
+1848,11/4/1996 0:00,18,annie,thurman,male,Software Engineer,3,"$14,498 ",Instagram,Lifestlye,"Canada, ",Urban,FALSE,FALSE,FALSE,011-4988260
+1849,12/13/1996 0:00,22,logan,currie,non-binary,Student,5,"$12,105 ",YouTube,Sports,"Canada, Idaho",Rural,FALSE,TRUE,TRUE,(1) 354-2534
+1850,1/27/1997 0:00,58,logan,currie,female,Software Engineer,3,"$12,568 ",YouTube,Travel,"Canada, Virginia",Rural,FALSE,TRUE,TRUE,(93) 203 4560
+1851,2/10/1997 0:00,29,fred,mcmath,female,Marketer Manager,8,"$19,330 ",Facebook,Travel,"Canada, District of Columbia",Sub_Urban,TRUE,FALSE,TRUE,(95) 555 82 82
+1852,4/21/1997 0:00,43,fred,mcmath,male,Marketer Manager,8,"$10,209 ",Facebook,Sports,"Canada, ",Sub_Urban,FALSE,TRUE,TRUE,(11) 555-9482
+1853,6/18/1997 0:00,63,fred,mcmath,male,Student,8,"$19,256 ",Instagram,Travel,"Canada, Rhode Island",Urban,TRUE,FALSE,TRUE,(503) 555-7555
+1854,6/19/1997 0:00,51,brian,dahlen,female,Software Engineer,9,"$14,911 ",YouTube,Travel,"Canada, Kentucky",Sub_Urban,TRUE,TRUE,TRUE,(2) 283-2951
+1855,7/14/1997 0:00,31,brian,dahlen,non-binary,Marketer Manager,4,"$12,220 ",Instagram,Sports,"Canada, ",Rural,FALSE,FALSE,TRUE,(21) 555-0091
+1856,7/29/1997 0:00,43,denny,joy,male,Student,5,"$10,233 ",Instagram,Travel,"Canada, MassachUnited States of America s of Americaetts",Sub_Urban,FALSE,FALSE,FALSE,(5) 555-1340
+1857,8/8/1997 0:00,62,max,engle,male,Software Engineer,5,"$10,792 ",Facebook,Lifestlye,"Canada, District of Columbia",Urban,FALSE,FALSE,TRUE,(503) 555-6874
+1858,8/7/1997 0:00,44,max,engle,male,Marketer Manager,8,"$13,110 ",YouTube,Lifestlye,"Canada, New York",Rural,TRUE,TRUE,FALSE,2967 542
+1859,11/5/1997 0:00,26,rick,bensley,female,Software Engineer,7,"$12,166 ",YouTube,Sports,"Canada, New York",Urban,TRUE,TRUE,FALSE,(198) 555-8888
+1860,8/13/1996 0:00,43,rick,bensley,female,Student,9,"$18,526 ",YouTube,Travel,"Canada, Rhode Island",Sub_Urban,TRUE,TRUE,TRUE,0555-09876
+1861,6/30/1997 0:00,64,justin,deggeller,female,Software Engineer,8,"$19,551 ",Facebook,Lifestlye,"Canada, Texas",Sub_Urban,TRUE,TRUE,TRUE,30.59.84.10
+1862,10/13/1997 0:00,39,john,lee,female,Student,2,"$15,193 ",Facebook,Lifestlye,"Canada, Washington",Urban,FALSE,FALSE,FALSE,61.77.61.10
+1863,1/14/1998 0:00,64,john,lee,non-binary,Software Engineer,4,"$11,214 ",Facebook,Travel,"Canada, ",Rural,TRUE,FALSE,TRUE,(604) 555-3392
+1864,3/18/1998 0:00,47,sean,christensen,non-binary,Marketer Manager,6,"$14,419 ",Facebook,Travel,"Canada, Texas",Sub_Urban,TRUE,FALSE,TRUE,(509) 555-7969
+1865,4/29/1997 0:00,60,tamara,willingham,female,Student,2,"$17,314 ",Facebook,Lifestlye,"Canada, ",Sub_Urban,FALSE,TRUE,FALSE,069-0245984
+1866,11/28/1997 0:00,34,chuck,clark,non-binary,Student,7,"$18,475 ",YouTube,Lifestlye,"Canada, Utah",Rural,TRUE,TRUE,FALSE,(415) 555-5938
+1867,5/1/1998 0:00,43,barry,blumstein,male,Student,3,"$10,212 ",Instagram,Sports,"Canada, Pennsylvania",Sub_Urban,TRUE,TRUE,FALSE,(9) 331-6954
+1868,1/14/1997 0:00,53,barry,blumstein,male,Software Engineer,3,"$11,658 ",YouTube,Sports,"Canada, New York",Urban,FALSE,FALSE,TRUE,(8) 34-56-12
+1869,5/19/1997 0:00,18,anthony,rawles,male,Software Engineer,2,"$15,024 ",Instagram,Lifestlye,"Canada, Minnesota",Sub_Urban,TRUE,TRUE,TRUE,(503) 555-9573
+1870,3/6/1998 0:00,25,anthony,rawles,female,Marketer Manager,8,"$19,609 ",Facebook,Sports,"Canada, Colorado",Sub_Urban,TRUE,TRUE,FALSE,035-640230
+1871,3/27/1998 0:00,52,anthony,rawles,male,Student,6,"$15,917 ",Instagram,Lifestlye,"Canada, ",Rural,TRUE,FALSE,TRUE,(02) 201 24 67
+1872,4/21/1998 0:00,32,steven,roelle,non-binary,Student,1,"$15,141 ",YouTube,Lifestlye,"Canada, California",Urban,TRUE,FALSE,FALSE,(514) 555-8054
+1873,7/29/1996 0:00,64,allen,rosenblatt,female,Software Engineer,1,"$11,794 ",YouTube,Sports,"Canada, Missouri",Rural,FALSE,TRUE,TRUE,0342-023176
+1874,10/9/1996 0:00,39,allen,rosenblatt,non-binary,Software Engineer,7,"$15,988 ",Instagram,Sports,"Canada, District of Columbia",Sub_Urban,TRUE,FALSE,FALSE,(171) 555-7733
+1875,10/29/1996 0:00,31,craig,reiter,male,Marketer Manager,8,"$18,296 ",Facebook,Travel,"Canada, North Carolina",Sub_Urban,FALSE,TRUE,TRUE,(1) 135-5333
+1876,3/14/1997 0:00,43,craig,reiter,male,Marketer Manager,5,"$15,578 ",Facebook,Travel,"Canada, ",Rural,TRUE,FALSE,FALSE,(907) 555-7584
+1877,7/16/1997 0:00,45,craig,reiter,male,Software Engineer,5,"$15,551 ",YouTube,Travel,"Canada, New York",Rural,FALSE,FALSE,TRUE,0221-0644327
+1878,9/26/1997 0:00,40,eugene,hildebrand,female,Student,4,"$13,845 ",Instagram,Lifestlye,"Canada, Minnesota",Rural,FALSE,FALSE,TRUE,(1) 42.34.22.66
+1879,10/21/1997 0:00,31,eugene,hildebrand,non-binary,Marketer Manager,6,"$16,906 ",Facebook,Sports,"Canada, Utah",Urban,FALSE,TRUE,FALSE,(5) 552-3745
+1880,2/4/1998 0:00,41,cassandra,brandow,female,Software Engineer,6,"$10,378 ",Facebook,Lifestlye,"Canada, Connecticut",Sub_Urban,TRUE,TRUE,TRUE,6562-9722
+1881,3/30/1998 0:00,19,cassandra,brandow,female,Software Engineer,3,"$13,293 ",YouTube,Sports,"Canada, Idaho",Rural,TRUE,TRUE,TRUE,(1) 356-5634
+1882,4/27/1998 0:00,62,cassandra,brandow,male,Student,9,"$13,329 ",Facebook,Lifestlye,"Canada, California",Sub_Urban,TRUE,FALSE,FALSE,(21) 555-4252
+1883,1/30/1997 0:00,43,cassandra,brandow,female,Software Engineer,7,"$14,808 ",Instagram,Travel,"Canada, ",Urban,FALSE,FALSE,TRUE,(11) 555-1189
+1884,5/13/1997 0:00,31,sibella,parks,female,Software Engineer,1,"$17,937 ",YouTube,Travel,"Canada, Texas",Urban,TRUE,FALSE,TRUE,0372-035188
+1885,6/5/1997 0:00,24,roy,collins,male,Marketer Manager,7,"$10,224 ",YouTube,Travel,"Canada, California",Urban,TRUE,FALSE,TRUE,(1) 123-5555
+1886,7/1/1997 0:00,20,tiffany,house,female,Software Engineer,5,"$10,737 ",Instagram,Lifestlye,"Canada, Rhode Island",Urban,TRUE,TRUE,FALSE,(505) 555-5939
+1887,9/30/1997 0:00,64,tiffany,house,male,Software Engineer,5,"$10,235 ",YouTube,Sports,"Canada, Indiana",Sub_Urban,TRUE,TRUE,FALSE,0522-556721
+1888,12/9/1997 0:00,40,tiffany,house,male,Marketer Manager,2,"$10,711 ",Facebook,Sports,"Canada, Maryland",Urban,FALSE,TRUE,FALSE,(21) 555-3412
+1889,1/23/1998 0:00,63,resi,pölking,male,Student,4,"$15,988 ",Facebook,Travel,"Canada, ",Urban,FALSE,FALSE,FALSE,0897-034214
+1890,4/10/1998 0:00,60,meg,o'connel,male,Student,6,"$11,888 ",Instagram,Travel,"Canada, California",Rural,TRUE,FALSE,FALSE,(91) 745 6200
+1891,4/16/1998 0:00,64,meg,o'connel,female,Marketer Manager,7,"$17,173 ",Facebook,Travel,"Canada, South Carolina",Urban,TRUE,TRUE,TRUE,07-98 92 35
+1892,10/23/1996 0:00,62,meg,o'connel,male,Marketer Manager,5,"$11,259 ",Instagram,Travel,"Canada, Washington",Rural,TRUE,FALSE,TRUE,(208) 555-8097
+1893,11/20/1996 0:00,35,tamara,dahlen,male,Student,9,"$15,246 ",Instagram,Sports,"Canada, ",Urban,FALSE,TRUE,FALSE,(171) 555-1717
+1894,3/21/1997 0:00,55,rob,beeghly,female,Student,3,"$17,271 ",Facebook,Lifestlye,"Canada, Washington",Urban,TRUE,FALSE,TRUE,31 12 34 56
+1895,4/29/1997 0:00,52,rob,beeghly,female,Student,1,"$10,748 ",Instagram,Lifestlye,"Canada, Texas",Rural,FALSE,FALSE,TRUE,(1) 47.55.60.10
+1896,4/6/1998 0:00,32,rob,beeghly,non-binary,Student,4,"$13,551 ",Facebook,Lifestlye,"Canada, North Carolina",Urban,FALSE,TRUE,TRUE,(307) 555-4680
+1897,4/27/2021 11:02,42,carol,darley,female,Student,9,"$16,400 ",YouTube,Lifestlye,"Canada, Maryland",Sub_Urban,TRUE,TRUE,TRUE,(071) 23 67 22 20
+1898,11/25/1996 0:00,54,carol,darley,female,Marketer Manager,4,"$16,643 ",YouTube,Travel,"Canada, New York",Sub_Urban,TRUE,FALSE,FALSE,(503) 555-3612
+1899,1/1/1997 0:00,45,carol,darley,non-binary,Software Engineer,2,"$18,701 ",Instagram,Travel,"Canada, ",Urban,TRUE,TRUE,FALSE,(406) 555-5834
+1900,3/3/1997 0:00,27,carol,darley,female,Student,5,"$11,823 ",Facebook,Travel,"Canada, Colorado",Sub_Urban,FALSE,TRUE,TRUE,0251-031259
+1901,4/9/1997 0:00,56,doug,jacobs,female,Student,3,"$16,852 ",Facebook,Lifestlye,"Canada, Texas",Rural,FALSE,FALSE,TRUE,(5) 555-2933
+1902,5/12/1997 0:00,34,doug,jacobs,female,Software Engineer,9,"$17,777 ",YouTube,Travel,"Canada, New York",Urban,TRUE,FALSE,FALSE,(11) 555-2167
+1903,7/18/1997 0:00,56,doug,jacobs,female,Software Engineer,4,"$14,232 ",YouTube,Travel,"Canada, Florida",Urban,FALSE,FALSE,TRUE,(206) 555-8257
+1904,10/8/1997 0:00,39,grant,thornton,non-binary,Software Engineer,6,"$16,519 ",Facebook,Sports,"Canada, MassachUnited States of America s of Americaetts",Rural,TRUE,TRUE,TRUE,86 21 32 43
+1905,11/26/1997 0:00,43,grant,thornton,female,Software Engineer,2,"$11,777 ",Instagram,Sports,"Canada, Pennsylvania",Rural,TRUE,FALSE,TRUE,78.32.54.86
+1906,1/26/1998 0:00,61,michael,chen,female,Software Engineer,6,"$11,222 ",YouTube,Travel,"Canada, Illinois",Rural,FALSE,FALSE,FALSE,26.47.15.10
+1907,4/29/1998 0:00,42,michael,chen,non-binary,Software Engineer,3,"$17,630 ",Instagram,Sports,"Canada, Texas",Urban,FALSE,FALSE,FALSE,0711-020361
+1908,10/25/1996 0:00,34,michael,chen,male,Marketer Manager,9,"$11,777 ",Instagram,Sports,"Canada, MassachUnited States of America s of Americaetts",Rural,FALSE,FALSE,TRUE,981-443655
+1909,1/2/1997 0:00,30,ralph,arnett,non-binary,Software Engineer,2,"$19,496 ",YouTube,Travel,"Canada, Missouri",Rural,FALSE,FALSE,TRUE,(14) 555-8122
+1910,3/4/1997 0:00,37,naresj,patel,male,Software Engineer,9,"$17,490 ",Instagram,Travel,"Canada, Illinois",Sub_Urban,TRUE,TRUE,TRUE,(206) 555-4112
+1911,3/25/1997 0:00,42,naresj,patel,non-binary,Marketer Manager,5,"$14,859 ",Instagram,Travel,"Canada, Georgia",Sub_Urban,TRUE,FALSE,TRUE,90-224 8858
+1912,1/9/1998 0:00,21,naresj,patel,non-binary,Software Engineer,8,"$18,893 ",Facebook,Travel,"Canada, Maryland",Urban,TRUE,FALSE,TRUE,(26) 642-7012
+1913,4/13/1998 0:00,27,alan,barnes,female,Student,2,"$18,118 ",Instagram,Lifestlye,"Canada, Wisconsin",Sub_Urban,FALSE,TRUE,TRUE,030-0074321
+1914,7/30/1996 0:00,20,alan,barnes,male,Student,6,"$12,989 ",Facebook,Lifestlye,"Canada, District of Columbia",Sub_Urban,TRUE,FALSE,FALSE,030-0074321
+1915,9/4/1996 0:00,58,jesus,ocampo,female,Software Engineer,3,"$18,343 ",YouTube,Travel,"Canada, New Jersey",Rural,FALSE,FALSE,FALSE,(5) 555-4729
+1916,12/13/1996 0:00,62,jesus,ocampo,male,Marketer Manager,5,"$11,325 ",YouTube,Sports,"Canada, Oregon",Rural,FALSE,TRUE,TRUE,(5) 555-3932
+1917,1/27/1997 0:00,35,jesus,ocampo,non-binary,Student,8,"$19,493 ",Facebook,Travel,"Canada, Texas",Sub_Urban,FALSE,FALSE,FALSE,(171) 555-7788
+1918,7/9/1997 0:00,64,jesus,ocampo,non-binary,Marketer Manager,1,"$19,903 ",YouTube,Travel,"Canada, Texas",Sub_Urban,TRUE,TRUE,TRUE,0921-12 34 65
+1919,9/3/1997 0:00,53,jesus,ocampo,male,Student,5,"$15,127 ",Instagram,Sports,"Canada, Georgia",Sub_Urban,FALSE,FALSE,TRUE,0621-08460
+1920,11/5/1997 0:00,64,jesus,ocampo,female,Software Engineer,3,"$18,998 ",Instagram,Lifestlye,"Canada, ",Urban,FALSE,TRUE,FALSE,88.60.15.31
+1921,1/2/1998 0:00,39,jesus,ocampo,female,Marketer Manager,4,"$12,722 ",Instagram,Travel,"Canada, California",Urban,FALSE,TRUE,FALSE,(91) 555 22 82
+1922,4/2/1998 0:00,51,dorris,liebe,female,Marketer Manager,2,"$14,656 ",YouTube,Travel,"Canada, Virginia",Urban,FALSE,FALSE,TRUE,91.24.45.40
+1923,12/9/1996 0:00,64,alejandro,savely,female,Marketer Manager,9,"$11,325 ",Instagram,Lifestlye,"Canada, Illinois",Sub_Urban,FALSE,TRUE,TRUE,(604) 555-4729
+1924,1/13/1997 0:00,25,jay,kimmel,non-binary,Student,3,"$14,133 ",YouTube,Lifestlye,"Canada, Maryland",Sub_Urban,FALSE,TRUE,FALSE,(171) 555-1212
+1925,3/28/1997 0:00,57,brad,norvell,non-binary,Student,2,"$19,351 ",Instagram,Sports,"Canada, Maryland",Urban,FALSE,FALSE,FALSE,(1) 135-5555
+1926,8/26/1997 0:00,61,brad,norvell,non-binary,Student,9,"$12,869 ",Facebook,Lifestlye,"Canada, Missouri",Urban,FALSE,FALSE,TRUE,(5) 555-3392
+1927,9/10/1997 0:00,36,brad,norvell,non-binary,Software Engineer,7,"$11,242 ",YouTube,Lifestlye,"Canada, Pennsylvania",Sub_Urban,FALSE,TRUE,TRUE,0452-076545
+1928,11/7/1997 0:00,59,david,philippe,non-binary,Student,6,"$18,539 ",YouTube,Lifestlye,"Canada, Minnesota",Rural,FALSE,FALSE,TRUE,(11) 555-7647
+1929,11/11/1997 0:00,58,david,philippe,female,Software Engineer,1,"$11,831 ",Instagram,Sports,"Canada, ",Urban,FALSE,TRUE,FALSE,(171) 555-2282
+1930,12/23/1997 0:00,54,david,philippe,female,Marketer Manager,5,"$11,569 ",YouTube,Lifestlye,"Canada, ",Sub_Urban,FALSE,TRUE,TRUE,0241-039123
+1931,2/23/1998 0:00,23,tracy,hopkins,female,Marketer Manager,3,"$17,246 ",YouTube,Lifestlye,"Canada, MassachUnited States of America s of Americaetts",Sub_Urban,TRUE,FALSE,FALSE,40.67.88.88
+1932,3/4/1998 0:00,43,arthur,prichep,female,Software Engineer,1,"$11,918 ",Facebook,Sports,"Canada, Pennsylvania",Rural,TRUE,FALSE,TRUE,(171) 555-0297
+1933,3/2/1998 0:00,51,roland,schwarz,non-binary,Student,4,"$16,416 ",Facebook,Lifestlye,"Canada, Pennsylvania",Sub_Urban,FALSE,TRUE,FALSE,7675-3425
+1934,3/30/1998 0:00,62,roland,schwarz,non-binary,Software Engineer,2,"$13,232 ",Instagram,Lifestlye,"Canada, Colorado",Sub_Urban,FALSE,FALSE,FALSE,(11) 555-9857
+1935,4/27/2021 11:02,23,roland,schwarz,non-binary,Marketer Manager,2,"$13,758 ",Facebook,Sports,"Canada, MassachUnited States of America s of Americaetts",Urban,FALSE,FALSE,FALSE,(91) 555 94 44
+1936,8/12/1996 0:00,54,dorris,liebe,male,Marketer Manager,3,"$15,997 ",Instagram,Travel,"Canada, Pennsylvania",Urban,TRUE,TRUE,FALSE,20.16.10.16
+1937,8/26/1996 0:00,50,seth,vernon,female,Software Engineer,8,"$12,355 ",Instagram,Sports,"Canada, Idaho",Rural,TRUE,TRUE,TRUE,0695-34 67 21
+1938,8/30/1996 0:00,39,kelly,collister,female,Student,8,"$19,589 ",Instagram,Lifestlye,"Canada, California",Rural,TRUE,TRUE,FALSE,089-0877310
+1939,10/4/1996 0:00,38,christine,kargatis,non-binary,Student,7,"$11,824 ",YouTube,Lifestlye,"Canada, ",Sub_Urban,FALSE,TRUE,FALSE,40.32.21.21
+1940,11/11/1996 0:00,23,christine,kargatis,female,Software Engineer,6,"$17,280 ",Facebook,Lifestlye,"Canada, North Carolina",Urban,FALSE,TRUE,FALSE,011-4988260
+1941,12/3/1996 0:00,23,ross,devincentis,female,Software Engineer,9,"$14,060 ",Instagram,Sports,"Canada, Minnesota",Rural,FALSE,TRUE,TRUE,(1) 354-2534
+1942,1/24/1997 0:00,21,michael,paige,non-binary,Student,4,"$15,324 ",Facebook,Lifestlye,"Canada, California",Rural,FALSE,FALSE,TRUE,(93) 203 4560
+1943,3/12/1997 0:00,47,michael,paige,male,Marketer Manager,1,"$10,404 ",Instagram,Lifestlye,"Canada, ",Rural,TRUE,TRUE,TRUE,(95) 555 82 82
+1944,5/23/1997 0:00,28,mathew,reese,male,Software Engineer,8,"$11,721 ",Facebook,Sports,"Canada, ",Sub_Urban,FALSE,FALSE,TRUE,(11) 555-9482
+1945,5/7/1997 0:00,47,steve,chapman,male,Student,7,"$15,316 ",Facebook,Travel,"Canada, Utah",Urban,TRUE,FALSE,TRUE,(503) 555-7555
+1946,6/13/1997 0:00,48,jay,fein,non-binary,Student,7,"$13,845 ",Instagram,Travel,"Canada, New York",Rural,TRUE,TRUE,TRUE,(2) 283-2951
+1947,5/30/1997 0:00,41,jay,fein,female,Marketer Manager,3,"$14,210 ",YouTube,Lifestlye,"Canada, ",Urban,FALSE,FALSE,FALSE,(21) 555-0091
+1948,7/10/1997 0:00,26,emily,grady,non-binary,Marketer Manager,4,"$10,064 ",Facebook,Sports,"Canada, Minnesota",Rural,TRUE,TRUE,FALSE,(5) 555-1340
+1949,9/8/1997 0:00,20,emily,grady,non-binary,Marketer Manager,9,"$19,491 ",YouTube,Lifestlye,"Canada, ",Rural,TRUE,FALSE,FALSE,(503) 555-6874
+1950,10/22/1997 0:00,48,emily,grady,female,Marketer Manager,6,"$16,382 ",YouTube,Sports,"Canada, North Carolina",Urban,TRUE,TRUE,TRUE,2967 542
+1951,10/9/1997 0:00,57,emily,grady,male,Marketer Manager,5,"$19,607 ",Instagram,Sports,"Canada, Michigan",Urban,TRUE,TRUE,FALSE,(198) 555-8888
+1952,10/31/1997 0:00,54,emily,grady,male,Software Engineer,3,"$10,968 ",Instagram,Travel,"Canada, New York",Urban,FALSE,TRUE,FALSE,0555-09876
+1953,11/27/1997 0:00,53,darrin,sayre,non-binary,Student,9,"$10,368 ",Instagram,Travel,"Canada, Rhode Island",Sub_Urban,FALSE,TRUE,TRUE,30.59.84.10
+1954,12/9/1997 0:00,41,darrin,sayre,male,Software Engineer,5,"$18,424 ",Facebook,Sports,"Canada, Maryland",Rural,TRUE,FALSE,FALSE,61.77.61.10
+1955,1/19/1998 0:00,48,darrin,sayre,non-binary,Software Engineer,5,"$12,242 ",Instagram,Lifestlye,"Canada, Illinois",Sub_Urban,FALSE,FALSE,TRUE,(604) 555-3392
+1956,1/30/1998 0:00,23,darrin,sayre,non-binary,Software Engineer,4,"$15,002 ",Instagram,Travel,"Canada, ",Urban,TRUE,FALSE,FALSE,(509) 555-7969
+1957,2/12/1998 0:00,19,darrin,sayre,female,Software Engineer,4,"$13,083 ",Facebook,Lifestlye,"Canada, Georgia",Rural,FALSE,FALSE,TRUE,069-0245984
+1958,2/12/1998 0:00,37,darrin,sayre,female,Software Engineer,1,"$18,073 ",Facebook,Travel,"Canada, District of Columbia",Sub_Urban,FALSE,FALSE,TRUE,(415) 555-5938
+1959,3/16/1998 0:00,45,gary,zandusky,female,Marketer Manager,7,"$19,112 ",Instagram,Travel,"Canada, California",Rural,FALSE,TRUE,TRUE,(9) 331-6954
+1960,3/23/1998 0:00,28,phillina,ober,non-binary,Marketer Manager,9,"$18,880 ",Instagram,Lifestlye,"Canada, Nebraska",Sub_Urban,FALSE,TRUE,FALSE,(8) 34-56-12
+1961,4/7/1998 0:00,21,phillina,ober,female,Student,3,"$11,469 ",Instagram,Travel,"Canada, Georgia",Urban,FALSE,TRUE,FALSE,(503) 555-9573
+1962,4/10/1998 0:00,32,phillina,ober,male,Software Engineer,2,"$14,725 ",Instagram,Travel,"Canada, District of Columbia",Sub_Urban,TRUE,TRUE,TRUE,035-640230
+1963,4/21/1998 0:00,23,sung,shariari,male,Student,3,"$14,259 ",YouTube,Lifestlye,"Canada, ",Rural,FALSE,TRUE,TRUE,(02) 201 24 67
+1964,2/24/1997 0:00,47,sung,shariari,non-binary,Marketer Manager,1,"$13,622 ",YouTube,Travel,"Canada, Florida",Rural,TRUE,FALSE,FALSE,(514) 555-8054
+1965,10/27/1997 0:00,55,sung,shariari,non-binary,Marketer Manager,6,"$10,823 ",Instagram,Travel,"Canada, Texas",Rural,TRUE,TRUE,FALSE,0342-023176
+1966,2/4/1998 0:00,19,sung,shariari,female,Marketer Manager,7,"$13,431 ",YouTube,Travel,"Canada, New York",Rural,FALSE,TRUE,TRUE,(171) 555-7733
+1967,3/9/1998 0:00,32,maya,herman,non-binary,Software Engineer,2,"$16,528 ",Facebook,Lifestlye,"Canada, Texas",Urban,TRUE,FALSE,FALSE,(1) 135-5333
+1968,4/27/2021 11:02,28,maya,herman,non-binary,Software Engineer,8,"$14,151 ",YouTube,Sports,"Canada, ",Sub_Urban,FALSE,FALSE,FALSE,(907) 555-7584
+1969,7/25/1996 0:00,25,peter,bühler,male,Marketer Manager,6,"$14,213 ",YouTube,Lifestlye,"Canada, South Carolina",Urban,TRUE,TRUE,FALSE,0221-0644327
+1970,8/6/1996 0:00,43,roland,fjeld,male,Student,4,"$17,420 ",Instagram,Sports,"Canada, South Dakota",Urban,TRUE,TRUE,TRUE,(1) 42.34.22.66
+1971,9/5/1996 0:00,62,roland,fjeld,female,Student,5,"$18,989 ",YouTube,Travel,"Canada, New York",Urban,FALSE,FALSE,TRUE,(5) 552-3745
+1972,10/4/1996 0:00,61,roland,fjeld,non-binary,Marketer Manager,8,"$10,779 ",YouTube,Sports,"Canada, Washington",Rural,FALSE,TRUE,FALSE,6562-9722
+1973,10/8/1996 0:00,22,roland,fjeld,non-binary,Student,3,"$12,892 ",YouTube,Lifestlye,"Canada, ",Rural,FALSE,TRUE,TRUE,(1) 356-5634
+1974,11/8/1996 0:00,23,yoseph,carroll,male,Marketer Manager,3,"$15,534 ",YouTube,Lifestlye,"Canada, ",Rural,FALSE,TRUE,FALSE,(21) 555-4252
+1975,1/10/1997 0:00,43,melanie,seite,non-binary,Student,4,"$13,306 ",Facebook,Travel,"Canada, New Hampshire",Sub_Urban,TRUE,FALSE,FALSE,(11) 555-1189
+1976,3/21/1997 0:00,21,nona,balk,male,Marketer Manager,1,"$12,902 ",Instagram,Sports,"Canada, ",Rural,FALSE,TRUE,TRUE,0372-035188
+1977,6/16/1997 0:00,36,debra,catini,female,Student,9,"$13,718 ",Instagram,Travel,"Canada, Kansas",Sub_Urban,TRUE,TRUE,TRUE,(1) 123-5555
+1978,7/11/1997 0:00,37,debra,catini,male,Software Engineer,8,"$10,021 ",Facebook,Travel,"Canada, New York",Rural,TRUE,FALSE,TRUE,(505) 555-5939
+1979,7/18/1997 0:00,50,christine,phan,non-binary,Marketer Manager,8,"$11,500 ",YouTube,Lifestlye,"Canada, California",Rural,TRUE,FALSE,FALSE,0522-556721
+1980,12/8/1997 0:00,37,barry,französisch,female,Marketer Manager,6,"$19,034 ",Facebook,Sports,"Canada, Illinois",Urban,TRUE,FALSE,FALSE,(21) 555-3412
+1981,1/13/1998 0:00,29,andrew,roberts,male,Student,7,"$19,952 ",YouTube,Sports,"Canada, New York",Urban,TRUE,TRUE,TRUE,0897-034214
+1982,1/30/1998 0:00,64,julie,creighton,male,Marketer Manager,6,"$13,641 ",Facebook,Sports,"Canada, ",Urban,TRUE,FALSE,TRUE,(91) 745 6200
+1983,2/23/1998 0:00,18,lisa,hazard,female,Marketer Manager,9,"$15,212 ",Instagram,Sports,"Canada, Tennessee",Sub_Urban,FALSE,TRUE,TRUE,07-98 92 35
+1984,4/10/1998 0:00,43,chris,selesnick,female,Marketer Manager,3,"$10,191 ",Instagram,Travel,"Canada, ",Sub_Urban,TRUE,FALSE,FALSE,(208) 555-8097
+1985,4/14/1998 0:00,31,chris,selesnick,male,Software Engineer,3,"$18,587 ",Instagram,Travel,"Canada, New York",Rural,TRUE,TRUE,FALSE,(171) 555-1717
+1986,4/27/2021 11:02,55,chris,selesnick,non-binary,Software Engineer,3,"$17,174 ",YouTube,Lifestlye,"Canada, California",Sub_Urban,TRUE,FALSE,FALSE,31 12 34 56
+1987,9/3/1996 0:00,54,chris,selesnick,male,Student,3,"$15,114 ",YouTube,Travel,"Canada, Minnesota",Rural,FALSE,TRUE,TRUE,(1) 47.55.60.10
+1988,2/4/1997 0:00,28,chris,selesnick,female,Software Engineer,9,"$14,662 ",Facebook,Travel,"Canada, Texas",Sub_Urban,FALSE,TRUE,TRUE,(307) 555-4680
+1989,2/14/1997 0:00,53,anthony,johnson,male,Student,4,"$14,326 ",Facebook,Lifestlye,"Canada, Arizona",Sub_Urban,TRUE,FALSE,FALSE,(071) 23 67 22 20
+1990,6/12/1997 0:00,30,laurel,elliston,female,Software Engineer,7,"$19,065 ",Instagram,Lifestlye,"Canada, Wisconsin",Sub_Urban,FALSE,FALSE,TRUE,(503) 555-3612
+1991,7/9/1997 0:00,60,benjamin,venier,female,Student,9,"$14,335 ",YouTube,Lifestlye,"Canada, ",Urban,TRUE,TRUE,TRUE,(406) 555-5834
+1992,9/11/1997 0:00,20,benjamin,venier,non-binary,Software Engineer,7,"$18,281 ",Facebook,Travel,"Canada, Illinois",Sub_Urban,FALSE,FALSE,TRUE,0251-031259
+1993,12/5/1997 0:00,50,benjamin,venier,female,Software Engineer,9,"$18,648 ",YouTube,Travel,"Canada, Michigan",Urban,TRUE,TRUE,TRUE,(5) 555-2933
+1994,1/12/1998 0:00,23,benjamin,venier,female,Student,3,"$19,196 ",YouTube,Lifestlye,"Canada, Georgia",Urban,FALSE,FALSE,FALSE,(11) 555-2167
+1995,3/6/1998 0:00,27,benjamin,venier,non-binary,Marketer Manager,4,"$15,494 ",Instagram,Lifestlye,"Canada, California",Sub_Urban,FALSE,FALSE,TRUE,(206) 555-8257
+1996,3/18/1998 0:00,22,benjamin,venier,female,Marketer Manager,8,"$18,536 ",Instagram,Lifestlye,"Canada, Indiana",Rural,FALSE,TRUE,FALSE,86 21 32 43
+1997,4/21/1998 0:00,40,dan,lawera,non-binary,Software Engineer,6,"$12,711 ",YouTube,Travel,"Canada, New York",Rural,TRUE,FALSE,FALSE,78.32.54.86
+1998,4/27/2021 11:02,27,nick,zandusky,     non-binary,Student,5,"$17,595 ",YouTube,Travel,"Canada, ",Rural,TRUE,FALSE,TRUE,26.47.15.10
+1999,8/28/1996 0:00,61,nick,zandusky,female,Marketer Manager,4,"$16,273 ",YouTube,Sports,"Canada, Kentucky",Sub_Urban,TRUE,TRUE,FALSE,0711-020361
+2000,9/13/1996 0:00,19,nick,zandusky,female,Student,8,"$16,284 ",YouTube,Travel,"Canada, California",Rural,FALSE,TRUE,FALSE,981-443655
